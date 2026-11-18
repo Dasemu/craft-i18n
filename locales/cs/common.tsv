@@ -25,6 +25,7 @@
 	Absolute	Absolutní
 	Absolute Colorimetric	Absolutní kolorimetrický
 	Accented Edges	Zdůrazněné okraje
+	Access	Přístup
 	Accessibility	Přístupnost
 	Accurate	Přesné
 	Actions	Akce
@@ -34,7 +35,9 @@
 	Adaptive	Adaptivní
 	Add	Přidat
 	Add a comment	Přidat komentář
+	Add Catalog	Přidat katalog
 	Add Guide	Přidat vodítko
+	Add Plug-in Catalog	Přidat katalog zásuvných modulů
 	Add to Dictionary	Přidat do slovníku
 	Add to favorites	Přidat do oblíbených
 	Add to Swatches	Přidat do vzorníku
@@ -71,6 +74,7 @@
 	Anti-Alias	Vyhlazování
 	Anti-alias	Vyhlazování
 	Any	Libovolné
+	Any command its access allows	Jakýkoli příkaz, který jeho přístup dovoluje
 	Appearance	Vzhled
 theme	Appearance	Motiv
 	Appearance Settings…	Nastavení vzhledu…
@@ -150,6 +154,7 @@ theme	Appearance	Motiv
 	Bring to Front	Přenést do popředí
 	Brown	Hnědá
 	Browse	Procházet
+	Browse Catalogs	Procházet katalogy
 	Browse…	Procházet…
 	Brush Size	Velikost štětce
 	Brush Strokes	Tahy štětcem
@@ -157,11 +162,13 @@ theme	Appearance	Motiv
 	Bulge	Vyboulení
 	Bullet	Odrážka
 	Burlap	Pytlovina
+	By {author}	Autor: {author}
 	Calculate	Výpočet
 	Cancel	Zrušit
 	Canvas	Plátno
 	Caption	Popisek
 	Cascade	Do kaskády
+	Catalogs	Katalogy
 	Category	Kategorie
 	Category:	Kategorie:
 	Cell Size	Velikost buňky
@@ -230,6 +237,7 @@ theme	Appearance	Motiv
 	Columns:	Sloupce:
 	Combine	Zkombinovat
 	Command	Příkaz
+	Commands	Příkazy
 	Commands:	Příkazy:
 	Comment	Komentář
 	Comments	Komentáře
@@ -351,6 +359,7 @@ theme	Appearance	Motiv
 	Double-click	Dvojklik
 	Down	Dolů
 	Download	Stáhnout
+	Downloading…	Stahování…
 	Draft	Koncept
 	Draw	Kreslení
 	Drop Shadow	Vržený stín
@@ -401,6 +410,7 @@ theme	Appearance	Motiv
 	Error	Chyba
 	Even Fields	Sudé půlsnímky
 	Even pages only	Pouze sudé stránky
+	Every plug-in is up to date.	Všechny zásuvné moduly jsou aktuální.
 	Exact	Přesná
 	Example: {sample}	Příklad: {sample}
 	Exclusion	Vyloučit
@@ -471,6 +481,7 @@ theme	Appearance	Motiv
 	French	Francouzština
 	Frequency	Frekvence
 	From	Od
+	From File…	Ze souboru…
 	Frosted	Matné sklo
 	Full	Úplná
 	Full Screen	Celá obrazovka
@@ -487,6 +498,7 @@ theme	Appearance	Motiv
 	Geometry	Geometrie
 	German	Němčina
 	GitHub	GitHub
+	GitHub repository	Repozitář na GitHubu
 	Glass	Sklo
 	Global	Globální
 	Glow	Záře
@@ -570,8 +582,12 @@ theme	Appearance	Motiv
 	Insert	Vložení
 	Inside	Uvnitř
 	Inspect Document	Prozkoumat dokument
+	Install	Nainstalovat
+	Install from File…	Nainstalovat ze souboru…
 	Install Plug-in	Nainstalovat zásuvný modul
 	Install Plug-in…	Nainstalovat zásuvný modul…
+	Installed {name}.	Nainstalováno: {name}.
+	Install…	Nainstalovat…
 	Intensity	Intenzita
 	Interface	Rozhraní
 	Interface Language	Jazyk rozhraní
@@ -584,6 +600,7 @@ theme	Appearance	Motiv
 	Invert	Invertovat
 	Invert Mask	Invertovat masku
 	Isolate	Izolovat
+	It is kept for this session only.	Zachová se jen pro tuto relaci.
 	Italian	Italština
 	Italic	Kurzíva
 	Japanese	Japonština
@@ -684,6 +701,7 @@ theme	Appearance	Motiv
 	Magenta	Purpurová
 	Magic Wand Tool	Nástroj Kouzelná hůlka
 	Magnification	Zvětšení
+	Manage Plug-ins…	Spravovat zásuvné moduly…
 	Margins	Okraje
 	Mask	Maska
 	Masks	Masky
@@ -770,6 +788,7 @@ theme	Appearance	Motiv
 	No limit	Bez omezení
 	No matches.	Žádné shody.
 	No matching commands	Žádné odpovídající příkazy
+	No plug-ins installed.	Nejsou nainstalovány žádné zásuvné moduly.
 	No recent files	Žádné nedávné soubory
 	No results	Žádné výsledky
 	No Selection	Nic není vybráno
@@ -858,6 +877,7 @@ theme	Appearance	Motiv
 	Pixelate	Pixelizace
 	Pixels	Obrazové body
 	Play	Přehrát
+	Plug-in Catalogs	Katalogy zásuvných modulů
 	Plug-ins	Zásuvné moduly
 	Point	Bodové
 	Pointillize	Pointilismus
@@ -945,6 +965,7 @@ theme	Appearance	Motiv
 	Remove	Odebrat
 	Remove Background	Odstranit pozadí
 	Remove from favorites	Odebrat z oblíbených
+	Remove Plug-in	Odebrat zásuvný modul
 	Rename	Přejmenovat
 	Rename Group…	Přejmenovat skupinu…
 	Rename Style	Přejmenovat styl
@@ -952,6 +973,7 @@ theme	Appearance	Motiv
 	Repeat	Opakovat
 	Replace	Nahradit
 	Replace:	Nahradit:
+	Replaces version {version}.	Nahrazuje verzi {version}.
 	Reply	Odpovědět
 	Report	Zpráva
 	Report an Issue…	Nahlásit problém…
@@ -971,6 +993,7 @@ theme	Appearance	Motiv
 	Reverse the order	Obrátit pořadí
 	Revert	Vrátit k uložené verzi
 	Review	Revize
+	Review…	Zkontrolovat…
 	RGB	RGB
 	RGB Color	Barvy RGB
 	RGB:	RGB:
@@ -988,6 +1011,8 @@ theme	Appearance	Motiv
 	Ruler	Pravítko
 	Rulers	Pravítka
 	Rulers & Grids	Pravítka a mřížky
+	Run	Spustit
+	Run Plug-in	Spustit zásuvný modul
 	Russian	Ruština
 	Sample Size	Velikost vzorku
 	Sandstone	Pískovec
@@ -1157,10 +1182,13 @@ theme	Appearance	Motiv
 	Text color	Barva textu
 	Text:	Text:
 	Texture	Textura
+	The download stopped.	Stahování se přerušilo.
 	The passwords don't match.	Hesla se neshodují.
 	Theme	Motiv
 	Thickness	Tloušťka
 	This document has no bookmarks.	Tento dokument nemá žádné záložky.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Tento zásuvný modul není v žádném katalogu, který používáte: nainstalujte ho, jen pokud důvěřujete jeho autorovi.
+	This version asks for different permissions.	Tato verze žádá o jiná oprávnění.
 	Threshold	Práh
 	Thumbnails	Miniatury
 	Tile	Vedle sebe
@@ -1213,7 +1241,10 @@ theme	Appearance	Motiv
 	Untitled	Bez názvu
 	Up	Nahoru
 	Update	Aktualizovat
+	Update Plug-ins	Aktualizovat zásuvné moduly
+	Update to {version}	Aktualizovat na {version}
 	Updates	Aktualizace
+	Update…	Aktualizovat…
 	UPPERCASE	VELKÁ PÍSMENA
 	Use Default	Použít výchozí
 	User	Uživatel

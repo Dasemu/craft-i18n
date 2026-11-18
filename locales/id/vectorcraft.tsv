@@ -2968,7 +2968,6 @@ effect	Regular	Reguler
 	Remove Guide	Hapus panduan
 	Remove Item	Hapus item
 	Remove JavaScript File	Hapus file JavaScript
-	Remove Plug-in	Hapus plug-in
 	Remove Selected Assets	Hapus aset terpilih
 	Remove Selected Entry	Hapus entri terpilih
 	Remove the shortcut	Hapus pintasan
@@ -3126,7 +3125,6 @@ swatch	Rose	Mawar
 	Rule:	Aturan:
 	Ruler Origin	Titik asal penggaris
 	Run Length	Run Length
-	Run Plug-in	Jalankan plug-in
 	Runs code the checker can't read	Menjalankan kode yang tidak dapat dibaca oleh pemeriksa
 swatch	Rust	Karat
 	Same	Sama

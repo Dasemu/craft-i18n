@@ -2729,7 +2729,6 @@ effect	Regular	Normale
 	Remove Guide	Rimuovi guida
 	Remove Item	Rimuovi elemento
 	Remove JavaScript File	Rimuovi file JavaScript
-	Remove Plug-in	Rimuovi plug-in
 	Remove Selected Assets	Rimuovi risorse selezionate
 	Remove Selected Entry	Rimuovi voce selezionata
 	Remove Threading	Rimuovi concatenamento
@@ -2871,7 +2870,6 @@ diagnostics	render	rendering
 	Rows:	Righe:
 	Rule:	Regola:
 	Ruler Origin	Origine dei righelli
-	Run Plug-in	Esegui plug-in
 	Runs code the checker can't read	Esegue codice che il controllo non può leggere
 	Same	Uguale
 	Same As Source	Uguale all'origine

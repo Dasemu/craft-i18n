@@ -2254,7 +2254,6 @@ gradient-kind	Radial	放射狀
 	Remove Guide	移除參考線
 	Remove Item	移除項目
 	Remove JavaScript File	移除 JavaScript 檔案
-	Remove Plug-in	移除增效模組
 	Remove Selected Assets	移除所選資產
 	Remove Selected Entry	移除選取的項目
 	Remove Threading	移除串連
@@ -2390,7 +2389,6 @@ diagnostics	render	繪製
 	Rows:	列數：
 	Rule:	規則線：
 	Ruler Origin	尺標原點
-	Run Plug-in	執行增效模組
 	Runs code the checker can't read	執行檢查無法讀取的程式碼
 	Same	相同
 	Same As Source	與來源相同

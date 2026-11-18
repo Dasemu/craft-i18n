@@ -78,7 +78,6 @@ month	Dec	déc.
 	Download paused	Téléchargement en pause
 	Downloading	Téléchargement
 	Downloading {done} of {total}	Téléchargement de {done} sur {total}
-	Downloading…	Téléchargement…
 	Downloads for {platform}	Téléchargements pour {platform}
 	Downloads the new version, replaces this one and opens it again	Télécharge la nouvelle version, remplace celle-ci et la rouvre
 	Enlarge picture	Agrandir l'image
@@ -92,7 +91,6 @@ month	Feb	févr.
 	Flatpak bundle	Paquet Flatpak
 	Full changelog	Journal des modifications complet
 	GitHub limit hit; back in {min} min	Limite GitHub atteinte ; retour dans {min} min
-	GitHub repository	Dépôt GitHub
 	GitHub's hourly limit was reached; full details return in {min} min	La limite horaire de GitHub a été atteinte ; les détails complets reviennent dans {min} min
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -102,7 +100,6 @@ month	Feb	févr.
 photocraft	Image editing	Retouche d'images
 	Include pre-releases (betas and release candidates)	Inclure les préversions (bêtas et versions candidates)
 	Inspired by	Inspirée de
-	Install	Installer
 	Install cancelled	Installation annulée
 	Install cancelled. The download is kept for the next try.	Installation annulée. Le téléchargement est conservé pour la prochaine tentative.
 	Install folder	Dossier d’installation

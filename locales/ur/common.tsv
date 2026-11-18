@@ -12,3 +12,34 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	اردو
+	Access	رسائی
+	Add Catalog	کیٹلاگ شامل کریں
+	Add Plug-in Catalog	پلگ ان کیٹلاگ شامل کریں
+	Any command its access allows	کوئی بھی کمانڈ جس کی اس کی رسائی اجازت دیتی ہے
+	Browse Catalogs	کیٹلاگ دیکھیں
+	By {author}	از {author}
+	Catalogs	کیٹلاگ
+	Commands	کمانڈز
+	Downloading…	ڈاؤن لوڈ ہو رہا ہے…
+	Every plug-in is up to date.	تمام پلگ انز تازہ ترین ہیں۔
+	From File…	فائل سے…
+	GitHub repository	GitHub ریپوزٹری
+	Install	نصب کریں
+	Install from File…	فائل سے نصب کریں…
+	Installed {name}.	{name} نصب ہو گیا۔
+	Install…	نصب کریں…
+	It is kept for this session only.	یہ صرف اس سیشن کے لیے رکھا جاتا ہے۔
+	Manage Plug-ins…	پلگ انز کا انتظام کریں…
+	No plug-ins installed.	کوئی پلگ ان نصب نہیں۔
+	Plug-in Catalogs	پلگ ان کیٹلاگ
+	Remove Plug-in	پلگ ان ہٹائیں
+	Replaces version {version}.	ورژن {version} کی جگہ لیتا ہے۔
+	Review…	جائزہ لیں…
+	Run	چلائیں
+	Run Plug-in	پلگ ان چلائیں
+	The download stopped.	ڈاؤن لوڈ رک گیا۔
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	یہ پلگ ان آپ کے استعمال کردہ کسی کیٹلاگ میں نہیں: اسے صرف تب نصب کریں جب آپ اس کے مصنف پر بھروسا کرتے ہوں۔
+	This version asks for different permissions.	یہ ورژن مختلف اجازتیں مانگتا ہے۔
+	Update Plug-ins	پلگ انز اپ ڈیٹ کریں
+	Update to {version}	{version} پر اپ ڈیٹ کریں
+	Update…	اپ ڈیٹ کریں…

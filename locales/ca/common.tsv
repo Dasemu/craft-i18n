@@ -13,3 +13,34 @@
 
 @id	language.name	Català
 @plural	{n} byte|{n} bytes	{n} byte|{n} bytes
+	Access	Accés
+	Add Catalog	Afegeix un catàleg
+	Add Plug-in Catalog	Afegeix un catàleg de connectors
+	Any command its access allows	Qualsevol ordre que el seu accés permeti
+	Browse Catalogs	Explora els catàlegs
+	By {author}	De {author}
+	Catalogs	Catàlegs
+	Commands	Ordres
+	Downloading…	S’està baixant…
+	Every plug-in is up to date.	Tots els connectors estan actualitzats.
+	From File…	Des d’un fitxer…
+	GitHub repository	Repositori de GitHub
+	Install	Instal·la
+	Install from File…	Instal·la des d’un fitxer…
+	Installed {name}.	S’ha instal·lat {name}.
+	Install…	Instal·la…
+	It is kept for this session only.	Només es conserva durant aquesta sessió.
+	Manage Plug-ins…	Gestiona els connectors…
+	No plug-ins installed.	No hi ha cap connector instal·lat.
+	Plug-in Catalogs	Catàlegs de connectors
+	Remove Plug-in	Elimina el connector
+	Replaces version {version}.	Substitueix la versió {version}.
+	Review…	Revisa…
+	Run	Executa
+	Run Plug-in	Executa el connector
+	The download stopped.	La baixada s’ha aturat.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Aquest connector no és a cap catàleg que utilitzeu: instal·leu-lo només si confieu en el seu autor.
+	This version asks for different permissions.	Aquesta versió demana permisos diferents.
+	Update Plug-ins	Actualitza els connectors
+	Update to {version}	Actualitza a {version}
+	Update…	Actualitza…

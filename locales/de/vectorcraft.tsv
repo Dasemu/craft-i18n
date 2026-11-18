@@ -2715,7 +2715,6 @@ effect	Regular	Regelmäßig
 	Remove Guide	Hilfslinie entfernen
 	Remove Item	Element entfernen
 	Remove JavaScript File	JavaScript-Datei entfernen
-	Remove Plug-in	Plug-in entfernen
 	Remove Selected Assets	Ausgewählte Assets entfernen
 	Remove Selected Entry	Ausgewählten Eintrag entfernen
 	Remove Threading	Verkettung entfernen
@@ -2858,7 +2857,6 @@ diagnostics	render	Rendern
 	Rows:	Zeilen:
 	Rule:	Regel:
 	Ruler Origin	Linealursprung
-	Run Plug-in	Plug-in ausführen
 	Runs code the checker can't read	Führt Code aus, den die Prüfung nicht lesen kann
 	Same	Gleich
 	Same As Source	Wie Quelle

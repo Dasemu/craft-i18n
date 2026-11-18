@@ -25,6 +25,7 @@
 	Absolute	Абсолютно
 	Absolute Colorimetric	Абсолютный колориметрический
 	Accented Edges	Акцент на краях
+	Access	Доступ
 	Accessibility	Специальные возможности
 	Accurate	Точный
 	Actions	Действия
@@ -34,7 +35,9 @@
 	Adaptive	Адаптивный
 	Add	Добавить
 	Add a comment	Добавить комментарий
+	Add Catalog	Добавить каталог
 	Add Guide	Добавить направляющую
+	Add Plug-in Catalog	Добавить каталог модулей
 	Add to Dictionary	Добавить в словарь
 	Add to favorites	Добавить в избранное
 	Add to Swatches	Добавить в образцы
@@ -71,6 +74,7 @@
 	Anti-Alias	Сглаживание
 	Anti-alias	Сглаживание
 	Any	Любое
+	Any command its access allows	Любая команда, которую разрешает его доступ
 	Appearance	Внешний вид
 theme	Appearance	Оформление
 	Appearance Settings…	Настройки оформления…
@@ -151,6 +155,7 @@ theme	Appearance	Оформление
 	Bring to Front	На передний план
 	Brown	Коричневый
 	Browse	Обзор
+	Browse Catalogs	Обзор каталогов
 	Browse…	Обзор…
 	Brush Size	Размер кисти
 	Brush Strokes	Мазки кисти
@@ -158,12 +163,14 @@ theme	Appearance	Оформление
 	Bulge	Выпуклость
 	Bullet	Маркер
 	Burlap	Мешковина
+	By {author}	Автор: {author}
 	Calculate	Вычислить
 	Cancel	Отмена
 	Canvas	Холст
 	Caption	Подпись
 	Cascade	Каскад
 	Case Sensitive	С учётом регистра
+	Catalogs	Каталоги
 	Category	Категория
 	Category:	Категория:
 	Cell Size	Размер ячейки
@@ -233,6 +240,7 @@ theme	Appearance	Оформление
 	Columns:	Столбцы:
 	Combine	Объединить
 	Command	Команда
+	Commands	Команды
 	Commands:	Команды:
 	Comment	Комментарий
 	Comments	Комментарии
@@ -358,6 +366,7 @@ theme	Appearance	Оформление
 	Double-click	Двойной щелчок
 	Down	Вниз
 	Download	Скачать
+	Downloading…	Скачивание…
 	Draft	Черновое
 	Draw	Рисование
 	Drop Shadow	Тень
@@ -408,6 +417,7 @@ theme	Appearance	Оформление
 	Error	Ошибка
 	Even Fields	Чётные поля
 	Even pages only	Только чётные страницы
+	Every plug-in is up to date.	Все модули обновлены.
 	Exact	Точно
 	Example: {sample}	Пример: {sample}
 	Exclusion	Исключение
@@ -479,6 +489,7 @@ theme	Appearance	Оформление
 	French	Французский
 	Frequency	Частота
 	From	С
+	From File…	Из файла…
 	Frosted	Матовое
 	Full	Полная
 	Full Screen	Во весь экран
@@ -495,6 +506,7 @@ theme	Appearance	Оформление
 	Geometry	Геометрия
 	German	Немецкий
 	GitHub	GitHub
+	GitHub repository	Репозиторий GitHub
 	Glass	Стекло
 	Global	Глобальный
 	Glow	Свечение
@@ -578,8 +590,12 @@ theme	Appearance	Оформление
 	Insert	Вставка
 	Inside	Внутри
 	Inspect Document	Проверить документ
+	Install	Установить
+	Install from File…	Установить из файла…
 	Install Plug-in	Установить модуль
 	Install Plug-in…	Установить модуль…
+	Installed {name}.	Установлено: {name}.
+	Install…	Установить…
 	Intensity	Интенсивность
 	Interface	Интерфейс
 	Interface Language	Язык интерфейса
@@ -592,6 +608,7 @@ theme	Appearance	Оформление
 	Invert	Инверсия
 	Invert Mask	Инвертировать маску
 	Isolate	Изолировать
+	It is kept for this session only.	Он сохраняется только на этот сеанс.
 	Italian	Итальянский
 	Italic	Курсив
 	Japanese	Японский
@@ -692,6 +709,7 @@ theme	Appearance	Оформление
 	Magenta	Пурпурный
 	Magic Wand Tool	Инструмент «Волшебная палочка»
 	Magnification	Масштаб
+	Manage Plug-ins…	Управление модулями…
 	Margins	Поля
 	Mask	Маска
 	Masks	Маски
@@ -778,6 +796,7 @@ theme	Appearance	Оформление
 	No limit	Без ограничения
 	No matches.	Совпадений нет.
 	No matching commands	Нет подходящих команд
+	No plug-ins installed.	Модули не установлены.
 	No recent files	Нет недавних файлов
 	No results	Ничего не найдено
 	No Selection	Нет выделения
@@ -866,6 +885,7 @@ theme	Appearance	Оформление
 	Pixelate	Пикселизация
 	Pixels	Пиксели
 	Play	Воспроизвести
+	Plug-in Catalogs	Каталоги модулей
 	Plug-ins	Модули
 	Point	Точка
 	Pointillize	Пуантилизм
@@ -953,6 +973,7 @@ theme	Appearance	Оформление
 	Remove	Удалить
 	Remove Background	Удалить фон
 	Remove from favorites	Удалить из избранного
+	Remove Plug-in	Убрать модуль
 	Rename	Переименовать
 	Rename Group…	Переименовать группу…
 	Rename Style	Переименовать стиль
@@ -960,6 +981,7 @@ theme	Appearance	Оформление
 	Repeat	Повторить
 	Replace	Заменить
 	Replace:	Заменить:
+	Replaces version {version}.	Заменяет версию {version}.
 	Reply	Ответить
 	Report	Отчёт
 	Report an Issue…	Сообщить о проблеме…
@@ -979,6 +1001,7 @@ theme	Appearance	Оформление
 	Reverse the order	Обратный порядок
 	Revert	Восстановить
 	Review	Рецензирование
+	Review…	Просмотреть…
 	RGB	RGB
 	RGB Color	Цвет RGB
 	RGB:	RGB:
@@ -996,6 +1019,8 @@ theme	Appearance	Оформление
 	Ruler	Линейка
 	Rulers	Линейки
 	Rulers & Grids	Линейки и сетки
+	Run	Запустить
+	Run Plug-in	Запустить модуль
 	Russian	Русский
 	Sample Size	Размер образца
 	Sandstone	Песчаник
@@ -1166,10 +1191,13 @@ theme	Appearance	Оформление
 	Text color	Цвет текста
 	Text:	Текст:
 	Texture	Текстура
+	The download stopped.	Скачивание прервалось.
 	The passwords don't match.	Пароли не совпадают.
 	Theme	Тема
 	Thickness	Толщина
 	This document has no bookmarks.	В этом документе нет закладки.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Этого модуля нет ни в одном из ваших каталогов: устанавливайте его, только если доверяете его автору.
+	This version asks for different permissions.	Эта версия запрашивает другие разрешения.
 	Threshold	Порог
 	Thumbnails	Миниатюры
 	Tile	Плитка
@@ -1222,7 +1250,10 @@ theme	Appearance	Оформление
 	Untitled	Без названия
 	Up	Вверх
 	Update	Обновить
+	Update Plug-ins	Обновить модули
+	Update to {version}	Обновить до {version}
 	Updates	Обновления
+	Update…	Обновить…
 	UPPERCASE	ПРОПИСНЫЕ
 	Use Default	Использовать по умолчанию
 	User	Пользователь

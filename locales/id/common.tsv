@@ -24,6 +24,7 @@
 	Absolute	Absolut
 	Absolute Colorimetric	Kolorimetrik absolut
 	Accented Edges	Tepi beraksen
+	Access	Akses
 	Accurate	Akurat
 	Actions	Tindakan
 	Activate Panel	Aktifkan panel
@@ -31,7 +32,9 @@
 	Actual Size	Ukuran sebenarnya
 	Adaptive	Adaptif
 	Add	Tambah
+	Add Catalog	Tambah katalog
 	Add Guide	Tambahkan panduan
+	Add Plug-in Catalog	Tambah katalog plug-in
 	Add to Dictionary	Tambahkan ke Kamus
 	Add to favorites	Tambahkan ke favorit
 	Add to Swatches	Tambahkan ke Swatches
@@ -64,6 +67,7 @@
 	Anti-Alias	Anti-alias
 	Anti-alias	Anti-alias
 	Any	Salah Satu
+	Any command its access allows	Perintah apa pun yang diizinkan aksesnya
 	Appearance	Tampilan
 theme	Appearance	Tampilan
 	Appearance Settings…	Pengaturan Tampilan…
@@ -138,6 +142,7 @@ theme	Appearance	Tampilan
 	Bring to Front	Bawa ke Depan
 	Brown	Cokelat
 	Browse	Telusuri
+	Browse Catalogs	Telusuri katalog
 	Browse…	Telusuri…
 	Brush Size	Ukuran Kuas
 	Brush Strokes	Sapuan kuas
@@ -145,12 +150,14 @@ theme	Appearance	Tampilan
 	Bulge	Gembung
 	Bullet	Poin
 	Burlap	Goni
+	By {author}	Oleh {author}
 	Calculate	Hitung
 	Cancel	Batal
 	Canvas	Kanvas
 	Caption	Keterangan
 	Cascade	Bertingkat
 	Case Sensitive	Peka Huruf Besar/Kecil
+	Catalogs	Katalog
 	Category	Kategori
 	Category:	Kategori:
 	Cell Size	Ukuran sel
@@ -212,6 +219,7 @@ theme	Appearance	Tampilan
 	Columns	Kolom
 	Columns:	Kolom:
 	Command	Perintah
+	Commands	Perintah
 	Commands:	Perintah:
 	Comment	Komentar
 	Commits	Commit
@@ -325,6 +333,7 @@ theme	Appearance	Tampilan
 	Double-click	Klik ganda
 	Down	Bawah
 	Download	Unduh
+	Downloading…	Mengunduh…
 	Draft	Draf
 	Draw	Menggambar
 	Drop Shadow	Bayangan Jatuh
@@ -369,6 +378,7 @@ theme	Appearance	Tampilan
 	Eraser Tool	Alat penghapus
 	Error	Galat
 	Even Fields	Bidang genap
+	Every plug-in is up to date.	Semua plug-in sudah mutakhir.
 	Exact	Eksak
 	Exclusion	Pengecualian
 	Exit	Keluar
@@ -433,6 +443,7 @@ theme	Appearance	Tampilan
 	French	Prancis
 	Frequency	Frekuensi
 	From	Dari
+	From File…	Dari file…
 	Frosted	Buram
 	Full	Penuh
 	Full Screen Mode	Mode layar penuh
@@ -447,6 +458,7 @@ theme	Appearance	Tampilan
 	Generate	Buat
 	German	Jerman
 	GitHub	GitHub
+	GitHub repository	Repositori GitHub
 	Glass	Kaca
 	Global	Global
 	Glow	Pendar
@@ -525,8 +537,12 @@ theme	Appearance	Tampilan
 	Insert	Sisipkan
 	Inside	Di Dalam
 	Inspect Document	Periksa dokumen
+	Install	Instal
+	Install from File…	Instal dari file…
 	Install Plug-in	Pasang plug-in
 	Install Plug-in…	Instal plug-in…
+	Installed {name}.	{name} terinstal.
+	Install…	Instal…
 	Intensity	Intensitas
 	Interface	Antarmuka
 	Interface Language	Bahasa antarmuka
@@ -536,6 +552,7 @@ theme	Appearance	Tampilan
 	Invert	Balikkan
 	Invert Mask	Balikkan masker
 	Isolate	Isolasi
+	It is kept for this session only.	Plug-in ini hanya disimpan untuk sesi ini.
 	Italian	Italia
 	Italic	Miring
 	Japanese	Jepang
@@ -633,6 +650,7 @@ theme	Appearance	Tampilan
 	Magenta	Magenta
 	Magic Wand Tool	Alat tongkat ajaib
 	Magnification	Pembesaran
+	Manage Plug-ins…	Kelola plug-in…
 	Mask	Masker
 	Masks	Masker
 	Matte	Matte
@@ -713,6 +731,7 @@ theme	Appearance	Tampilan
 	No document open	Tidak ada dokumen terbuka
 	No matches.	Tidak ada yang cocok.
 	No matching commands	Tidak ada perintah yang cocok
+	No plug-ins installed.	Tidak ada plug-in yang terinstal.
 	No results	Tidak ada hasil
 	No Selection	Tidak ada seleksi
 	No selection	Tidak ada seleksi
@@ -795,6 +814,7 @@ theme	Appearance	Tampilan
 	Pixelate	Pikselasi
 	Pixels	Piksel
 	Play	Putar
+	Plug-in Catalogs	Katalog plug-in
 	Plug-ins	Plug-in
 	Pointillize	Pointillisme
 	Pointillize…	Pointillisme…
@@ -874,6 +894,7 @@ theme	Appearance	Tampilan
 	Remove	Hapus
 	Remove Background	Hapus Background
 	Remove from favorites	Hapus dari favorit
+	Remove Plug-in	Hapus plug-in
 	Rename	Ganti Nama
 	Rename Group…	Ganti nama grup…
 	Rename Style	Ganti nama gaya
@@ -881,6 +902,7 @@ theme	Appearance	Tampilan
 	Repeat	Perulangan
 	Replace	Ganti
 	Replace:	Ganti:
+	Replaces version {version}.	Menggantikan versi {version}.
 	Report an Issue…	Laporkan Masalah…
 	Reselect	Seleksi ulang
 	Reset	Atur ulang
@@ -897,6 +919,7 @@ theme	Appearance	Tampilan
 	Reverse the order	Balik urutan
 	Revert	Kembalikan
 	Review	Tinjauan
+	Review…	Tinjau…
 	RGB	RGB
 	RGB Color	Warna RGB
 	RGB:	RGB:
@@ -914,6 +937,8 @@ theme	Appearance	Tampilan
 	Ruler	Penggaris
 	Rulers	Penggaris
 	Rulers & Grids	Penggaris & kisi
+	Run	Jalankan
+	Run Plug-in	Jalankan plug-in
 	Russian	Rusia
 	Sample Size	Ukuran Sampel
 	Sandstone	Batu pasir
@@ -1077,8 +1102,11 @@ theme	Appearance	Tampilan
 	Text color	Warna teks
 	Text:	Teks:
 	Texture	Tekstur
+	The download stopped.	Unduhan terhenti.
 	Theme	Tema
 	Thickness	Ketebalan
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Plug-in ini tidak ada di katalog mana pun yang Anda gunakan: instal hanya jika Anda memercayai pembuatnya.
+	This version asks for different permissions.	Versi ini meminta izin yang berbeda.
 	Threshold	Ambang batas
 	Thumbnails	Gambar Mini
 	Tile	Ubin
@@ -1126,6 +1154,9 @@ theme	Appearance	Tampilan
 	Unsaved changes	Perubahan belum disimpan
 	Unsharp Mask	Unsharp Mask
 	Untitled	Tanpa Judul
+	Update Plug-ins	Perbarui plug-in
+	Update to {version}	Perbarui ke {version}
+	Update…	Perbarui…
 	UPPERCASE	HURUF BESAR
 	Use Default	Gunakan default
 	User	Pengguna

@@ -2320,7 +2320,6 @@ certificate	Public key	공개 키
 	Row spacing	행 간격
 	rows have between {min} and {max} columns	행의 열 수가 {min}~{max}개입니다
 	Rule Name	규칙 이름
-	Run	실행
 	Run a JavaScript	JavaScript 실행
 	Run form script	양식 스크립트 실행
 	Run JavaScript	JavaScript 실행

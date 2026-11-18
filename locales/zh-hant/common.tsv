@@ -23,6 +23,7 @@
 	Absolute	絕對
 	Absolute Colorimetric	絕對色度
 	Accented Edges	強調邊緣
+	Access	存取權限
 	Accessibility	無障礙支援
 	Accurate	精確
 	Actions	動作
@@ -32,7 +33,9 @@
 	Adaptive	適應性
 	Add	新增
 	Add a comment	新增註解
+	Add Catalog	新增目錄
 	Add Guide	新增參考線
+	Add Plug-in Catalog	新增增效模組目錄
 	Add to Dictionary	加入字典
 	Add to favorites	加入最愛
 	Add to Swatches	新增至色票
@@ -68,6 +71,7 @@
 	Anti-Alias	消除鋸齒
 	Anti-alias	消除鋸齒
 	Any	任何
+	Any command its access allows	其存取權限允許的任何命令
 	Appearance	外觀
 	Appearance Settings…	外觀設定…
 	Application	應用程式
@@ -143,16 +147,19 @@
 	Brightness	亮度
 	Bring Forward	前移
 	Bring to Front	移至最前
+	Browse Catalogs	瀏覽目錄
 	Browse…	瀏覽…
 	Brush Strokes	筆刷筆畫
 	Brushes	筆刷
 	Bullet	項目符號
 	Burlap	粗麻布
+	By {author}	作者：{author}
 	Calculate	計算
 	Cancel	取消
 	Canvas	畫布
 	Caption	標號
 	Cascade	重疊顯示
+	Catalogs	目錄
 	Category:	類別：
 	Cell Size	單元大小
 	Center	置中
@@ -216,6 +223,7 @@
 	Columns:	欄數：
 	Combine	合併
 	Command	指令
+	Commands	命令
 	Commands:	命令：
 	Comment	註解
 	Comments	註解
@@ -333,6 +341,7 @@
 	Double-click	按兩下
 	Down	下
 	Download	下載
+	Downloading…	正在下載…
 	Draft	草稿
 	Draw	繪製
 	Drop Shadow	製作陰影
@@ -379,6 +388,7 @@
 	Error	錯誤
 	Even Fields	偶數圖場
 	Even pages only	僅偶數頁
+	Every plug-in is up to date.	所有增效模組皆為最新版本。
 	Exact	精確
 	Example: {sample}	範例：{sample}
 	Exclusion	排除
@@ -443,6 +453,7 @@
 	French	法文
 	Frequency	頻率
 	From	從
+	From File…	從檔案…
 	Frosted	磨砂
 	Full	完全
 	Full Screen	全螢幕
@@ -458,6 +469,7 @@
 	Generate	產生
 	German	德文
 	GitHub	GitHub
+	GitHub repository	GitHub 存放庫
 	Glass	玻璃
 	Global	全域
 	Glow	光暈
@@ -538,8 +550,12 @@
 	Insert	插入
 	Inside	內側
 	Inspect Document	檢查文件
+	Install	安裝
+	Install from File…	從檔案安裝…
 	Install Plug-in	安裝增效模組
 	Install Plug-in…	安裝增效模組…
+	Installed {name}.	已安裝 {name}。
+	Install…	安裝…
 	Intensity	強度
 	Interface	介面
 	Interface Language	介面語言
@@ -552,6 +568,7 @@
 	Invert	反轉
 	Invert Mask	反轉遮色片
 	Isolate	隔離
+	It is kept for this session only.	它只會在本次工作階段中保留。
 	Italian	義大利文
 	Italic	斜體
 	Japanese	日文
@@ -644,6 +661,7 @@
 	Magenta	洋紅色
 	Magic Wand Tool	魔術棒工具
 	Magnification	縮放
+	Manage Plug-ins…	管理增效模組…
 	Margins	邊距
 	Mask	遮色片
 	Matte	邊緣色
@@ -728,6 +746,7 @@
 	No limit	無限制
 	No matches.	沒有相符項目。
 	No matching commands	沒有相符的指令
+	No plug-ins installed.	未安裝任何增效模組。
 	No recent files	沒有最近的檔案
 	No results	沒有結果
 	No Selection	未選取
@@ -809,6 +828,7 @@
 	Pixelate	像素化
 	Pixels	像素
 	Play	播放
+	Plug-in Catalogs	增效模組目錄
 	Plug-ins	增效模組
 	Pointillize	點描
 	Pointillize…	點描…
@@ -890,6 +910,7 @@
 	Remove	刪除
 	Remove Background	移除背景
 	Remove from favorites	從最愛移除
+	Remove Plug-in	移除增效模組
 	Rename	重新命名
 	Rename Group…	重新命名群組…
 	Rename Style	重新命名樣式
@@ -897,6 +918,7 @@
 	Repeat	重複
 	Replace	取代
 	Replace:	取代:
+	Replaces version {version}.	取代版本 {version}。
 	Reply	回覆
 	Report	報告
 	Report an Issue…	回報問題…
@@ -915,6 +937,7 @@
 	Reverse the order	反轉順序
 	Revert	回復
 	Review	審閱
+	Review…	檢視…
 	RGB Color	RGB 色彩
 	RGB:	RGB：
 	Right	右
@@ -931,6 +954,8 @@
 	Ruler	尺規
 	Rulers	尺標
 	Rulers & Grids	尺標與格點
+	Run	執行
+	Run Plug-in	執行增效模組
 	Russian	俄文
 	Sandstone	砂岩
 	Saturation	飽和度
@@ -1095,10 +1120,13 @@
 	Text color	文字顏色
 	Text:	文字：
 	Texture	紋理
+	The download stopped.	下載已中斷。
 	The passwords don't match.	兩次輸入的密碼不一致。
 	Theme	主題
 	Thickness	粗細
 	This document has no bookmarks.	本文件沒有書籤。
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	此增效模組不在您使用的任何目錄中：只有在信任其作者時才安裝。
+	This version asks for different permissions.	此版本要求不同的權限。
 	Threshold	臨界值
 	Thumbnails	縮圖
 	Tile	並排顯示
@@ -1146,6 +1174,9 @@
 	Untitled	未命名
 	Up	上移
 	Update	更新
+	Update Plug-ins	更新增效模組
+	Update to {version}	更新至 {version}
+	Update…	更新…
 	UPPERCASE	全部大寫
 	Use Default	使用預設值
 	Username	使用者名稱

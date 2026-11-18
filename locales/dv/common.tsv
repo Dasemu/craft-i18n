@@ -12,3 +12,34 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	ދިވެހި
+	Access	އެކްސެސް
+	Add Catalog	ކެޓަލޮގެއް އިތުރުކުރޭ
+	Add Plug-in Catalog	ޕްލަގިން ކެޓަލޮގެއް އިތުރުކުރޭ
+	Any command its access allows	މިއަށް ލިބިފައިވާ އެކްސެސްއިން ހުއްދަ ދޭ ކޮންމެ ކޮމާންޑެއް
+	Browse Catalogs	ކެޓަލޮގްތައް ބައްލަވާ
+	By {author}	{author} ގެ ފަރާތުން
+	Catalogs	ކެޓަލޮގްތައް
+	Commands	ކޮމާންޑުތައް
+	Downloading…	ޑައުންލޯޑުކުރަނީ…
+	Every plug-in is up to date.	ހުރިހާ ޕްލަގިނެއް އަޕްޑޭޓްވެފައިވޭ.
+	From File…	ފައިލަކުން…
+	GitHub repository	GitHub ރިޕޮޒިޓަރީ
+	Install	އިންސްޓޯލްކުރޭ
+	Install from File…	ފައިލަކުން އިންސްޓޯލްކުރޭ…
+	Installed {name}.	{name} އިންސްޓޯލްކުރެވިއްޖެ.
+	Install…	އިންސްޓޯލްކުރޭ…
+	It is kept for this session only.	މިއީ މި ސެޝަނަށް އެކަނި ރައްކާކުރެވޭ އެއްޗެކެވެ.
+	Manage Plug-ins…	ޕްލަގިންތައް ހިންގުން…
+	No plug-ins installed.	އިންސްޓޯލްކޮށްފައިވާ ޕްލަގިނެއް ނެތް.
+	Plug-in Catalogs	ޕްލަގިން ކެޓަލޮގްތައް
+	Remove Plug-in	ޕްލަގިން ނައްތާލާ
+	Replaces version {version}.	ވާޝަން {version} ގެ ބަދަލުގައި.
+	Review…	ބައްލަވާ…
+	Run	ހިންގާ
+	Run Plug-in	ޕްލަގިން ހިންގާ
+	The download stopped.	ޑައުންލޯޑު ހުއްޓުނު.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	މި ޕްލަގިން ތިބާ ބޭނުންކުރާ އެއްވެސް ކެޓަލޮގެއްގައި ނެތް: އިންސްޓޯލްކުރާނީ މިއާ ލިޔުންތެރިޔާއަށް ތިބާ އިތުބާރުކުރާނަމަ އެކަންޏެވެ.
+	This version asks for different permissions.	މި ވާޝަނުން އެހެން ހުއްދަތަކެއް އެދޭ.
+	Update Plug-ins	ޕްލަގިންތައް އަޕްޑޭޓްކުރޭ
+	Update to {version}	{version} އަށް އަޕްޑޭޓްކުރޭ
+	Update…	އަޕްޑޭޓްކުރޭ…

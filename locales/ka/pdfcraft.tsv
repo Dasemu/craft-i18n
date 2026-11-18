@@ -2059,7 +2059,6 @@ certificate	Public key	საჯარო გასაღები
 	Rows	სტრიქონები
 	rows have between {min} and {max} columns	სტრიქონებს {min}-დან {max}-მდე სვეტი აქვს
 	Rule Name	წესის სახელი
-	Run	გაშვება
 	Run a JavaScript	JavaScript-ის გაშვება
 	Run form script	ფორმის სკრიპტის გაშვება
 	Run JavaScript	JavaScript-ის გაშვება

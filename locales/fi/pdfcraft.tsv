@@ -2566,7 +2566,6 @@ review-suggestion	Replacement text	Korvaava teksti
 	rows have between {min} and {max} columns	riveillä on {min}–{max} saraketta
 	Rule	Sääntö
 	Rule Name	Säännön nimi
-	Run	Suorita
 	Run a JavaScript	Suorita JavaScript
 	Run form script	Suorita lomakkeen komentosarja
 	Run JavaScript	Suorita JavaScript

@@ -2932,7 +2932,6 @@ effect	Regular	Regular
 	Remove Guide	Fjern hjælpelinje
 	Remove Item	Fjern element
 	Remove JavaScript File	Fjern JavaScript-fil
-	Remove Plug-in	Fjern plug-in
 	Remove Selected Assets	Fjern markerede aktiver
 	Remove Selected Entry	Fjern markeret post
 	Remove the shortcut	Fjern genvejen
@@ -3088,7 +3087,6 @@ swatch	Rose	Rosa
 	Rule:	Regel:
 	Ruler Origin	Linealens nulpunkt
 	Run Length	Run Length
-	Run Plug-in	Kør plug-in
 	Runs code the checker can't read	Kører kode, som kontrollen ikke kan læse
 swatch	Rust	Rust
 	Same	Samme

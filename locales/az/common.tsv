@@ -12,3 +12,34 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	Azərbaycanca
+	Access	Giriş
+	Add Catalog	Kataloq əlavə et
+	Add Plug-in Catalog	Plugin kataloqu əlavə et
+	Any command its access allows	Girişinin icazə verdiyi istənilən əmr
+	Browse Catalogs	Kataloqlara bax
+	By {author}	Müəllif: {author}
+	Catalogs	Kataloqlar
+	Commands	Əmrlər
+	Downloading…	Endirilir…
+	Every plug-in is up to date.	Bütün pluginlər yenidir.
+	From File…	Fayldan…
+	GitHub repository	GitHub repozitoriyası
+	Install	Quraşdır
+	Install from File…	Fayldan quraşdır…
+	Installed {name}.	{name} quraşdırıldı.
+	Install…	Quraşdır…
+	It is kept for this session only.	Yalnız bu sessiya üçün saxlanılır.
+	Manage Plug-ins…	Pluginləri idarə et…
+	No plug-ins installed.	Quraşdırılmış plugin yoxdur.
+	Plug-in Catalogs	Plugin kataloqları
+	Remove Plug-in	Plugini sil
+	Replaces version {version}.	{version} versiyasını əvəz edir.
+	Review…	Nəzərdən keçir…
+	Run	İşə sal
+	Run Plug-in	Plugini işə sal
+	The download stopped.	Endirmə dayandı.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Bu plugin istifadə etdiyiniz heç bir kataloqda yoxdur: yalnız müəllifinə etibar edirsinizsə quraşdırın.
+	This version asks for different permissions.	Bu versiya fərqli icazələr istəyir.
+	Update Plug-ins	Pluginləri yenilə
+	Update to {version}	{version} versiyasına yenilə
+	Update…	Yenilə…

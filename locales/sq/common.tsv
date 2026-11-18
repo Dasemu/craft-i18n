@@ -12,3 +12,34 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	Shqip
+	Access	Qasje
+	Add Catalog	Shto katalog
+	Add Plug-in Catalog	Shto katalog shtojcash
+	Any command its access allows	Çdo komandë që lejon qasja e saj
+	Browse Catalogs	Shfleto katalogët
+	By {author}	Nga {author}
+	Catalogs	Katalogë
+	Commands	Komanda
+	Downloading…	Po shkarkohet…
+	Every plug-in is up to date.	Të gjitha shtojcat janë të përditësuara.
+	From File…	Nga skedari…
+	GitHub repository	Depo në GitHub
+	Install	Instalo
+	Install from File…	Instalo nga skedari…
+	Installed {name}.	U instalua {name}.
+	Install…	Instalo…
+	It is kept for this session only.	Ruhet vetëm për këtë seancë.
+	Manage Plug-ins…	Menaxho shtojcat…
+	No plug-ins installed.	Nuk ka shtojca të instaluara.
+	Plug-in Catalogs	Katalogë shtojcash
+	Remove Plug-in	Hiq shtojcën
+	Replaces version {version}.	Zëvendëson versionin {version}.
+	Review…	Shqyrto…
+	Run	Ekzekuto
+	Run Plug-in	Ekzekuto shtojcën
+	The download stopped.	Shkarkimi u ndal.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Kjo shtojcë nuk është në asnjë katalog që përdorni: instalojeni vetëm nëse i besoni autorit të saj.
+	This version asks for different permissions.	Ky version kërkon leje të ndryshme.
+	Update Plug-ins	Përditëso shtojcat
+	Update to {version}	Përditëso në {version}
+	Update…	Përditëso…

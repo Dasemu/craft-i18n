@@ -363,3 +363,19 @@ ko, nl, pl, pt-br, ru, sr-latn, tr, uk, vi, zh-hans and zh-hant (sr.tsv became s
 They were written with a coding agent from the plain meaning of the English (the tool was
 not recorded); no native-speaker review has been recorded. Other locales have no rows for
 these keys yet.
+
+## Shared plug-in strings (RFC-0046, storytold/craft-libs#2139)
+
+31 rows for the shared plug-in interface (the Plug-ins menu, the Manage Plug-ins window, the
+install confirmation and the parameter dialog that every Crafting App gained from `craft-plugin`)
+were added to `common.tsv` in all 51 locales that have one: `ar`, `az`, `bg`, `bn`, `bs`, `ca`,
+`ckb`, `cs`, `da`, `de`, `dv`, `el`, `es`, `et`, `fa`, `fi`, `fr`, `gl`, `he`, `hi`, `hr`, `hu`,
+`id`, `it`, `ja`, `ka`, `kk`, `ko`, `lo`, `lt`, `lv`, `nb`, `nl`, `pl`, `pt-br`, `ro`, `ru`, `sl`,
+`sq`, `sr`, `sr-latn`, `sv`, `ta`, `te`, `th`, `tr`, `uk`, `ur`, `vi`, `zh-hans` and `zh-hant`.
+The English is the wording the apps' `feat/plugins` branches share. AI-assisted (Claude Code),
+written from the plain meaning of the English and the plug-in term each locale's shared catalog
+already uses; native-speaker review pending. No other product's localisation was consulted. Where
+an app catalog already translated one of these strings, as `Run`, `Commands`, `Install`,
+`Install…`, `GitHub repository`, `Downloading…`, `Run Plug-in` and `Remove Plug-in` were, the
+shared row reuses that wording where it fits the locale's shared plug-in term, and the app rows it
+made identical were removed; app rows that differ stay as overrides, so no app's text changes.

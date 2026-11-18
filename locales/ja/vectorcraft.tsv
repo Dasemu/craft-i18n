@@ -2762,7 +2762,6 @@ swatch	Red	レッド
 	Remove Guide	ガイドを削除
 	Remove Item	項目を削除
 	Remove JavaScript File	JavaScript ファイルを削除
-	Remove Plug-in	プラグインを削除
 	Remove Selected Assets	選択したアセットを削除
 	Remove Selected Entry	選択した項目を削除
 	Remove Threading	スレッドを解除
@@ -2905,7 +2904,6 @@ swatch	Rose	ローズ
 	Rows:	行数:
 	Rule:	ルール:
 	Ruler Origin	定規の原点
-	Run Plug-in	プラグインを実行
 	Runs code the checker can't read	チェックで読み取れないコードを実行
 swatch	Rust	ラスト
 	Same	共通

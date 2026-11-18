@@ -74,7 +74,6 @@ month	Dec	ডিসে
 	Download paused	ডাউনলোড স্থগিত
 	Downloading	ডাউনলোড হচ্ছে
 	Downloading {done} of {total}	{total}-এর মধ্যে {done} ডাউনলোড হচ্ছে
-	Downloading…	ডাউনলোড হচ্ছে…
 	Downloads for {platform}	{platform}-এর জন্য ডাউনলোড
 	Downloads the new version, replaces this one and opens it again	নতুন সংস্করণ ডাউনলোড করে, এটি প্রতিস্থাপন করে আবার খোলে
 	Enlarge picture	ছবি বড় করুন
@@ -88,7 +87,6 @@ month	Feb	ফেব্রু
 	Flatpak bundle	ফ্ল্যাটপ্যাক বান্ডেল
 	Full changelog	সম্পূর্ণ পরিবর্তন তালিকা
 	GitHub limit hit; back in {min} min	গিটহাব সীমা শেষ; {min} মিনিটে ফিরবে
-	GitHub repository	গিটহাব রিপোজিটরি
 	GitHub's hourly limit was reached; full details return in {min} min	গিটহাবের প্রতি ঘণ্টার সীমা শেষ; {min} মিনিটে সম্পূর্ণ বিবরণ পাওয়া যাবে
 @id	help.discord	ডিসকর্ড
 @id	help.github	গিটহাব
@@ -98,7 +96,6 @@ month	Feb	ফেব্রু
 photocraft	Image editing	ছবি সম্পাদনা
 	Include pre-releases (betas and release candidates)	প্রাক-রিলিজ অন্তর্ভুক্ত করুন (বিটা এবং রিলিজ ক্যান্ডিডেট)
 	Inspired by	অনুপ্রেরণায়
-	Install	ইনস্টল
 	Install cancelled	ইনস্টল বাতিল হয়েছে
 	Install cancelled. The download is kept for the next try.	ইনস্টলেশন বাতিল হয়েছে। পরবর্তী চেষ্টার জন্য ডাউনলোড রাখা হয়েছে।
 	Install folder	ইনস্টল ফোল্ডার

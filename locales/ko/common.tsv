@@ -25,6 +25,7 @@
 	Absolute	절대
 	Absolute Colorimetric	절대 색도계
 	Accented Edges	강조된 가장자리
+	Access	액세스
 	Accessibility	접근성
 	Accurate	정확
 	Actions	액션
@@ -34,7 +35,9 @@
 	Adaptive	적응형
 	Add	추가
 	Add a comment	댓글 추가
+	Add Catalog	카탈로그 추가
 	Add Guide	안내선 추가
+	Add Plug-in Catalog	플러그인 카탈로그 추가
 	Add to Dictionary	사전에 추가
 	Add to favorites	즐겨찾기에 추가
 	Add to Swatches	견본에 추가
@@ -70,6 +73,7 @@
 	Anti-Alias	안티 앨리어싱
 	Anti-alias	안티 앨리어싱
 	Any	하나 이상
+	Any command its access allows	액세스 권한이 허용하는 모든 명령
 	Appearance	모양새
 theme	Appearance	외관
 	Appearance Settings…	모양 설정…
@@ -147,6 +151,7 @@ theme	Appearance	외관
 	Bring to Front	맨 앞으로 가져오기
 	Brown	갈색
 	Browse	찾아보기
+	Browse Catalogs	카탈로그 둘러보기
 	Browse…	찾아보기…
 	Brush Size	브러시 크기
 	Brush Strokes	브러시 획
@@ -154,12 +159,14 @@ theme	Appearance	외관
 	Bulge	돌출
 	Bullet	글머리 기호
 	Burlap	삼베
+	By {author}	작성자: {author}
 	Calculate	계산
 	Cancel	취소
 	Canvas	캔버스
 	Caption	캡션
 	Cascade	계단식 배열
 	Case Sensitive	대소문자 구분
+	Catalogs	카탈로그
 	Category	범주
 	Category:	범주:
 	Cell Size	셀 크기
@@ -226,6 +233,7 @@ theme	Appearance	외관
 	Columns:	열:
 	Combine	결합
 	Command	명령
+	Commands	명령
 	Commands:	명령:
 	Comment	주석
 	Comments	댓글
@@ -347,6 +355,7 @@ theme	Appearance	외관
 	Double-click	더블클릭
 	Down	아래로
 	Download	다운로드
+	Downloading…	다운로드 중…
 	Draft	초안
 	Draw	그리기
 	Drop Shadow	그림자 효과
@@ -396,6 +405,7 @@ theme	Appearance	외관
 	Error	오류
 	Even Fields	짝수 필드
 	Even pages only	짝수 페이지에만
+	Every plug-in is up to date.	모든 플러그인이 최신 상태입니다.
 	Exact	정확하게
 	Example: {sample}	예: {sample}
 	Exclusion	제외
@@ -466,6 +476,7 @@ theme	Appearance	외관
 	French	프랑스어
 	Frequency	주파수
 	From	시작
+	From File…	파일에서…
 	Frosted	서리 낀 유리
 	Full	전체
 	Full Screen	전체 화면
@@ -482,6 +493,7 @@ theme	Appearance	외관
 	Geometry	기하학
 	German	독일어
 	GitHub	GitHub
+	GitHub repository	GitHub 저장소
 	Glass	유리
 	Global	전체
 	Glow	광선
@@ -561,8 +573,12 @@ theme	Appearance	외관
 	Insert	삽입
 	Inside	안쪽
 	Inspect Document	문서 검사
+	Install	설치
+	Install from File…	파일에서 설치…
 	Install Plug-in	플러그인 설치
 	Install Plug-in…	플러그인 설치…
+	Installed {name}.	{name}을(를) 설치했습니다.
+	Install…	설치…
 	Intensity	강도
 	Interface	인터페이스
 	Interface Language	인터페이스 언어
@@ -575,6 +591,7 @@ theme	Appearance	외관
 	Invert	반전
 	Invert Mask	마스크 반전
 	Isolate	격리
+	It is kept for this session only.	이 세션 동안에만 유지됩니다.
 	Italian	이탈리아어
 	Italic	기울임꼴
 	Japanese	일본어
@@ -673,6 +690,7 @@ theme	Appearance	외관
 	Magenta	마젠타
 	Magic Wand Tool	마술봉 도구
 	Magnification	확대/축소 비율
+	Manage Plug-ins…	플러그인 관리…
 	Margins	여백
 	Mask	마스크
 	Masks	마스크
@@ -759,6 +777,7 @@ theme	Appearance	외관
 	No limit	제한 없음
 	No matches.	일치하는 항목이 없습니다.
 	No matching commands	일치하는 명령 없음
+	No plug-ins installed.	설치된 플러그인이 없습니다.
 	No results	결과 없음
 	No Selection	선택 항목 없음
 	No selection	선택 항목 없음
@@ -843,6 +862,7 @@ theme	Appearance	외관
 	Pixelate	픽셀화
 	Pixels	픽셀
 	Play	재생
+	Plug-in Catalogs	플러그인 카탈로그
 	Plug-ins	플러그인
 	Point	점
 	Pointillize	점묘화
@@ -929,6 +949,7 @@ theme	Appearance	외관
 	Remove	제거
 	Remove Background	배경 제거
 	Remove from favorites	즐겨찾기에서 제거
+	Remove Plug-in	플러그인 제거
 	Rename	이름 바꾸기
 	Rename Group…	그룹 이름 바꾸기…
 	Rename Style	스타일 이름 바꾸기
@@ -936,6 +957,7 @@ theme	Appearance	외관
 	Repeat	반복
 	Replace	바꾸기
 	Replace:	바꾸기:
+	Replaces version {version}.	버전 {version}을(를) 대체합니다.
 	Reply	답글
 	Report	보고서
 	Report an Issue…	문제 신고…
@@ -954,6 +976,7 @@ theme	Appearance	외관
 	Reverse the order	순서 뒤집기
 	Revert	되돌리기
 	Review	검토
+	Review…	검토…
 	RGB	RGB
 	RGB Color	RGB 색상
 	RGB:	RGB:
@@ -971,6 +994,8 @@ theme	Appearance	외관
 	Ruler	눈금자
 	Rulers	눈금자
 	Rulers & Grids	눈금자 및 격자
+	Run	실행
+	Run Plug-in	플러그인 실행
 	Russian	러시아어
 	Sample Size	샘플 크기
 	Sandstone	사암
@@ -1138,9 +1163,12 @@ theme	Appearance	외관
 	Text color	텍스트 색상
 	Text:	텍스트:
 	Texture	텍스처
+	The download stopped.	다운로드가 중단되었습니다.
 	The passwords don't match.	암호가 일치하지 않습니다.
 	Theme	테마
 	Thickness	두께
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	이 플러그인은 사용 중인 어떤 카탈로그에도 없습니다. 작성자를 신뢰하는 경우에만 설치하세요.
+	This version asks for different permissions.	이 버전은 다른 권한을 요청합니다.
 	Threshold	한계값
 	Thumbnails	썸네일
 	Tile	바둑판식 배열
@@ -1193,6 +1221,9 @@ theme	Appearance	외관
 	Untitled	제목 없음
 	Up	위쪽
 	Update	업데이트
+	Update Plug-ins	플러그인 업데이트
+	Update to {version}	{version}(으)로 업데이트
+	Update…	업데이트…
 	UPPERCASE	대문자
 	Use Default	기본값 사용
 	User	사용자

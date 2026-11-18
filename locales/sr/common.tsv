@@ -15,9 +15,12 @@
 	(Custom)	(Прилагођено)
 	(none)	(нема)
 	About	О програму
+	Access	Приступ
 	Accessibility	Приступачност
 	Add	Додај
 	Add a comment	Додај коментар
+	Add Catalog	Додај каталог
+	Add Plug-in Catalog	Додај каталог додатака
 	Add to Dictionary	Додај у речник
 	Adjust	Подеси
 	Advanced	Напредно
@@ -32,6 +35,7 @@
 	All files	Све датотеке
 	All pages	Све странице
 	Animation	Анимација
+	Any command its access allows	Било која наредба коју његов приступ дозвољава
 	Apply	Примени
 	Apply Character Style	Примени стил знакова
 	Apply to:	Примени на:
@@ -55,10 +59,13 @@
 	Bottom:	Доле:
 	Break Link	Прекини везу
 	Bring Forward	Помери напред
+	Browse Catalogs	Претражи каталоге
 	Browse…	Потражи…
 	Bullet	Ознака
+	By {author}	Аутор: {author}
 	Cancel	Откажи
 	Caption	Натпис
+	Catalogs	Каталози
 	Cell Size	Величина ћелије
 	Center	Центрирај
 	Centered	Центрирано
@@ -82,6 +89,7 @@
 	Columns	Колоне
 	Columns:	Колоне:
 	Combine	Споји
+	Commands	Наредбе
 	Commands:	Команде:
 	Comment	Коментар
 	Comments	Коментари
@@ -126,6 +134,7 @@
 	Don't Save	Не чувај
 	Dotted	Тачкасто
 	Down	Доле
+	Downloading…	Преузимање…
 	Draft	Нацрт
 	Draw	Цртање
 	Dutch	Холандски
@@ -141,6 +150,7 @@
 	Envelope DL	Коверта DL
 	Eraser	Гумица
 	Even pages only	Само парне странице
+	Every plug-in is up to date.	Сви додаци су ажурни.
 	Example: {sample}	Пример: {sample}
 	Expand	Прошири
 	Export	Извоз
@@ -170,8 +180,10 @@
 	Fonts	Фонтови
 	Format	Формат
 	Format:	Формат:
+	From File…	Из датотеке…
 	Full Screen	Цео екран
 	General	Опште
+	GitHub repository	GitHub репозиторијум
 	Glow	Сјај
 	Graphic	Графика
 	Grayscale	Сиви тонови
@@ -195,9 +207,14 @@
 	Info	Информације
 	Insert	Уметање
 	Inspect Document	Прегледај документ
+	Install	Инсталирај
+	Install from File…	Инсталирај из датотеке…
+	Installed {name}.	Инсталирано: {name}.
+	Install…	Инсталирај…
 	Interface	Интерфејс
 	Interface language	Језик интерфејса
 	Interface Theme	Тема интерфејса
+	It is kept for this session only.	Задржава се само за ову сесију.
 	Italian	Италијански
 	Italic	Курзив
 	Japanese	Јапански
@@ -229,6 +246,7 @@
 	List	Листа
 	Location	Локација
 	lowercase	малим словима
+	Manage Plug-ins…	Управљај додацима…
 	Margins	Маргине
 	Medium	Средња
 	Merge	Споји
@@ -257,6 +275,7 @@
 	No	Не
 	No Color	Без боје
 	No limit	Без ограничења
+	No plug-ins installed.	Нема инсталираних додатака.
 	Nonbreaking Space	Недељиви размак
 	None	Ниједно
 	Number	Број
@@ -286,6 +305,7 @@
 	Pencil	Оловка
 	Picas	Пике
 	Play	Пусти
+	Plug-in Catalogs	Каталози додатака
 	Points	Тачке
 	Portrait	Усправно
 	Position	Положај
@@ -312,12 +332,14 @@
 	Relaxed	Опуштено
 	Remove	Уклони
 	Remove Background	Уклони позадину
+	Remove Plug-in	Уклони додатак
 	Rename	Преименуј
 	Rename Style	Преименуј стил
 	Rename…	Преименуј…
 	Repeat	Понови
 	Replace	Замени
 	Replace:	Замени:
+	Replaces version {version}.	Замењује верзију {version}.
 	Reply	Одговори
 	Report	Извештај
 	Reset	Врати
@@ -325,6 +347,7 @@
 	Result	Резултат
 	Reverse the order	Обрни редослед
 	Review	Преглед
+	Review…	Прегледај…
 	Right	Десно
 	Right:	Десно:
 	Rotate	Ротирај
@@ -332,6 +355,8 @@
 	Rotation:	Ротација:
 	Rounded Rectangle	Заокружен правоугаоник
 	Ruler	Лењир
+	Run	Покрени
+	Run Plug-in	Покрени додатак
 	Russian	Руски
 	Save	Сачувај
 	Save As	Сачувај као
@@ -392,8 +417,11 @@
 	Templates	Шаблони
 	Text	Текст
 	Text:	Текст:
+	The download stopped.	Преузимање је прекинуто.
 	The passwords don't match.	Лозинке се не подударају.
 	Thickness	Дебљина
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Овај додатак није ни у једном каталогу који користите: инсталирајте га само ако верујете његовом аутору.
+	This version asks for different permissions.	Ова верзија тражи другачије дозволе.
 	Title	Наслов
 	Tools	Алати
 	Top	Горе
@@ -411,6 +439,9 @@
 	Undo {action}	Опозови {action}
 	Ungroup	Разгруписање
 	Up	Горе
+	Update Plug-ins	Ажурирај додатке
+	Update to {version}	Ажурирај на {version}
+	Update…	Ажурирај…
 	UPPERCASE	ВЕЛИКА СЛОВА
 	Username	Корисничко име
 	Value	Вредност

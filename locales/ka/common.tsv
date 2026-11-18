@@ -12,3 +12,34 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	ქართული
+	Access	წვდომა
+	Add Catalog	კატალოგის დამატება
+	Add Plug-in Catalog	პლაგინების კატალოგის დამატება
+	Any command its access allows	ნებისმიერი ბრძანება, რომელსაც მისი წვდომა უშვებს
+	Browse Catalogs	კატალოგების დათვალიერება
+	By {author}	ავტორი: {author}
+	Catalogs	კატალოგები
+	Commands	ბრძანებები
+	Downloading…	ჩამოიტვირთება…
+	Every plug-in is up to date.	ყველა პლაგინი განახლებულია.
+	From File…	ფაილიდან…
+	GitHub repository	GitHub-ის რეპოზიტორია
+	Install	დაყენება
+	Install from File…	ფაილიდან დაყენება…
+	Installed {name}.	დაყენდა: {name}.
+	Install…	დაყენება…
+	It is kept for this session only.	ის მხოლოდ ამ სესიისთვის ინახება.
+	Manage Plug-ins…	პლაგინების მართვა…
+	No plug-ins installed.	დაყენებული პლაგინები არ არის.
+	Plug-in Catalogs	პლაგინების კატალოგები
+	Remove Plug-in	პლაგინის წაშლა
+	Replaces version {version}.	ცვლის ვერსიას {version}.
+	Review…	გადახედვა…
+	Run	გაშვება
+	Run Plug-in	პლაგინის გაშვება
+	The download stopped.	ჩამოტვირთვა შეწყდა.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	ეს პლაგინი არ არის არცერთ კატალოგში, რომელსაც იყენებთ: დააყენეთ მხოლოდ მაშინ, თუ მის ავტორს ენდობით.
+	This version asks for different permissions.	ეს ვერსია სხვა ნებართვებს ითხოვს.
+	Update Plug-ins	პლაგინების განახლება
+	Update to {version}	განახლება {version}-მდე
+	Update…	განახლება…

@@ -12,3 +12,34 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	தமிழ்
+	Access	அணுகல்
+	Add Catalog	பட்டியலைச் சேர்
+	Add Plug-in Catalog	செருகுநிரல் பட்டியலைச் சேர்
+	Any command its access allows	இதன் அணுகல் அனுமதிக்கும் எந்தக் கட்டளையும்
+	Browse Catalogs	பட்டியல்களை உலாவு
+	By {author}	{author} உருவாக்கியது
+	Catalogs	பட்டியல்கள்
+	Commands	கட்டளைகள்
+	Downloading…	பதிவிறக்குகிறது…
+	Every plug-in is up to date.	எல்லாச் செருகுநிரல்களும் புதுப்பித்த நிலையில் உள்ளன.
+	From File…	கோப்பிலிருந்து…
+	GitHub repository	GitHub களஞ்சியம்
+	Install	நிறுவு
+	Install from File…	கோப்பிலிருந்து நிறுவு…
+	Installed {name}.	{name} நிறுவப்பட்டது.
+	Install…	நிறுவு…
+	It is kept for this session only.	இது இந்த அமர்வுக்கு மட்டுமே வைக்கப்படும்.
+	Manage Plug-ins…	செருகுநிரல்களை நிர்வகி…
+	No plug-ins installed.	செருகுநிரல்கள் எதுவும் நிறுவப்படவில்லை.
+	Plug-in Catalogs	செருகுநிரல் பட்டியல்கள்
+	Remove Plug-in	செருகுநிரலை அகற்று
+	Replaces version {version}.	பதிப்பு {version}-ஐ மாற்றுகிறது.
+	Review…	மதிப்பாய்வு செய்…
+	Run	இயக்கு
+	Run Plug-in	செருகுநிரலை இயக்கு
+	The download stopped.	பதிவிறக்கம் நின்றுவிட்டது.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	நீங்கள் பயன்படுத்தும் எந்தப் பட்டியலிலும் இந்தச் செருகுநிரல் இல்லை: இதன் ஆசிரியரை நம்பினால் மட்டுமே நிறுவுங்கள்.
+	This version asks for different permissions.	இந்தப் பதிப்பு வேறு அனுமதிகளைக் கேட்கிறது.
+	Update Plug-ins	செருகுநிரல்களைப் புதுப்பி
+	Update to {version}	{version}-க்குப் புதுப்பி
+	Update…	புதுப்பி…

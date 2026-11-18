@@ -2919,7 +2919,6 @@ effect	Regular	Normál
 	Remove Guide	Segédvonal eltávolítása
 	Remove Item	Elem eltávolítása
 	Remove JavaScript File	JavaScript-fájl eltávolítása
-	Remove Plug-in	Bővítmény eltávolítása
 	Remove Selected Assets	Kijelölt elemek eltávolítása
 	Remove Selected Entry	Kijelölt bejegyzés eltávolítása
 	Remove the shortcut	Billentyűparancs eltávolítása
@@ -3077,7 +3076,6 @@ diagnostics	render	renderelés
 	Rule:	Szabály:
 	Ruler Origin	Vonalzók origója
 	Run Length	Futáshossz (RLE)
-	Run Plug-in	Bővítmény futtatása
 	Runs code the checker can't read	Olyan kódot futtat, amelyet az ellenőrzés nem tud beolvasni
 	Same	Azonos
 	Same As Source	Azonos a forrással

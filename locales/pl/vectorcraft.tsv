@@ -2868,7 +2868,6 @@ effect	Regular	Normalny
 	Remove Guide	Usuń linię pomocniczą
 	Remove Item	Usuń element
 	Remove JavaScript File	Usuń plik JavaScript
-	Remove Plug-in	Usuń wtyczkę
 	Remove Selected Assets	Usuń zaznaczone zasoby
 	Remove Selected Entry	Usuń wybrany wpis
 	Remove the shortcut	Usuń skrót
@@ -3016,7 +3015,6 @@ diagnostics	render	renderowanie
 	Rule:	Reguła:
 	Ruler Origin	Początek linijki
 	Run Length	Kodowanie długości serii
-	Run Plug-in	Uruchom wtyczkę
 	Runs code the checker can't read	Uruchamia kod, którego nie da się odczytać podczas sprawdzania
 	Same	Taki sam
 	Same As Source	Jak źródło

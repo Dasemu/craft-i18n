@@ -2303,7 +2303,6 @@ certificate	Public key	กุญแจสาธารณะ
 	rows have between {min} and {max} columns	แถวมีจำนวนคอลัมน์ระหว่าง {min} ถึง {max}
 	Rule Name	ชื่อกฎ
 	Rulers	ไม้บรรทัด
-	Run	รัน
 	Run a JavaScript	รัน JavaScript
 	Run form script	รันสคริปต์ของแบบฟอร์ม
 	Run JavaScript	รัน JavaScript

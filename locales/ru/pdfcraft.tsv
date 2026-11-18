@@ -2726,7 +2726,6 @@ certificate	Public key	Открытый ключ
 	Row spacing	Интервал между строками
 	rows have between {min} and {max} columns	в строках от {min} до {max} столбцов
 	Rule Name	Имя правила
-	Run	Запустить
 	Run a JavaScript	Запустить JavaScript
 	Run form script	Выполнить сценарий формы
 	Run JavaScript	Запустить JavaScript

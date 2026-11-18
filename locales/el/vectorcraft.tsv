@@ -2916,7 +2916,6 @@ effect	Regular	Κανονικό
 	Remove Guide	Αφαίρεση οδηγού
 	Remove Item	Αφαίρεση στοιχείου
 	Remove JavaScript File	Αφαίρεση αρχείου JavaScript
-	Remove Plug-in	Αφαίρεση προσθέτου
 	Remove Selected Assets	Αφαίρεση επιλεγμένων στοιχείων
 	Remove Selected Entry	Αφαίρεση επιλεγμένης καταχώρισης
 	Remove the shortcut	Αφαίρεση συντόμευσης
@@ -3071,7 +3070,6 @@ diagnostics	render	απόδοση
 	Rule:	Κανόνας:
 	Ruler Origin	Αρχή χαράκων
 	Run Length	Μήκος ακολουθίας
-	Run Plug-in	Εκτέλεση προσθέτου
 	Runs code the checker can't read	Εκτελεί κώδικα που δεν μπορεί να αναλύσει ο ελεγκτής
 	Same	Ίδιο
 	Same As Source	Ίδιο με την πηγή

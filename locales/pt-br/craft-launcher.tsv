@@ -77,7 +77,6 @@ month	Dec	dez.
 	Download paused	Download pausado
 	Downloading	Baixando
 	Downloading {done} of {total}	Baixando {done} de {total}
-	Downloading…	Baixando…
 	Downloads for {platform}	Downloads para {platform}
 	Downloads the new version, replaces this one and opens it again	Baixa a nova versão, substitui a atual e abre novamente
 	Enlarge picture	Ampliar imagem
@@ -92,7 +91,6 @@ month	Feb	fev.
 	Frequently used	Usados frequentemente
 	Full changelog	Histórico completo de alterações
 	GitHub limit hit; back in {min} min	Limite do GitHub atingido; volta em {min} min
-	GitHub repository	Repositório no GitHub
 	GitHub's hourly limit was reached; full details return in {min} min	O limite por hora do GitHub foi atingido; detalhes completos voltam em {min} min
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -102,7 +100,6 @@ month	Feb	fev.
 photocraft	Image editing	Edição de imagens
 	Include pre-releases (betas and release candidates)	Incluir versões de pré-lançamento (betas e RC)
 	Inspired by	Inspirado em
-	Install	Instalar
 	Install cancelled	Instalação cancelada
 	Install cancelled. The download is kept for the next try.	Instalação cancelada. O download foi mantido para a próxima tentativa.
 	Install folder	Pasta de instalação

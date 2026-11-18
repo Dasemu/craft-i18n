@@ -15,12 +15,15 @@
 	(none)	(жоқ)
 	1 file	1 файл
 	About	Туралы
+	Access	Қатынау
 	Accessibility	Қолжетімділік
 	Actions	Әрекеттер
 	Active	Белсенді
 	Actual Size	Нақты өлшем
 	Add	Қосу
 	Add a comment	Түсініктеме қосу
+	Add Catalog	Каталог қосу
+	Add Plug-in Catalog	Плагиндер каталогын қосу
 	Advanced	Қосымша
 	Align	Туралау
 	Align left	Солға туралау
@@ -31,6 +34,7 @@
 	Angle	Бұрыш
 	Animation effects	Анимация әсерлері
 	Any	Кез келген
+	Any command its access allows	Оның қатынауы рұқсат ететін кез келген команда
 	Appearance	Сыртқы түрі
 	Application	Қолданба
 	Apply	Қолдану
@@ -52,9 +56,12 @@
 	Both sides	Екі жақ та
 	Bottom	Төмен
 	Bottom:	Төмен:
+	Browse Catalogs	Каталогтарды шолу
 	Browse…	Шолу…
+	By {author}	Авторы: {author}
 	Calculate	Есептеу
 	Cancel	Бас тарту
+	Catalogs	Каталогтар
 	Category:	Санаты:
 	Center	Ортаға
 	Characters	Таңбалар
@@ -72,6 +79,7 @@
 	Colour	Түс
 	Combine	Біріктіру
 	Command	Команда
+	Commands	Командалар
 	Comments	Түсініктемелер
 	Commits	Коммиттер
 	Company	Компания
@@ -114,6 +122,7 @@
 	Dot	Нүкте
 	Double-click	Қос шерту
 	Download	Жүктеп алу
+	Downloading…	Жүктелуде…
 	Draw	Салу
 	Duplicate…	Көшірмесін жасау…
 	Dynamic	Динамикалық
@@ -124,6 +133,7 @@
 	Erase	Өшіру
 	Eraser	Өшіргіш
 	Even pages only	Тек жұп беттер
+	Every plug-in is up to date.	Барлық плагиндер жаңартылған.
 	Example: {sample}	Мысал: {sample}
 	Expand	Жаю
 	Export	Экспорттау
@@ -151,8 +161,10 @@
 	Format	Пішім
 	Format:	Пішім:
 	From	Бастап
+	From File…	Файлдан…
 	Full Screen	Толық экран
 	General	Жалпы
+	GitHub repository	GitHub репозиторийі
 	Graphic	Графика
 	Gray	Сұр
 	Green	Жасыл
@@ -174,9 +186,14 @@
 	Images	Кескіндер
 	Index	Индекс
 	Insert	Енгізу
+	Install	Орнату
+	Install from File…	Файлдан орнату…
+	Installed {name}.	Орнатылды: {name}.
+	Install…	Орнату…
 	Interface language	Интерфейс тілі
 	Intersection	Қиылыс
 	Invert	Терістеу
+	It is kept for this session only.	Ол тек осы сеанс бойы сақталады.
 	Italic	Көлбеу
 	Join our Discord	Discord-қа қосылыңыз
 	Join the ArtCraft Discord	ArtCraft Discord-ына қосылыңыз
@@ -209,6 +226,7 @@
 	Locked	Құлыпталған
 	Low	Төмен
 	Magnification	Масштаб
+	Manage Plug-ins…	Плагиндерді басқару…
 	Margins	Шеттер
 	Maximize	Жаю
 	Maximum	Максимум
@@ -231,6 +249,7 @@
 	No	Жоқ
 	No limit	Шектеу жоқ
 	No matches.	Сәйкестік жоқ.
+	No plug-ins installed.	Орнатылған плагиндер жоқ.
 	No recent files	Соңғы файлдар жоқ
 	None	Жоқ
 	Number	Сан
@@ -263,6 +282,7 @@
 	Perimeter	Периметр
 	Photo	Сурет
 	Pink	Қызғылт
+	Plug-in Catalogs	Плагиндер каталогтары
 	Polygon	Көпбұрыш
 	Polyline	Сынық сызық
 	Portrait	Тік
@@ -290,8 +310,10 @@
 	Redo	Қайталау
 	Reload	Қайта жүктеу
 	Remove	Алып тастау
+	Remove Plug-in	Плагинді алып тастау
 	Rename	Атын өзгерту
 	Replace	Ауыстыру
+	Replaces version {version}.	{version} нұсқасын ауыстырады.
 	Reply	Жауап беру
 	Report	Есеп
 	Resize panel window	Панель терезесінің өлшемін өзгерту
@@ -303,12 +325,15 @@
 	Reverse the order	Ретін кері өзгерту
 	Revert	Сақталған нұсқаға қайту
 	Review	Пікір алмасу
+	Review…	Қарап шығу…
 	Right	Оң жақ
 	Rotate	Бұру
 	Rotate:	Бұру:
 	Rotation	Бұрылу
 	Rotation:	Бұру:
 	Rows	Жолдар
+	Run	Орындау
+	Run Plug-in	Плагинді іске қосу
 	Save	Сақтау
 	Save as PDF	PDF ретінде сақтау
 	Scripts	Скрипттер
@@ -341,9 +366,12 @@
 	Table	Кесте
 	Tables	Кестелер
 	Text	Мәтін
+	The download stopped.	Жүктеу тоқтап қалды.
 	The passwords don't match.	Құпиясөздер сәйкес емес.
 	Thickness	Жуандық
 	This document has no bookmarks.	Бұл құжатта бетбелгілер жоқ.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Бұл плагин сіз қолданатын бірде-бір каталогта жоқ: оның авторына сенсеңіз ғана орнатыңыз.
+	This version asks for different permissions.	Бұл нұсқа басқа рұқсаттарды сұрайды.
 	Thumbnails	Миниатюралар
 	Time	Уақыт
 	Title	Атауы
@@ -362,6 +390,9 @@
 	Unlock	Блоктан шығару
 	Up	Жоғары
 	Update	Жаңарту
+	Update Plug-ins	Плагиндерді жаңарту
+	Update to {version}	{version} нұсқасына жаңарту
+	Update…	Жаңарту…
 	Username	Пайдаланушы аты
 	Value:	Мәні:
 	Version	Нұсқа

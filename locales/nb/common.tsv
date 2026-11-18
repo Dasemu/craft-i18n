@@ -26,6 +26,7 @@
 	Absolute	Absolutt
 	Absolute Colorimetric	Absolutt kolorimetrisk
 	Accented Edges	Fremhevede kanter
+	Access	Tilgang
 	Accessibility	Tilgjengelighet
 	Accurate	Nøyaktig
 	Actions	Handlinger
@@ -35,7 +36,9 @@
 	Adaptive	Adaptiv
 	Add	Legg til
 	Add a comment	Legg til en kommentar
+	Add Catalog	Legg til katalog
 	Add Guide	Legg til hjelpelinje
+	Add Plug-in Catalog	Legg til katalog for programtillegg
 	Add to Dictionary	Legg til i ordboken
 	Add to favorites	Legg til i favoritter
 	Add to Swatches	Legg til i fargeprøver
@@ -72,6 +75,7 @@
 	Anti-Alias	Kantutjevning
 	Anti-alias	Kantutjevning
 	Any	Hvilken som helst
+	Any command its access allows	Alle kommandoer tilgangen tillater
 	Appearance	Utseende
 theme	Appearance	Utseende
 	Appearance Settings…	Innstillinger for utseende…
@@ -152,6 +156,7 @@ theme	Appearance	Utseende
 	Bring to Front	Plasser fremst
 	Brown	Brun
 	Browse	Bla gjennom
+	Browse Catalogs	Bla gjennom kataloger
 	Browse…	Bla gjennom…
 	Brush Size	Penselstørrelse
 	Brush Strokes	Penselstrøk
@@ -159,12 +164,14 @@ theme	Appearance	Utseende
 	Bulge	Bule
 	Bullet	Punkttegn
 	Burlap	Strie
+	By {author}	Av {author}
 	Calculate	Beregn
 	Cancel	Avbryt
 	Canvas	Lerret
 	Caption	Bildetekst
 	Cascade	Overlappende
 	Case Sensitive	Skill mellom store og små bokstaver
+	Catalogs	Kataloger
 	Category	Kategori
 	Category:	Kategori:
 	Cell Size	Cellestørrelse
@@ -234,6 +241,7 @@ theme	Appearance	Utseende
 	Columns:	Kolonner:
 	Combine	Kombiner
 	Command	Kommando
+	Commands	Kommandoer
 	Commands:	Kommandoer:
 	Comment	Kommentar
 	Comments	Kommentarer
@@ -359,6 +367,7 @@ theme	Appearance	Utseende
 	Double-click	Dobbeltklikk
 	Down	Ned
 	Download	Last ned
+	Downloading…	Laster ned…
 	Draft	Kladd
 	Draw	Tegn
 	Drop Shadow	Slagskygge
@@ -409,6 +418,7 @@ theme	Appearance	Utseende
 	Error	Feil
 	Even Fields	Partallsfelt
 	Even pages only	Bare partallssider
+	Every plug-in is up to date.	Alle programtillegg er oppdatert.
 	Exact	Nøyaktig
 	Example: {sample}	Eksempel: {sample}
 	Exclusion	Utelukking
@@ -481,6 +491,7 @@ theme	Appearance	Utseende
 	French	Fransk
 	Frequency	Frekvens
 	From	Fra
+	From File…	Fra fil…
 	Frosted	Frostet
 	Full	Full
 	Full Screen	Fullskjerm
@@ -497,6 +508,7 @@ theme	Appearance	Utseende
 	Geometry	Geometri
 	German	Tysk
 	GitHub	GitHub
+	GitHub repository	GitHub-repositorium
 	Glass	Glass
 	Global	Global
 	Glow	Glød
@@ -580,8 +592,12 @@ theme	Appearance	Utseende
 	Insert	Sett inn
 	Inside	Innenfor
 	Inspect Document	Inspiser dokumentet
+	Install	Installer
+	Install from File…	Installer fra fil…
 	Install Plug-in	Installer programtillegg
 	Install Plug-in…	Installer programtillegg…
+	Installed {name}.	{name} er installert.
+	Install…	Installer…
 	Intensity	Intensitet
 	Interface	Grensesnitt
 	Interface Language	Grensesnittspråk
@@ -594,6 +610,7 @@ theme	Appearance	Utseende
 	Invert	Inverter
 	Invert Mask	Inverter masken
 	Isolate	Isoler
+	It is kept for this session only.	Det beholdes bare i denne økten.
 	Italian	Italiensk
 	Italic	Kursiv
 	Japanese	Japansk
@@ -693,6 +710,7 @@ theme	Appearance	Utseende
 	Magenta	Magenta
 	Magic Wand Tool	Tryllestavverktøy
 	Magnification	Forstørrelse
+	Manage Plug-ins…	Behandle programtillegg…
 	Margins	Marger
 	Mask	Maske
 	Masks	Masker
@@ -779,6 +797,7 @@ theme	Appearance	Utseende
 	No limit	Ingen grense
 	No matches.	Ingen treff.
 	No matching commands	Ingen samsvarende kommandoer
+	No plug-ins installed.	Ingen programtillegg er installert.
 	No recent files	Ingen nylige filer
 	No results	Ingen resultater
 	No Selection	Ingenting er merket
@@ -867,6 +886,7 @@ theme	Appearance	Utseende
 	Pixelate	Pikseler
 	Pixels	Piksler
 	Play	Spill av
+	Plug-in Catalogs	Kataloger for programtillegg
 	Plug-ins	Programtillegg
 	Point	Punkt
 	Pointillize	Pointiller
@@ -954,6 +974,7 @@ theme	Appearance	Utseende
 	Remove	Fjern
 	Remove Background	Fjern bakgrunnen
 	Remove from favorites	Fjern fra favoritter
+	Remove Plug-in	Fjern programtillegg
 	Rename	Gi nytt navn
 	Rename Group…	Gi gruppen nytt navn…
 	Rename Style	Gi stilen nytt navn
@@ -961,6 +982,7 @@ theme	Appearance	Utseende
 	Repeat	Gjenta
 	Replace	Erstatt
 	Replace:	Erstatt:
+	Replaces version {version}.	Erstatter versjon {version}.
 	Reply	Svar
 	Report	Rapport
 	Report an Issue…	Rapporter et problem…
@@ -980,6 +1002,7 @@ theme	Appearance	Utseende
 	Reverse the order	Snu rekkefølgen
 	Revert	Tilbakestill
 	Review	Gjennomgang
+	Review…	Gå gjennom…
 	RGB	RGB
 	RGB Color	RGB-farge
 	RGB:	RGB:
@@ -997,6 +1020,8 @@ theme	Appearance	Utseende
 	Ruler	Linjal
 	Rulers	Linjaler
 	Rulers & Grids	Linjaler og rutenett
+	Run	Kjør
+	Run Plug-in	Kjør programtillegg
 	Russian	Russisk
 	Sample Size	Prøvestørrelse
 	Sandstone	Sandstein
@@ -1167,10 +1192,13 @@ theme	Appearance	Utseende
 	Text color	Tekstfarge
 	Text:	Tekst:
 	Texture	Tekstur
+	The download stopped.	Nedlastingen stoppet.
 	The passwords don't match.	Passordene er ikke like.
 	Theme	Tema
 	Thickness	Tykkelse
 	This document has no bookmarks.	Dette dokumentet har ingen bokmerker.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Dette programtillegget finnes ikke i noen katalog du bruker: installer det bare hvis du stoler på opphavspersonen.
+	This version asks for different permissions.	Denne versjonen ber om andre tillatelser.
 	Threshold	Terskel
 	Thumbnails	Miniatyrbilder
 	Tile	Flislegg
@@ -1224,7 +1252,10 @@ theme	Appearance	Utseende
 	Untitled	Uten navn
 	Up	Opp
 	Update	Oppdater
+	Update Plug-ins	Oppdater programtillegg
+	Update to {version}	Oppdater til {version}
 	Updates	Oppdateringer
+	Update…	Oppdater…
 	UPPERCASE	STORE BOKSTAVER
 	Use Default	Bruk standard
 	User	Bruker

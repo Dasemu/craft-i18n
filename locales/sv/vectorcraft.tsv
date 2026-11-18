@@ -2915,7 +2915,6 @@ effect	Regular	Normal
 	Remove Guide	Ta bort stödlinje
 	Remove Item	Ta bort objekt
 	Remove JavaScript File	Ta bort JavaScript-fil
-	Remove Plug-in	Ta bort insticksprogram
 	Remove Selected Assets	Ta bort markerade resurser
 	Remove Selected Entry	Ta bort markerad post
 	Remove the shortcut	Ta bort kortkommandot
@@ -3070,7 +3069,6 @@ diagnostics	render	rendering
 	Rule:	Regel:
 	Ruler Origin	Linjalens origo
 	Run Length	Körlängd
-	Run Plug-in	Kör insticksprogram
 	Runs code the checker can't read	Kör kod som granskaren inte kan läsa
 	Same	Samma
 	Same As Source	Samma som källan

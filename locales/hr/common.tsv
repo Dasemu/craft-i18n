@@ -15,9 +15,12 @@
 	(Custom)	(Prilagođeno)
 	(none)	(ništa)
 	About	O programu
+	Access	Pristup
 	Accessibility	Pristupačnost
 	Add	Dodaj
 	Add a comment	Dodaj komentar
+	Add Catalog	Dodaj katalog
+	Add Plug-in Catalog	Dodaj katalog dodataka
 	Add to Dictionary	Dodaj u rječnik
 	Adjust	Prilagodi
 	Advanced	Napredno
@@ -32,6 +35,7 @@
 	All files	Sve datoteke
 	All pages	Sve stranice
 	Animation	Animacija
+	Any command its access allows	Bilo koja naredba koju njegov pristup dopušta
 	Apply	Primijeni
 	Apply Character Style	Primijeni stil znakova
 	Apply to:	Primijeni na:
@@ -55,10 +59,13 @@
 	Bottom:	Dolje:
 	Break Link	Prekini vezu
 	Bring Forward	Pomakni naprijed
+	Browse Catalogs	Pregledaj kataloge
 	Browse…	Pregledaj…
 	Bullet	Oznaka
+	By {author}	Autor: {author}
 	Cancel	Odustani
 	Caption	Natpis
+	Catalogs	Katalozi
 	Category	Kategorija
 	Cell Size	Veličina ćelije
 	Center	Sredina
@@ -83,6 +90,7 @@
 	Columns	Stupci
 	Columns:	Stupci:
 	Combine	Kombiniraj
+	Commands	Naredbe
 	Commands:	Naredbe:
 	Comment	Komentar
 	Comments	Komentari
@@ -130,6 +138,7 @@
 	Dots	Točke
 	Dotted	Točkasto
 	Down	Dolje
+	Downloading…	Preuzimanje…
 	Draft	Nacrt
 	Draw	Crtanje
 	Dutch	Nizozemski
@@ -145,6 +154,7 @@
 	Envelope DL	Omotnica DL
 	Eraser	Gumica
 	Even pages only	Samo parne stranice
+	Every plug-in is up to date.	Svi su dodaci ažurni.
 	Example: {sample}	Primjer: {sample}
 	Expand	Proširi
 	Export	Izvoz
@@ -174,10 +184,12 @@
 	Fonts	Fontovi
 	Format	Oblikovanje
 	Format:	Oblikovanje:
+	From File…	Iz datoteke…
 	Full Screen	Cijeli zaslon
 	Functions	Funkcije
 	General	Općenito
 	Geometry	Geometrija
+	GitHub repository	GitHub repozitorij
 	Glow	Sjaj
 	Graphic	Grafika
 	Grayscale	Sivi tonovi
@@ -201,10 +213,15 @@
 	Info	Informacije
 	Insert	Umetni
 	Inspect Document	Pregledaj dokument
+	Install	Instaliraj
+	Install from File…	Instaliraj iz datoteke…
+	Installed {name}.	Instalirano: {name}.
+	Install…	Instaliraj…
 	Interface	Sučelje
 	Interface language	Jezik sučelja
 	Interface Theme	Tema sučelja
 	Intersection	Presjek
+	It is kept for this session only.	Zadržava se samo za ovu sesiju.
 	Italian	Talijanski
 	Italic	Kurziv
 	Japanese	Japanski
@@ -242,6 +259,7 @@
 	List	Popis
 	Location	Lokacija
 	lowercase	mala slova
+	Manage Plug-ins…	Upravljanje dodacima…
 	Margins	Margine
 	Maximum	Maksimum
 	Medium	Srednje
@@ -273,6 +291,7 @@
 	No	Ne
 	No Color	Bez boje
 	No limit	Bez ograničenja
+	No plug-ins installed.	Nema instaliranih dodataka.
 	Nonbreaking Space	Razmak bez prijeloma
 	None	Nema
 	Normal	Uobičajeni
@@ -303,6 +322,7 @@
 	Pencil	Grafitna olovka
 	Picas	Pike
 	Play	Reproduciraj
+	Plug-in Catalogs	Katalozi dodataka
 	Points	Točke
 	Portrait	Uspravno
 	Position	Položaj
@@ -329,12 +349,14 @@
 	Relaxed	Opušteno
 	Remove	Ukloni
 	Remove Background	Ukloni pozadinu
+	Remove Plug-in	Ukloni dodatak
 	Rename	Preimenuj
 	Rename Style	Preimenuj stil
 	Rename…	Preimenuj…
 	Repeat	Ponovi
 	Replace	Zamijeni
 	Replace:	Zamijeni:
+	Replaces version {version}.	Zamjenjuje verziju {version}.
 	Reply	Odgovori
 	Report	Izvješće
 	Reset	Vrati na zadano
@@ -342,6 +364,7 @@
 	Result	Rezultat
 	Reverse the order	Obrni redoslijed
 	Review	Pregled
+	Review…	Pregledaj…
 	Right	Desno
 	Right:	Desno:
 	Rotate	Zakreni
@@ -349,6 +372,8 @@
 	Rotation:	Rotacija:
 	Rounded Rectangle	Zaobljeni pravokutnik
 	Ruler	Ravnalo
+	Run	Pokreni
+	Run Plug-in	Pokreni dodatak
 	Russian	Ruski
 	Save	Spremi
 	Save As	Spremi kao
@@ -412,9 +437,12 @@
 	Templates	Predlošci
 	Text	Tekst
 	Text:	Tekst:
+	The download stopped.	Preuzimanje je prekinuto.
 	The passwords don't match.	Lozinke se ne podudaraju.
 	Thickness	Debljina
 	This document has no bookmarks.	Ovaj dokument nema knjižnih oznaka.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Ovaj dodatak nije ni u jednom katalogu koji koristite: instalirajte ga samo ako vjerujete njegovu autoru.
+	This version asks for different permissions.	Ova verzija traži drugačija dopuštenja.
 	Title	Naslov
 	Tools	Alati
 	Top	Gore
@@ -434,6 +462,9 @@
 	Ungroup	Razgrupiraj
 	Union	Unija
 	Up	Gore
+	Update Plug-ins	Ažuriraj dodatke
+	Update to {version}	Ažuriraj na {version}
+	Update…	Ažuriraj…
 	UPPERCASE	VELIKA SLOVA
 	Username	Korisničko ime
 	Value	Vrijednost

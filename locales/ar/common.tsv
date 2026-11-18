@@ -16,12 +16,15 @@
 	1 file	ملف واحد
 	About	حول
 	Absolute	مطلق
+	Access	الوصول
 	Accessibility	إمكانية الوصول
 	Actions	الإجراءات
 	Active	نشط
 	Actual Size	الحجم الفعلي
 	Add	إضافة
 	Add a comment	إضافة تعليق
+	Add Catalog	إضافة كتالوج
+	Add Plug-in Catalog	إضافة كتالوج مكونات إضافية
 	Advanced	متقدم
 	Align	محاذاة
 	Align left	محاذاة لليسار
@@ -36,6 +39,7 @@
 	Angular	زاوي
 	Animation effects	تأثيرات الحركة
 	Any	أي
+	Any command its access allows	أي أمر يسمح به وصوله
 	Appearance	المظهر
 	Application	التطبيق
 	Apply	تطبيق
@@ -65,9 +69,12 @@
 	Bottom	أسفل
 	Bottom:	الأسفل:
 	Bring to Front	إحضار إلى المقدمة
+	Browse Catalogs	تصفح الكتالوجات
 	Browse…	استعراض…
+	By {author}	بواسطة {author}
 	Calculate	الحساب
 	Cancel	إلغاء
+	Catalogs	الكتالوجات
 	Category:	الفئة:
 	Center	وسط
 	Center X	مركز X
@@ -92,6 +99,7 @@
 	Colour	اللون
 	Combine	دمج
 	Command	أمر
+	Commands	الأوامر
 	Comment	تعليق
 	Comments	التعليقات
 	Commits	الإيداعات
@@ -143,6 +151,7 @@
 	Double-click	نقر مزدوج
 	Down	أسفل
 	Download	تنزيل
+	Downloading…	جارٍ التنزيل…
 	Draw	رسم
 	Duplicate	تكرار
 	Duplicate…	تكرار…
@@ -158,6 +167,7 @@
 	Eraser	ممحاة
 	Error	خطأ
 	Even pages only	الصفحات الزوجية فقط
+	Every plug-in is up to date.	جميع المكونات الإضافية محدّثة.
 	Example: {sample}	مثال: {sample}
 	Expand	توسيع
 	Export	تصدير
@@ -191,9 +201,11 @@
 	Format	الصيغة
 	Format:	التنسيق:
 	From	من
+	From File…	من ملف…
 	Full Screen	ملء الشاشة
 	General	عام
 	Geometry	الهندسة
+	GitHub repository	مستودع GitHub
 	Global	شامل
 	Gradient	التدرج اللوني
 	Graphic	رسم
@@ -223,6 +235,10 @@
 	Import	استيراد
 	Index	فهرس
 	Insert	إدراج
+	Install	تثبيت
+	Install from File…	التثبيت من ملف…
+	Installed {name}.	تم تثبيت {name}.
+	Install…	تثبيت…
 	Interface Language	لغة الواجهة
 	Interface language	لغة الواجهة
 	Interface Theme	سمة الواجهة
@@ -230,6 +246,7 @@
 	Intersection	تقاطع
 	Invert	عكس
 	Isolate	عزل
+	It is kept for this session only.	يُحتفظ به لهذه الجلسة فقط.
 	Italic	مائل
 	Join	وصل
 	Join our Discord	انضم إلى خادمنا على Discord
@@ -272,6 +289,7 @@
 	Low	منخفضة
 	Magenta	أرجواني
 	Magnification	التكبير
+	Manage Plug-ins…	إدارة المكونات الإضافية…
 	Margins	الهوامش
 	Maximize	تكبير
 	Maximum	القصوى
@@ -303,6 +321,7 @@
 	No	لا
 	No limit	بلا حد
 	No matches.	لا توجد تطابقات.
+	No plug-ins installed.	لا توجد مكونات إضافية مثبتة.
 	No recent files	لا توجد ملفات أخيرة
 	No results	لا نتائج
 	No selection	لا تحديد
@@ -344,6 +363,7 @@
 	Perimeter	المحيط
 	Photo	صورة
 	Pink	وردي
+	Plug-in Catalogs	كتالوجات المكونات الإضافية
 	Point	تأشير
 	Polygon	مضلع
 	Polyline	خط متعدد
@@ -380,8 +400,10 @@
 	Relative	نسبي
 	Reload	إعادة تحميل
 	Remove	إزالة
+	Remove Plug-in	إزالة المكون الإضافي
 	Rename	إعادة تسمية
 	Replace	استبدال
+	Replaces version {version}.	يحل محل الإصدار {version}.
 	Reply	رد
 	Report	تقرير
 	Resize panel window	تغيير حجم نافذة اللوحة
@@ -394,12 +416,15 @@
 	Reverse the order	عكس الترتيب
 	Revert	استرجاع
 	Review	مراجعة
+	Review…	مراجعة…
 	Right	يمين
 	Rotate	تدوير
 	Rotate:	تدوير:
 	Rotation	التدوير
 	Rotation:	التدوير:
 	Rows	الصفوف
+	Run	تشغيل
+	Run Plug-in	تشغيل المكون الإضافي
 	Save	حفظ
 	Save As	حفظ باسم
 	Save as PDF	حفظ بصيغة PDF
@@ -446,10 +471,13 @@
 	Tables	الجداول
 	Tabloid	Tabloid
 	Text	نص
+	The download stopped.	توقف التنزيل.
 	The passwords don't match.	كلمتا المرور غير متطابقتين.
 	Theme	السمة
 	Thickness	السماكة
 	This document has no bookmarks.	هذا المستند لا يحتوي على إشارات مرجعية.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	هذا المكون الإضافي غير موجود في أي كتالوج تستخدمه: لا تثبّته إلا إذا كنت تثق بمؤلفه.
+	This version asks for different permissions.	يطلب هذا الإصدار أذونات مختلفة.
 	Thumbnails	المصغرات
 	Time	وقت
 	Title	العنوان
@@ -472,6 +500,9 @@
 	Unlock	إلغاء القفل
 	Up	أعلى
 	Update	تحديث
+	Update Plug-ins	تحديث المكونات الإضافية
+	Update to {version}	التحديث إلى {version}
+	Update…	تحديث…
 	User	مستخدم
 	Username	اسم المستخدم
 	Value	القيمة

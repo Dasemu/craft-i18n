@@ -1703,7 +1703,6 @@ certificate	Public key	Offentlig nyckel
 	Rows	Rader
 	rows have between {min} and {max} columns	raderna har mellan {min} och {max} kolumner
 	Rule Name	Regelnamn
-	Run	Kör
 	Run a JavaScript	Kör JavaScript
 	Run form script	Kör formulärskript
 	Run JavaScript	Kör JavaScript

@@ -23,6 +23,7 @@
 	Absolute	Абсолютно
 	Absolute Colorimetric	Абсолютний колориметричний
 	Accented Edges	Акцент на краях
+	Access	Доступ
 	Accessibility	Доступність
 	Accurate	Точний
 	Actions	Дії
@@ -32,7 +33,9 @@
 	Adaptive	Адаптивний
 	Add	Додати
 	Add a comment	Додати коментар
+	Add Catalog	Додати каталог
 	Add Guide	Додати напрямну
+	Add Plug-in Catalog	Додати каталог модулів
 	Add to Dictionary	Додати до словника
 	Add to favorites	Додати до вибраного
 	Add to Swatches	Додати до зразків
@@ -69,6 +72,7 @@
 	Anti-Alias	Згладжування
 	Anti-alias	Згладжування
 	Any	Будь-яке
+	Any command its access allows	Будь-яка команда, яку дозволяє його доступ
 	Appearance	Вигляд
 	Appearance Settings…	Налаштування вигляду…
 	Application	Застосунок
@@ -148,6 +152,7 @@
 	Bring to Front	На передній план
 	Brown	Коричневий
 	Browse	Огляд
+	Browse Catalogs	Огляд каталогів
 	Browse…	Огляд…
 	Brush Size	Розмір пензля
 	Brush Strokes	Мазки пензля
@@ -155,11 +160,13 @@
 	Bulge	Опуклість
 	Bullet	Маркер
 	Burlap	Мішковина
+	By {author}	Автор: {author}
 	Calculate	Обчислення
 	Cancel	Скасувати
 	Canvas	Полотно
 	Caption	Підпис
 	Cascade	Каскад
+	Catalogs	Каталоги
 	Category	Категорія
 	Category:	Категорія:
 	Cell Size	Розмір комірки
@@ -227,6 +234,7 @@
 	Columns:	Стовпці:
 	Combine	Об’єднати
 	Command	Команда
+	Commands	Команди
 	Commands:	Команди:
 	Comment	Коментар
 	Comments	Коментарі
@@ -349,6 +357,7 @@
 	Double-click	Подвійне клацання
 	Down	Униз
 	Download	Завантажити
+	Downloading…	Завантаження…
 	Draft	Чернетка
 	Draw	Малювати
 	Drop Shadow	Тінь
@@ -399,6 +408,7 @@
 	Error	Помилка
 	Even Fields	Парні поля
 	Even pages only	Лише парні сторінки
+	Every plug-in is up to date.	Усі модулі оновлено.
 	Exact	Точний
 	Example: {sample}	Приклад: {sample}
 	Exclusion	Виключення
@@ -467,6 +477,7 @@
 	French	Французька
 	Frequency	Частота
 	From	Від
+	From File…	З файлу…
 	Frosted	Матове
 	Full	Повна
 	Full Screen	Повний екран
@@ -483,6 +494,7 @@
 	Geometry	Геометрія
 	German	Німецька
 	GitHub	GitHub
+	GitHub repository	Репозиторій GitHub
 	Glass	Скло
 	Global	Глобальний
 	Glow	Світіння
@@ -566,8 +578,12 @@
 	Insert	Вставити
 	Inside	Усередині
 	Inspect Document	Перевірити документ
+	Install	Встановити
+	Install from File…	Встановити з файлу…
 	Install Plug-in	Встановити модуль
 	Install Plug-in…	Встановити модуль…
+	Installed {name}.	Встановлено: {name}.
+	Install…	Встановити…
 	Intensity	Інтенсивність
 	Interface	Інтерфейс
 	Interface Language	Мова інтерфейсу
@@ -580,6 +596,7 @@
 	Invert	Інвертувати
 	Invert Mask	Інвертувати маску
 	Isolate	Ізолювати
+	It is kept for this session only.	Він зберігається лише на цей сеанс.
 	Italian	Італійська
 	Italic	Курсив
 	Japanese	Японська
@@ -676,6 +693,7 @@
 	Magenta	Пурпуровий
 	Magic Wand Tool	Інструмент «Чарівна паличка»
 	Magnification	Масштаб
+	Manage Plug-ins…	Керування модулями…
 	Margins	Поля
 	Mask	Маска
 	Matte	Підкладка
@@ -761,6 +779,7 @@
 	No limit	Без обмежень
 	No matches.	Збігів немає.
 	No matching commands	Немає відповідних команд
+	No plug-ins installed.	Модулі не встановлено.
 	No recent files	Немає нещодавніх файлів
 	No results	Нічого не знайдено
 	No Selection	Немає виділення
@@ -847,6 +866,7 @@
 	Pixelate	Пікселізація
 	Pixels	Пікселі
 	Play	Відтворити
+	Plug-in Catalogs	Каталоги модулів
 	Plug-ins	Модулі
 	Point	Точка
 	Pointillize	Пуантилізм
@@ -934,6 +954,7 @@
 	Remove	Видалити
 	Remove Background	Видалити фон
 	Remove from favorites	Видалити з вибраного
+	Remove Plug-in	Забрати модуль
 	Rename	Перейменувати
 	Rename Group…	Перейменувати групу…
 	Rename Style	Перейменувати стиль
@@ -941,6 +962,7 @@
 	Repeat	Повторити
 	Replace	Замінити
 	Replace:	Замінити:
+	Replaces version {version}.	Замінює версію {version}.
 	Reply	Відповісти
 	Report	Звіт
 	Report an Issue…	Повідомити про проблему…
@@ -959,6 +981,7 @@
 	Reverse the order	Зворотний порядок
 	Revert	Повернути до збереженого
 	Review	Рецензування
+	Review…	Переглянути…
 	RGB	RGB
 	RGB Color	Колір RGB
 	RGB:	RGB:
@@ -976,6 +999,8 @@
 	Ruler	Лінійка
 	Rulers	Лінійки
 	Rulers & Grids	Лінійки та сітки
+	Run	Виконати
+	Run Plug-in	Запустити модуль
 	Russian	Російська
 	Sandstone	Пісковик
 	Saturation	Насиченість
@@ -1144,10 +1169,13 @@
 	Text color	Колір тексту
 	Text:	Текст:
 	Texture	Текстура
+	The download stopped.	Завантаження перервалося.
 	The passwords don't match.	Паролі не збігаються.
 	Theme	Тема
 	Thickness	Товщина
 	This document has no bookmarks.	Цей документ не має закладок.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Цього модуля немає в жодному з ваших каталогів: встановлюйте його, лише якщо довіряєте його авторові.
+	This version asks for different permissions.	Ця версія запитує інші дозволи.
 	Threshold	Поріг
 	Thumbnails	Мініатюри
 	Tile	Плитка
@@ -1201,6 +1229,9 @@
 	Untitled	Без назви
 	Up	Угору
 	Update	Оновити
+	Update Plug-ins	Оновити модулі
+	Update to {version}	Оновити до {version}
+	Update…	Оновити…
 	UPPERCASE	ВЕЛИКІ ЛІТЕРИ
 	Use Default	Використати типове значення
 	User	Користувач

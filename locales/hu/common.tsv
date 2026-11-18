@@ -25,6 +25,7 @@
 	Absolute	Abszolút
 	Absolute Colorimetric	Abszolút kolorimetrikus
 	Accented Edges	Kiemelt élek
+	Access	Hozzáférés
 	Accessibility	Akadálymentesség
 	Accurate	Pontos
 	Actions	Műveletek
@@ -34,7 +35,9 @@
 	Adaptive	Adaptív
 	Add	Hozzáadás
 	Add a comment	Megjegyzés hozzáadása
+	Add Catalog	Katalógus hozzáadása
 	Add Guide	Segédvonal hozzáadása
+	Add Plug-in Catalog	Bővítménykatalógus hozzáadása
 	Add to Dictionary	Hozzáadás a szótárhoz
 	Add to favorites	Hozzáadás a kedvencekhez
 	Add to Swatches	Hozzáadás a színmintákhoz
@@ -71,6 +74,7 @@
 	Anti-Alias	Élsimítás
 	Anti-alias	Élsimítás
 	Any	Bármely
+	Any command its access allows	Bármely parancs, amelyet a hozzáférése megenged
 	Appearance	Megjelenés
 theme	Appearance	Kinézet
 	Appearance Settings…	Megjelenési beállítások…
@@ -151,6 +155,7 @@ theme	Appearance	Kinézet
 	Bring to Front	Előre hozás
 	Brown	Barna
 	Browse	Tallózás
+	Browse Catalogs	Katalógusok böngészése
 	Browse…	Tallózás…
 	Brush Size	Ecsetméret
 	Brush Strokes	Ecsetvonások
@@ -158,11 +163,13 @@ theme	Appearance	Kinézet
 	Bulge	Kidudorodás
 	Bullet	Felsorolásjel
 	Burlap	Zsákvászon
+	By {author}	Szerző: {author}
 	Calculate	Számítás
 	Cancel	Mégse
 	Canvas	Vászon
 	Caption	Képaláírás
 	Cascade	Lépcsőzetes elrendezés
+	Catalogs	Katalógusok
 	Category	Kategória
 	Category:	Kategória:
 	Cell Size	Cellaméret
@@ -231,6 +238,7 @@ theme	Appearance	Kinézet
 	Columns:	Oszlopok:
 	Combine	Kombinálás
 	Command	Parancs
+	Commands	Parancsok
 	Commands:	Parancsok:
 	Comment	Megjegyzés
 	Comments	Megjegyzések
@@ -356,6 +364,7 @@ theme	Appearance	Kinézet
 	Double-click	Dupla kattintás
 	Down	Le
 	Download	Letöltés
+	Downloading…	Letöltés…
 	Draft	Vázlat
 	Draw	Rajzolás
 	Drop Shadow	Vetett árnyék
@@ -406,6 +415,7 @@ theme	Appearance	Kinézet
 	Error	Hiba
 	Even Fields	Páros félképek
 	Even pages only	Csak a páros oldalak
+	Every plug-in is up to date.	Minden bővítmény naprakész.
 	Exact	Pontos
 	Example: {sample}	Példa: {sample}
 	Exclusion	Kizárás
@@ -478,6 +488,7 @@ theme	Appearance	Kinézet
 	French	Francia
 	Frequency	Vonalsűrűség
 	From	Kezdőszín
+	From File…	Fájlból…
 	Frosted	Matt
 	Full	Teljes
 	Full Screen	Teljes képernyő
@@ -494,6 +505,7 @@ theme	Appearance	Kinézet
 	Geometry	Geometria
 	German	Német
 	GitHub	GitHub
+	GitHub repository	GitHub-tároló
 	Glass	Üveg
 	Global	Globális
 	Glow	Izzás
@@ -577,8 +589,12 @@ theme	Appearance	Kinézet
 	Insert	Beszúrás
 	Inside	Belül
 	Inspect Document	Dokumentum vizsgálata
+	Install	Telepítés
+	Install from File…	Telepítés fájlból…
 	Install Plug-in	Bővítmény telepítése
 	Install Plug-in…	Bővítmény telepítése…
+	Installed {name}.	Telepítve: {name}.
+	Install…	Telepítés…
 	Intensity	Erősség
 	Interface	Felület
 	Interface Language	Felület nyelve
@@ -591,6 +607,7 @@ theme	Appearance	Kinézet
 	Invert	Invertálás
 	Invert Mask	Maszk invertálása
 	Isolate	Elkülönítés
+	It is kept for this session only.	Csak erre a munkamenetre marad meg.
 	Italian	Olasz
 	Italic	Dőlt
 	Japanese	Japán
@@ -691,6 +708,7 @@ theme	Appearance	Kinézet
 	Magenta	Magenta
 	Magic Wand Tool	Varázspálca
 	Magnification	Nagyítás
+	Manage Plug-ins…	Bővítmények kezelése…
 	Margins	Margók
 	Mask	Maszk
 	Masks	Maszkok
@@ -777,6 +795,7 @@ theme	Appearance	Kinézet
 	No limit	Nincs korlát
 	No matches.	Nincs találat.
 	No matching commands	Nincs egyező parancs
+	No plug-ins installed.	Nincs telepített bővítmény.
 	No recent files	Nincs legutóbbi fájl
 	No results	Nincs találat
 	No Selection	Nincs kijelölés
@@ -865,6 +884,7 @@ theme	Appearance	Kinézet
 	Pixelate	Pixelesítés
 	Pixels	Pixel
 	Play	Lejátszás
+	Plug-in Catalogs	Bővítménykatalógusok
 	Plug-ins	Bővítmények
 	Point	Pont
 	Pointillize	Pointillista
@@ -952,6 +972,7 @@ theme	Appearance	Kinézet
 	Remove	Eltávolítás
 	Remove Background	Háttér eltávolítása
 	Remove from favorites	Eltávolítás a kedvencek közül
+	Remove Plug-in	Bővítmény eltávolítása
 	Rename	Átnevezés
 	Rename Group…	Csoport átnevezése…
 	Rename Style	Stílus átnevezése
@@ -959,6 +980,7 @@ theme	Appearance	Kinézet
 	Repeat	Ismétlés
 	Replace	Csere
 	Replace:	Mit:
+	Replaces version {version}.	A(z) {version} verziót váltja fel.
 	Reply	Válasz
 	Report	Jelentés
 	Report an Issue…	Hiba bejelentése…
@@ -978,6 +1000,7 @@ theme	Appearance	Kinézet
 	Reverse the order	Fordított sorrend
 	Revert	Visszaállítás
 	Review	Véleményezés
+	Review…	Áttekintés…
 	RGB	RGB
 	RGB Color	RGB-szín
 	RGB:	RGB:
@@ -995,6 +1018,8 @@ theme	Appearance	Kinézet
 	Ruler	Vonalzó
 	Rulers	Vonalzók
 	Rulers & Grids	Vonalzók és rácsok
+	Run	Futtatás
+	Run Plug-in	Bővítmény futtatása
 	Russian	Orosz
 	Sample Size	Mintaméret
 	Sandstone	Homokkő
@@ -1165,10 +1190,13 @@ theme	Appearance	Kinézet
 	Text color	Szövegszín
 	Text:	Szöveg:
 	Texture	Textúra
+	The download stopped.	A letöltés megszakadt.
 	The passwords don't match.	A két jelszó nem egyezik.
 	Theme	Téma
 	Thickness	Vastagság
 	This document has no bookmarks.	Ebben a dokumentumban nincs könyvjelző.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Ez a bővítmény egyik általad használt katalógusban sem szerepel: csak akkor telepítsd, ha megbízol a szerzőjében.
+	This version asks for different permissions.	Ez a verzió más engedélyeket kér.
 	Threshold	Küszöbérték
 	Thumbnails	Bélyegképek
 	Tile	Mozaikelrendezés
@@ -1222,7 +1250,10 @@ theme	Appearance	Kinézet
 	Untitled	Névtelen
 	Up	Fel
 	Update	Frissítés
+	Update Plug-ins	Bővítmények frissítése
+	Update to {version}	Frissítés erre: {version}
 	Updates	Frissítések
+	Update…	Frissítés…
 	UPPERCASE	NAGYBETŰS
 	Use Default	Alapértelmezett használata
 	Username	Felhasználónév

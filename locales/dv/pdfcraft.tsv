@@ -1915,7 +1915,6 @@ certificate	Public key	ޕަބްލިކް ކީ
 	Rows	ރޯތައް
 	rows have between {min} and {max} columns	ރޯތަކުގައި {min} އާއި {max} އާ ދެމެދުގެ ކޮލަމް ހުރި
 	Rule Name	ރޫލްގެ ނަން
-	Run	ހިންގާ
 	Run a JavaScript	JavaScript އެއް ހިންގާ
 	Run form script	ފޯމު ސްކްރިޕްޓް ހިންގާ
 	Run JavaScript	JavaScript ހިންގާ

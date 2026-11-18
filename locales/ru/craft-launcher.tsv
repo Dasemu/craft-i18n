@@ -74,7 +74,6 @@ month	Dec	дек.
 	Download paused	Скачивание приостановлено
 	Downloading	Скачивание
 	Downloading {done} of {total}	Скачивание {done} из {total}
-	Downloading…	Скачивание…
 	Downloads for {platform}	Скачивание для {platform}
 	Downloads the new version, replaces this one and opens it again	Скачивает новую версию, заменяет текущую и открывает её заново
 	Enlarge picture	Увеличить изображение
@@ -88,7 +87,6 @@ month	Feb	февр.
 	Flatpak bundle	Пакет Flatpak
 	Full changelog	Полный список изменений
 	GitHub limit hit; back in {min} min	Лимит GitHub исчерпан; вернётся через {min} мин
-	GitHub repository	Репозиторий GitHub
 	GitHub's hourly limit was reached; full details return in {min} min	Достигнут часовой лимит GitHub; полные детали вернутся через {min} мин
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -97,7 +95,6 @@ month	Feb	февр.
 	Hide App	Скрыть приложение
 photocraft	Image editing	Редактирование изображений
 	Include pre-releases (betas and release candidates)	Включать предварительные релизы (бета и RC)
-	Install	Установить
 	Install cancelled	Установка отменена
 	Install cancelled. The download is kept for the next try.	Установка отменена. Скачанный файл сохранён для следующей попытки.
 	Install folder	Папка установки

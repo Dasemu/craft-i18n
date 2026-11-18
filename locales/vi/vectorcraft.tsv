@@ -2725,7 +2725,6 @@ gradient-kind	Radial	Hướng tâm
 	Remove Guide	Gỡ đường căn
 	Remove Item	Gỡ mục
 	Remove JavaScript File	Gỡ tệp JavaScript
-	Remove Plug-in	Gỡ plug-in
 	Remove Selected Assets	Gỡ các asset đã chọn
 	Remove Selected Entry	Gỡ mục đã chọn
 	Remove Threading	Gỡ liên kết chuỗi văn bản
@@ -2870,7 +2869,6 @@ diagnostics	render	kết xuất
 	Rows:	Hàng:
 	Rule:	Quy tắc:
 	Ruler Origin	Gốc thước
-	Run Plug-in	Chạy plug-in
 	Runs code the checker can't read	Chạy mã mà trình kiểm tra không đọc được
 	Same	Giống nhau
 	Same As Source	Giống nguồn

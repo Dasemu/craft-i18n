@@ -15,9 +15,12 @@
 	(Custom)	(Kohandatud)
 	(none)	(puudub)
 	About	Teave
+	Access	Juurdepääs
 	Accessibility	Ligipääsetavus
 	Add	Lisa
 	Add a comment	Lisa kommentaar
+	Add Catalog	Lisa kataloog
+	Add Plug-in Catalog	Lisa pistikprogrammide kataloog
 	Add to Dictionary	Lisa sõnastikku
 	Adjust	Kohanda
 	Advanced	Täpsem
@@ -32,6 +35,7 @@
 	All files	Kõik failid
 	All pages	Kõik leheküljed
 	Animation	Animatsioon
+	Any command its access allows	Iga käsk, mida selle juurdepääs lubab
 	Apply	Rakenda
 	Apply Character Style	Rakenda märgistiil
 	Apply to:	Rakenda:
@@ -55,10 +59,13 @@
 	Bottom:	All:
 	Break Link	Katkesta link
 	Bring Forward	Too ettepoole
+	Browse Catalogs	Sirvi katalooge
 	Browse…	Sirvi…
 	Bullet	Täpp
+	By {author}	Autor: {author}
 	Cancel	Loobu
 	Caption	Pealdis
+	Catalogs	Kataloogid
 	Category	Kategooria
 	Cell Size	Lahtri suurus
 	Center	Keskele
@@ -83,6 +90,7 @@
 	Columns	Veerud
 	Columns:	Veerud:
 	Combine	Ühenda
+	Commands	Käsud
 	Commands:	Käsud:
 	Comment	Kommentaar
 	Comments	Kommentaarid
@@ -128,6 +136,7 @@
 	Don't Save	Ära salvesta
 	Dotted	Punktiir
 	Down	Alla
+	Downloading…	Allalaadimine…
 	Draft	Mustand
 	Draw	Joonista
 	Dutch	Hollandi
@@ -143,6 +152,7 @@
 	Envelope DL	Ümbrik DL
 	Eraser	Kustutuskumm
 	Even pages only	Ainult paarisleheküljed
+	Every plug-in is up to date.	Kõik pistikprogrammid on ajakohased.
 	Example: {sample}	Näide: {sample}
 	Expand	Laienda
 	Export	Ekspordi
@@ -172,8 +182,10 @@
 	Fonts	Fondid
 	Format	Vorming
 	Format:	Vorming:
+	From File…	Failist…
 	Full Screen	Täisekraan
 	General	Üldine
+	GitHub repository	GitHubi hoidla
 	Glow	Kuma
 	Graphic	Pilt
 	Grayscale	Halltoonid
@@ -197,9 +209,14 @@
 	Info	Teave
 	Insert	Lisa
 	Inspect Document	Kontrolli dokumenti
+	Install	Paigalda
+	Install from File…	Paigalda failist…
+	Installed {name}.	Paigaldatud: {name}.
+	Install…	Paigalda…
 	Interface	Kasutajaliides
 	Interface language	Kasutajaliidese keel
 	Interface Theme	Kasutajaliidese kujundus
+	It is kept for this session only.	See säilib ainult selle seansi ajaks.
 	Italian	Itaalia
 	Italic	Kaldkiri
 	Japanese	Jaapani
@@ -232,6 +249,7 @@
 	List	Loend
 	Location	Asukoht
 	lowercase	väiketähed
+	Manage Plug-ins…	Halda pistikprogramme…
 	Margins	Veerised
 	Medium	Keskmine
 	Merge	Ühenda
@@ -261,6 +279,7 @@
 	No	Ei
 	No Color	Värvita
 	No limit	Piiranguta
+	No plug-ins installed.	Pistikprogramme pole paigaldatud.
 	Nonbreaking Space	Poolitamatu tühik
 	None	Puudub
 	Number	Number
@@ -290,6 +309,7 @@
 	Pencil	Grafiitpliiats
 	Picas	Piikad
 	Play	Esita
+	Plug-in Catalogs	Pistikprogrammide kataloogid
 	Points	Punktid
 	Portrait	Püstpaigutus
 	Position	Asukoht
@@ -316,12 +336,14 @@
 	Relaxed	Hõre
 	Remove	Eemalda
 	Remove Background	Eemalda taust
+	Remove Plug-in	Eemalda pistikprogramm
 	Rename	Nimeta ümber
 	Rename Style	Nimeta stiil ümber
 	Rename…	Nimeta ümber…
 	Repeat	Korda
 	Replace	Asenda
 	Replace:	Asenda:
+	Replaces version {version}.	Asendab versiooni {version}.
 	Reply	Vasta
 	Report	Aruanne
 	Reset	Lähtesta
@@ -329,6 +351,7 @@
 	Result	Tulemus
 	Reverse the order	Pööra järjestus ümber
 	Review	Läbivaatus
+	Review…	Vaata üle…
 	Right	Parem
 	Right:	Paremal:
 	Rotate	Pööra
@@ -336,6 +359,8 @@
 	Rotation:	Pööre:
 	Rounded Rectangle	Ümarnurkadega ristkülik
 	Ruler	Joonlaud
+	Run	Käivita
+	Run Plug-in	Käivita pistikprogramm
 	Russian	Vene
 	Save	Salvesta
 	Save As	Salvesta nimega
@@ -398,8 +423,11 @@
 	Templates	Mallid
 	Text	Tekst
 	Text:	Tekst:
+	The download stopped.	Allalaadimine katkes.
 	The passwords don't match.	Paroolid ei ühti.
 	Thickness	Paksus
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Seda pistikprogrammi pole üheski kasutatavas kataloogis: paigalda see ainult siis, kui usaldad selle autorit.
+	This version asks for different permissions.	See versioon küsib teistsuguseid õigusi.
 	Title	Pealkiri
 	Tools	Tööriistad
 	Top	Ülal
@@ -417,6 +445,9 @@
 	Undo {action}	Võta tagasi: {action}
 	Ungroup	Tühista rühmitus
 	Up	Üles
+	Update Plug-ins	Uuenda pistikprogramme
+	Update to {version}	Uuenda versioonile {version}
+	Update…	Uuenda…
 	UPPERCASE	SUURTÄHED
 	Username	Kasutajanimi
 	Value	Väärtus

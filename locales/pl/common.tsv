@@ -25,6 +25,7 @@
 	Absolute	Bezwzględne
 	Absolute Colorimetric	Kolorymetryczna bezwzględna
 	Accented Edges	Akcentowane krawędzie
+	Access	Dostęp
 	Accessibility	Ułatwienia dostępu
 	Accurate	Dokładnie
 	Actions	Akcje
@@ -34,7 +35,9 @@
 	Adaptive	Adaptacyjna
 	Add	Dodaj
 	Add a comment	Dodaj komentarz
+	Add Catalog	Dodaj katalog
 	Add Guide	Dodaj linię pomocniczą
+	Add Plug-in Catalog	Dodaj katalog wtyczek
 	Add to Dictionary	Dodaj do słownika
 	Add to favorites	Dodaj do ulubionych
 	Add to Swatches	Dodaj do próbek
@@ -71,6 +74,7 @@
 	Anti-Alias	Wygładzanie krawędzi
 	Anti-alias	Wygładzanie
 	Any	Dowolne
+	Any command its access allows	Dowolne polecenie, na które pozwala jej dostęp
 	Appearance	Wygląd
 theme	Appearance	Wygląd
 	Appearance Settings…	Ustawienia wyglądu…
@@ -150,6 +154,7 @@ theme	Appearance	Wygląd
 	Bring Forward	Przesuń do przodu
 	Bring to Front	Przenieś na wierzch
 	Browse	Przeglądaj
+	Browse Catalogs	Przeglądaj katalogi
 	Browse…	Przeglądaj…
 	Brush Size	Rozmiar pędzla
 	Brush Strokes	Pociągnięcia pędzla
@@ -157,11 +162,13 @@ theme	Appearance	Wygląd
 	Bulge	Wybrzuszenie
 	Bullet	Punktor
 	Burlap	Juta
+	By {author}	Autor: {author}
 	Calculate	Obliczenia
 	Cancel	Anuluj
 	Canvas	Płótno
 	Caption	Podpis
 	Cascade	Kaskadowo
+	Catalogs	Katalogi
 	Category	Kategoria
 	Category:	Kategoria:
 	Cell Size	Rozmiar komórki
@@ -230,6 +237,7 @@ theme	Appearance	Wygląd
 	Columns:	Kolumny:
 	Combine	Połącz
 	Command	Polecenie
+	Commands	Polecenia
 	Commands:	Polecenia:
 	Comment	Komentarz
 	Comments	Komentarze
@@ -352,6 +360,7 @@ theme	Appearance	Wygląd
 	Double-click	Kliknij dwukrotnie
 	Down	W dół
 	Download	Pobierz
+	Downloading…	Pobieranie…
 	Draft	Robocza
 	Draw	Rysowanie
 	Drop Shadow	Cień
@@ -401,6 +410,7 @@ theme	Appearance	Wygląd
 	Error	Błąd
 	Even Fields	Pola parzyste
 	Even pages only	Tylko strony parzyste
+	Every plug-in is up to date.	Wszystkie wtyczki są aktualne.
 	Exact	Dokładne
 	Example: {sample}	Przykład: {sample}
 	Exclusion	Wykluczenie
@@ -469,6 +479,7 @@ theme	Appearance	Wygląd
 	French	Francuski
 	Frequency	Częstotliwość
 	From	Od
+	From File…	Z pliku…
 	Frosted	Matowe szkło
 	Full	Pełna
 	Full Screen	Pełny ekran
@@ -485,6 +496,7 @@ theme	Appearance	Wygląd
 	Geometry	Geometria
 	German	Niemiecki
 	GitHub	GitHub
+	GitHub repository	Repozytorium na GitHubie
 	Glass	Szkło
 	Global	Globalny
 	Glow	Poświata
@@ -567,8 +579,12 @@ theme	Appearance	Wygląd
 	Insert	Wstaw
 	Inside	Wewnątrz
 	Inspect Document	Zbadaj dokument
+	Install	Instaluj
+	Install from File…	Zainstaluj z pliku…
 	Install Plug-in	Zainstaluj wtyczkę
 	Install Plug-in…	Zainstaluj wtyczkę…
+	Installed {name}.	Zainstalowano: {name}.
+	Install…	Zainstaluj…
 	Intensity	Natężenie
 	Interface	Interfejs
 	Interface Language	Język interfejsu
@@ -581,6 +597,7 @@ theme	Appearance	Wygląd
 	Invert	Odwróć
 	Invert Mask	Odwróć maskę
 	Isolate	Izoluj
+	It is kept for this session only.	Jest zachowana tylko na czas tej sesji.
 	Italian	Włoski
 	Italic	Kursywa
 	Japanese	Japoński
@@ -680,6 +697,7 @@ theme	Appearance	Wygląd
 	Magenta	Magenta
 	Magic Wand Tool	Narzędzie Różdżka
 	Magnification	Powiększenie
+	Manage Plug-ins…	Zarządzaj wtyczkami…
 	Margins	Marginesy
 	Mask	Maska
 	Matte	Matowanie
@@ -765,6 +783,7 @@ theme	Appearance	Wygląd
 	No limit	Bez limitu
 	No matches.	Brak dopasowań.
 	No matching commands	Brak pasujących poleceń
+	No plug-ins installed.	Brak zainstalowanych wtyczek.
 	No recent files	Brak ostatnich plików
 	No results	Brak wyników
 	No Selection	Brak zaznaczenia
@@ -852,6 +871,7 @@ theme	Appearance	Wygląd
 	Pixelate	Pikselizacja
 	Pixels	Piksele
 	Play	Odtwórz
+	Plug-in Catalogs	Katalogi wtyczek
 	Plug-ins	Wtyczki
 	Point	Punkt
 	Pointillize	Puentylizm
@@ -939,6 +959,7 @@ theme	Appearance	Wygląd
 	Remove	Usuń
 	Remove Background	Usuń tło
 	Remove from favorites	Usuń z ulubionych
+	Remove Plug-in	Usuń wtyczkę
 	Rename	Zmień nazwę
 	Rename Group…	Zmień nazwę grupy…
 	Rename Style	Zmień nazwę stylu
@@ -946,6 +967,7 @@ theme	Appearance	Wygląd
 	Repeat	Powtórzenie
 	Replace	Zamień
 	Replace:	Zamień:
+	Replaces version {version}.	Zastępuje wersję {version}.
 	Reply	Odpowiedz
 	Report	Raport
 	Report an Issue…	Zgłoś problem…
@@ -965,6 +987,7 @@ theme	Appearance	Wygląd
 	Reverse the order	Odwróć kolejność
 	Revert	Przywróć
 	Review	Recenzja
+	Review…	Przejrzyj…
 	RGB	RGB
 	RGB Color	Kolor RGB
 	RGB:	RGB:
@@ -982,6 +1005,8 @@ theme	Appearance	Wygląd
 	Ruler	Linijka
 	Rulers	Linijki
 	Rulers & Grids	Linijki i siatki
+	Run	Uruchom
+	Run Plug-in	Uruchom wtyczkę
 	Russian	Rosyjski
 	Sandstone	Piaskowiec
 	Saturation	Nasycenie
@@ -1151,10 +1176,13 @@ theme	Appearance	Wygląd
 	Text color	Kolor tekstu
 	Text:	Tekst:
 	Texture	Tekstura
+	The download stopped.	Pobieranie zostało przerwane.
 	The passwords don't match.	Hasła nie są zgodne.
 	Theme	Motyw
 	Thickness	Grubość linii
 	This document has no bookmarks.	Ten dokument nie zawiera zakładek.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Tej wtyczki nie ma w żadnym używanym przez ciebie katalogu: zainstaluj ją tylko wtedy, gdy ufasz jej autorowi.
+	This version asks for different permissions.	Ta wersja prosi o inne uprawnienia.
 	Threshold	Próg
 	Thumbnails	Miniatury
 	Tile	Sąsiadująco
@@ -1207,7 +1235,10 @@ theme	Appearance	Wygląd
 	Untitled	Bez tytułu
 	Up	W górę
 	Update	Aktualizuj
+	Update Plug-ins	Aktualizuj wtyczki
+	Update to {version}	Aktualizuj do wersji {version}
 	Updates	Aktualizacje
+	Update…	Aktualizuj…
 	UPPERCASE	WIELKIE LITERY
 	Use Default	Użyj domyślnego
 	Username	Nazwa użytkownika

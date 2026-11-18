@@ -25,6 +25,7 @@
 	Absolute	絶対
 	Absolute Colorimetric	絶対的な色域を維持
 	Accented Edges	エッジの強調
+	Access	アクセス
 	Accessibility	アクセシビリティ
 	Accurate	精細
 	Actions	アクション
@@ -34,7 +35,9 @@
 	Adaptive	アダプティブ
 	Add	追加
 	Add a comment	注釈を追加
+	Add Catalog	カタログを追加
 	Add Guide	ガイドを追加
+	Add Plug-in Catalog	プラグインカタログを追加
 	Add to Dictionary	辞書に追加
 	Add to favorites	お気に入りに追加
 	Add to Swatches	スウォッチに追加
@@ -71,6 +74,7 @@
 	Anti-Alias	アンチエイリアス
 	Anti-alias	アンチエイリアス
 	Any	いずれか
+	Any command its access allows	アクセス権で許可されている任意のコマンド
 	Appearance	外観
 theme	Appearance	外観
 	Appearance Settings…	外観設定…
@@ -151,6 +155,7 @@ theme	Appearance	外観
 	Bring to Front	最前面へ
 	Brown	ブラウン
 	Browse	参照
+	Browse Catalogs	カタログを参照
 	Browse…	参照…
 	Brush Size	ブラシサイズ
 	Brush Strokes	ブラシストローク
@@ -158,12 +163,14 @@ theme	Appearance	外観
 	Bulge	膨らみ
 	Bullet	箇条書き記号
 	Burlap	麻布
+	By {author}	作成者: {author}
 	Calculate	計算
 	Cancel	キャンセル
 	Canvas	カンバス
 	Caption	キャプション
 	Cascade	重ねて表示
 	Case Sensitive	大文字と小文字を区別
+	Catalogs	カタログ
 	Category	カテゴリー
 	Category:	カテゴリ:
 	Cell Size	セルの大きさ
@@ -233,6 +240,7 @@ theme	Appearance	外観
 	Columns:	列数:
 	Combine	結合
 	Command	コマンド
+	Commands	コマンド
 	Commands:	コマンド:
 	Comment	コメント
 	Comments	コメント
@@ -357,6 +365,7 @@ theme	Appearance	外観
 	Double-click	ダブルクリック
 	Down	下
 	Download	ダウンロード
+	Downloading…	ダウンロード中…
 	Draft	ドラフト
 	Draw	描画
 	Drop Shadow	ドロップシャドウ
@@ -407,6 +416,7 @@ theme	Appearance	外観
 	Error	エラー
 	Even Fields	偶数フィールド
 	Even pages only	偶数ページのみ
+	Every plug-in is up to date.	すべてのプラグインは最新です。
 	Exact	正確
 	Example: {sample}	例: {sample}
 	Exclusion	除外
@@ -478,6 +488,7 @@ theme	Appearance	外観
 	French	フランス語
 	Frequency	線数
 	From	開始
+	From File…	ファイルから…
 	Frosted	すりガラス
 	Full	フル
 	Full Screen	フルスクリーン
@@ -493,6 +504,7 @@ theme	Appearance	外観
 	Generate	自動生成
 	German	ドイツ語
 	GitHub	GitHub
+	GitHub repository	GitHub リポジトリ
 	Glass	ガラス
 	Global	グローバル
 	Glow	グロー
@@ -576,8 +588,12 @@ theme	Appearance	外観
 	Insert	挿入
 	Inside	内側
 	Inspect Document	ドキュメントを調査
+	Install	インストール
+	Install from File…	ファイルからインストール…
 	Install Plug-in	プラグインをインストール
 	Install Plug-in…	プラグインをインストール…
+	Installed {name}.	{name} をインストールしました。
+	Install…	インストール…
 	Intensity	強さ
 	Interface	インターフェイス
 	Interface Language	表示言語
@@ -590,6 +606,7 @@ theme	Appearance	外観
 	Invert	反転
 	Invert Mask	マスクを反転
 	Isolate	分離
+	It is kept for this session only.	このセッションの間だけ保持されます。
 	Italian	イタリア語
 	Italic	斜体
 	Japanese	日本語
@@ -690,6 +707,7 @@ theme	Appearance	外観
 	Magenta	マゼンタ
 	Magic Wand Tool	自動選択ツール
 	Magnification	倍率
+	Manage Plug-ins…	プラグインを管理…
 	Margins	余白
 	Mask	マスク
 	Masks	マスク
@@ -776,6 +794,7 @@ theme	Appearance	外観
 	No limit	制限なし
 	No matches.	一致する項目がありません。
 	No matching commands	一致するコマンドがありません
+	No plug-ins installed.	インストールされているプラグインはありません。
 	No recent files	最近のファイルがありません
 	No results	結果はありません
 	No Selection	選択なし
@@ -864,6 +883,7 @@ theme	Appearance	外観
 	Pixelate	ピクセレート
 	Pixels	ピクセル
 	Play	再生
+	Plug-in Catalogs	プラグインカタログ
 	Plug-ins	プラグイン
 	Point	ポイント
 	Pointillize	点描
@@ -951,6 +971,7 @@ theme	Appearance	外観
 	Remove	削除
 	Remove Background	背景を削除
 	Remove from favorites	お気に入りから削除
+	Remove Plug-in	プラグインを削除
 	Rename	名前を変更
 	Rename Group…	グループ名を変更…
 	Rename Style	スタイルの名前を変更
@@ -958,6 +979,7 @@ theme	Appearance	外観
 	Repeat	繰り返し
 	Replace	置換
 	Replace:	置換前:
+	Replaces version {version}.	バージョン {version} を置き換えます。
 	Reply	返信
 	Report	レポート
 	Report an Issue…	問題を報告…
@@ -977,6 +999,7 @@ theme	Appearance	外観
 	Reverse the order	順序を逆にする
 	Revert	保存済みの状態に戻す
 	Review	レビュー
+	Review…	確認…
 	RGB	RGB
 	RGB Color	RGB カラー
 	RGB:	RGB:
@@ -994,6 +1017,8 @@ theme	Appearance	外観
 	Ruler	定規
 	Rulers	定規
 	Rulers & Grids	定規とグリッド
+	Run	実行
+	Run Plug-in	プラグインを実行
 	Russian	ロシア語
 	Sample Size	サンプルサイズ
 	Sandstone	砂岩
@@ -1164,10 +1189,13 @@ theme	Appearance	外観
 	Text color	文字色
 	Text:	テキスト:
 	Texture	テクスチャ
+	The download stopped.	ダウンロードが止まりました。
 	The passwords don't match.	パスワードが一致しません。
 	Theme	テーマ
 	Thickness	太さ
 	This document has no bookmarks.	この文書にしおりはありません。
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	このプラグインは、使用しているどのカタログにも含まれていません。作成者を信頼できる場合にのみインストールしてください。
+	This version asks for different permissions.	このバージョンは異なる権限を求めています。
 	Threshold	しきい値
 	Thumbnails	サムネイル
 	Tile	並べて表示
@@ -1220,7 +1248,10 @@ theme	Appearance	外観
 	Untitled	名称未設定
 	Up	上へ
 	Update	更新
+	Update Plug-ins	プラグインを更新
+	Update to {version}	{version} に更新
 	Updates	更新
+	Update…	更新…
 	UPPERCASE	すべて大文字
 	Use Default	既定を使用
 	User	ユーザー

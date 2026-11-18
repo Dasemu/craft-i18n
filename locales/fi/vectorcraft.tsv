@@ -2900,7 +2900,6 @@ effect	Regular	Normaali
 	Remove Guide	Poista apuviiva
 	Remove Item	Poista kohde
 	Remove JavaScript File	Poista JavaScript-tiedosto
-	Remove Plug-in	Poista laajennus
 	Remove Selected Assets	Poista valitut resurssit
 	Remove Selected Entry	Poista valittu merkintä
 	Remove the shortcut	Poista pikanäppäin
@@ -3055,7 +3054,6 @@ diagnostics	render	renderöinti
 	Rule:	Sääntö:
 	Ruler Origin	Viivaimen origo
 	Run Length	Ajonpituus
-	Run Plug-in	Suorita laajennus
 	Runs code the checker can't read	Suorittaa koodia, jota tarkistin ei pysty lukemaan
 	Same	Sama
 	Same As Source	Sama kuin lähde

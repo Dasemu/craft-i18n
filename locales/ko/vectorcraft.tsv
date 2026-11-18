@@ -2728,7 +2728,6 @@ gradient-kind	Radial	방사형
 	Remove Guide	안내선 제거
 	Remove Item	항목 제거
 	Remove JavaScript File	JavaScript 파일 제거
-	Remove Plug-in	플러그인 제거
 	Remove Selected Assets	선택한 에셋 제거
 	Remove Selected Entry	선택한 항목 제거
 	Remove Threading	연결 제거
@@ -2869,7 +2868,6 @@ diagnostics	render	렌더링
 	Rows:	행:
 	Rule:	규칙:
 	Ruler Origin	눈금자 원점
-	Run Plug-in	플러그인 실행
 	Runs code the checker can't read	검사기가 읽을 수 없는 코드 실행
 	Same	동일
 	Same As Source	원본과 동일

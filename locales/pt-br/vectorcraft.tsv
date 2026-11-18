@@ -3171,7 +3171,6 @@ effect	Regular	Regular
 	Remove Guide	Remover Guia
 	Remove Item	Remover Item
 	Remove JavaScript File	Remover Arquivo JavaScript
-	Remove Plug-in	Remover Plug-in
 	Remove Selected Assets	Remover Ativos Selecionados
 	Remove Selected Entry	Remover Entrada Selecionada
 	Remove the shortcut	Remover o atalho
@@ -3334,7 +3333,6 @@ swatch	Rose	Rosê
 	Rule:	Regra:
 	Ruler Origin	Origem das réguas
 	Run Length	Run Length
-	Run Plug-in	Executar Plug-in
 	Runs code the checker can't read	Executa código que a verificação não consegue ler
 swatch	Rust	Ferrugem
 	Same	Igual

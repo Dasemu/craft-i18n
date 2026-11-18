@@ -25,6 +25,7 @@
 	Absolute	Абсолютен
 	Absolute Colorimetric	Абсолютен колориметричен
 	Accented Edges	Подчертани ръбове
+	Access	Достъп
 	Accessibility	Достъпност
 	Accurate	Точно
 	Actions	Действия
@@ -34,7 +35,9 @@
 	Adaptive	Адаптивен
 	Add	Добавяне
 	Add a comment	Добавяне на коментар
+	Add Catalog	Добавяне на каталог
 	Add Guide	Добавяне на водач
+	Add Plug-in Catalog	Добавяне на каталог с приставки
 	Add to Dictionary	Добавяне в речника
 	Add to Swatches	Добавяне към образци
 	Adjust	Коригиране
@@ -67,6 +70,7 @@
 	Anti-Alias	Заглаждане
 	Anti-alias	Заглаждане
 	Any	Всяко
+	Any command its access allows	Всяка команда, която достъпът ѝ позволява
 	Appearance	Външен вид
 theme	Appearance	Външен вид
 	Application	Приложение
@@ -136,16 +140,19 @@ theme	Appearance	Външен вид
 	Bring Forward	Преместване напред
 	Bring to Front	Преместване най-отпред
 	Brown	Кафяв
+	Browse Catalogs	Разглеждане на каталозите
 	Browse…	Преглед…
 	Brush Strokes	Щрихи с четка
 	Brushes	Четки
 	Bullet	Булет
 	Burlap	Чувалчище
+	By {author}	От {author}
 	Calculate	Изчисляване
 	Cancel	Отказ
 	Canvas	Платно
 	Caption	Надпис
 	Cascade	Каскада
+	Catalogs	Каталози
 	Category	Категория
 	Category:	Категория:
 	Cell Size	Размер на клетката
@@ -205,6 +212,7 @@ theme	Appearance	Външен вид
 	Columns:	Колони:
 	Combine	Комбиниране
 	Command	Команда
+	Commands	Команди
 	Commands:	Команди:
 	Comment	Коментар
 	Comments	Коментари
@@ -316,6 +324,7 @@ theme	Appearance	Външен вид
 	Double-click	Двойно щракване
 	Down	Надолу
 	Download	Изтегляне
+	Downloading…	Изтегляне…
 	Draft	Чернова
 	Draw	Рисуване
 	Drop Shadow	Падаща сянка
@@ -361,6 +370,7 @@ theme	Appearance	Външен вид
 	Error	Грешка
 	Even Fields	Четни полета
 	Even pages only	Само четните страници
+	Every plug-in is up to date.	Всички приставки са актуални.
 	Exact	Точен
 	Example: {sample}	Пример: {sample}
 	Exclusion	Изключване
@@ -425,6 +435,7 @@ theme	Appearance	Външен вид
 	French	Френски
 	Frequency	Честота
 	From	От
+	From File…	От файл…
 	Frosted	Матирано
 	Full Screen	Цял екран
 	Full Screen Mode	Режим на цял екран
@@ -436,6 +447,7 @@ theme	Appearance	Външен вид
 	General	Общи
 	Geometry	Геометрия
 	German	Немски
+	GitHub repository	Хранилище в GitHub
 	Glass	Стъкло
 	Global	Глобален
 	Glow	Сияние
@@ -512,8 +524,12 @@ theme	Appearance	Външен вид
 	Insert	Вмъкване
 	Inside	От вътрешната страна
 	Inspect Document	Инспектиране на документа
+	Install	Инсталиране
+	Install from File…	Инсталиране от файл…
 	Install Plug-in	Инсталиране на приставка
 	Install Plug-in…	Инсталиране на приставка…
+	Installed {name}.	Инсталирано: {name}.
+	Install…	Инсталиране…
 	Intensity	Интензивност
 	Interface	Интерфейс
 	Interface Language	Език на интерфейса
@@ -526,6 +542,7 @@ theme	Appearance	Външен вид
 	Invert	Инвертиране
 	Invert Mask	Инвертиране на маската
 	Isolate	Изолиране
+	It is kept for this session only.	Тя се пази само за тази сесия.
 	Italian	Италиански
 	Italic	Курсив
 	Japanese	Японски
@@ -614,6 +631,7 @@ theme	Appearance	Външен вид
 	Magenta	Магента
 	Magic Wand Tool	Инструмент „Вълшебна пръчка“
 	Magnification	Мащаб
+	Manage Plug-ins…	Управление на приставките…
 	Margins	Полета
 	Mask	Маска
 	Matte	Матово
@@ -690,6 +708,7 @@ theme	Appearance	Външен вид
 	No document open	Няма отворен документ
 	No limit	Без ограничение
 	No matches.	Няма съвпадения.
+	No plug-ins installed.	Няма инсталирани приставки.
 	No recent files	Няма последни файлове
 	No results	Няма резултати
 	No Selection	Няма селекция
@@ -770,6 +789,7 @@ theme	Appearance	Външен вид
 	Pixelate	Пикселизиране
 	Pixels	Пиксели
 	Play	Възпроизвеждане
+	Plug-in Catalogs	Каталози с приставки
 	Plug-ins	Приставки
 	Pointillize	Поантилиране
 	Pointillize…	Поантилиране…
@@ -845,6 +865,7 @@ theme	Appearance	Външен вид
 	Reload	Презареди
 	Remove	Премахване
 	Remove Background	Премахване на фона
+	Remove Plug-in	Премахване на приставка
 	Rename	Преименуване
 	Rename Group…	Преименуване на група…
 	Rename Style	Преименуване на стил
@@ -852,6 +873,7 @@ theme	Appearance	Външен вид
 	Repeat	Повтаряне
 	Replace	Замяна
 	Replace:	Замяна:
+	Replaces version {version}.	Заменя версия {version}.
 	Reply	Отговор
 	Report	Отчет
 	Reselect	Избиране отново
@@ -868,6 +890,7 @@ theme	Appearance	Външен вид
 	Reverse the order	Обръщане на реда
 	Revert	Връщане към запазеното
 	Review	Преглед
+	Review…	Преглед…
 	RGB	RGB
 	RGB Color	RGB цвят
 	RGB:	RGB:
@@ -884,6 +907,8 @@ theme	Appearance	Външен вид
 	Ruler	Линийка
 	Rulers	Линийки
 	Rulers & Grids	Линийки и мрежи
+	Run	Изпълни
+	Run Plug-in	Изпълнение на приставка
 	Russian	Руски
 	Sandstone	Пясъчник
 	Saturation	Насищане
@@ -1042,9 +1067,12 @@ theme	Appearance	Външен вид
 	Text	Текст
 	Text:	Текст:
 	Texture	Текстура
+	The download stopped.	Изтеглянето спря.
 	The passwords don't match.	Паролите не съвпадат.
 	Thickness	Дебелина
 	This document has no bookmarks.	Този документ няма отметки.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Тази приставка не е в нито един каталог, който използвате: инсталирайте я само ако имате доверие на автора ѝ.
+	This version asks for different permissions.	Тази версия иска различни разрешения.
 	Threshold	Праг
 	Thumbnails	Миниатюри
 	Tile	Мозайка
@@ -1091,6 +1119,9 @@ theme	Appearance	Външен вид
 	Untitled	Без заглавие
 	Up	Нагоре
 	Update	Актуализирай
+	Update Plug-ins	Актуализиране на приставките
+	Update to {version}	Актуализиране до {version}
+	Update…	Актуализиране…
 	UPPERCASE	Главни букви
 	Use Default	Използване по подразбиране
 	Username	Потребителско име

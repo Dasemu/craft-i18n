@@ -74,7 +74,6 @@ month	Dec	Dec
 	Download paused	Descarga pausada
 	Downloading	Descargando
 	Downloading {done} of {total}	Descargando {done} de {total}
-	Downloading…	Descargando…
 	Downloads for {platform}	Descargas para {platform}
 	Downloads the new version, replaces this one and opens it again	Descarga a nova versión, substitúe a actual e ábrea de novo
 	Enlarge picture	Ampliar imaxe
@@ -88,7 +87,6 @@ month	Feb	Feb
 	Flatpak bundle	Paquete Flatpak
 	Full changelog	Rexistro de cambios completo
 	GitHub limit hit; back in {min} min	Alcanzouse o límite de GitHub; volva en {min} min
-	GitHub repository	Repositorio en GitHub
 	GitHub's hourly limit was reached; full details return in {min} min	Alcanzouse o límite por hora de GitHub; os detalles completos volverán en {min} min
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -98,7 +96,6 @@ month	Feb	Feb
 photocraft	Image editing	Edición de imaxes
 	Include pre-releases (betas and release candidates)	Incluír versións preliminares (betas e candidatas)
 	Inspired by	Inspirado en
-	Install	Instalar
 	Install cancelled	Instalación cancelada
 	Install cancelled. The download is kept for the next try.	Instalación cancelada. A descarga consérvase para o seguinte intento.
 	Install folder	Cartafol de instalación

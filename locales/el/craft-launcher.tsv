@@ -67,7 +67,6 @@
 	Download paused	Η λήψη τέθηκε σε παύση
 	Downloading	Λήψη
 	Downloading {done} of {total}	Λήψη {done} από {total}
-	Downloading…	Λήψη…
 	Downloads for {platform}	Λήψεις για {platform}
 	Downloads the new version, replaces this one and opens it again	Κατεβάζει τη νέα έκδοση, αντικαθιστά την τρέχουσα και την ανοίγει ξανά
 	Enlarge picture	Μεγέθυνση εικόνας
@@ -78,11 +77,9 @@
 	Full changelog	Πλήρες αρχείο αλλαγών
 	GitHub limit hit; back in {min} min	Συμπληρώθηκε το όριο του GitHub· ξανά σε {min} λεπτά
 	GitHub's hourly limit was reached; full details return in {min} min	Συμπληρώθηκε το ωριαίο όριο του GitHub· οι πλήρεις λεπτομέρειες επιστρέφουν σε {min} λεπτά
-	GitHub repository	Αποθετήριο GitHub
 	Hidden Apps	Κρυφές εφαρμογές
 	Hide App	Απόκρυψη εφαρμογής
 	Include pre-releases (betas and release candidates)	Συμπερίληψη προεκδόσεων (beta και υποψήφιες εκδόσεις)
-	Install	Εγκατάσταση
 	Install cancelled	Η εγκατάσταση ακυρώθηκε
 	Install cancelled. The download is kept for the next try.	Η εγκατάσταση ακυρώθηκε. Το αρχείο λήψης διατηρείται για την επόμενη προσπάθεια.
 	Install folder	Φάκελος εγκατάστασης

@@ -2894,7 +2894,6 @@ effect	Regular	Regular
 	Remove Guide	Quitar guía
 	Remove Item	Quitar elemento
 	Remove JavaScript File	Quitar archivo JavaScript
-	Remove Plug-in	Quitar plugin
 	Remove Selected Assets	Quitar recursos seleccionados
 	Remove Selected Entry	Quitar entrada seleccionada
 	Remove the shortcut	Quitar el método abreviado
@@ -3043,7 +3042,6 @@ diagnostics	render	renderizado
 	Rule:	Filete:
 	Ruler Origin	Origen de las reglas
 	Run Length	Compresión por longitud de secuencia
-	Run Plug-in	Ejecutar plugin
 	Runs code the checker can't read	Ejecuta código que la comprobación no puede leer
 	Same	Igual
 	Same As Source	Igual que el origen

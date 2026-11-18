@@ -76,7 +76,6 @@ month	Dec	dec.
 	Download paused	Lejupielāde pauzēta
 	Downloading	Lejupielādē
 	Downloading {done} of {total}	Lejupielādē {done} no {total}
-	Downloading…	Lejupielādē…
 	Downloads for {platform}	Lejupielādes: {platform}
 	Downloads the new version, replaces this one and opens it again	Lejupielādē jauno versiju, aizstāj šo un atver to no jauna
 	Enlarge picture	Palielināt attēlu
@@ -91,7 +90,6 @@ month	Feb	febr.
 	Frequently used	Bieži lietotās
 	Full changelog	Pilns izmaiņu žurnāls
 	GitHub limit hit; back in {min} min	Sasniegts GitHub ierobežojums; atkal pieejams pēc {min} min
-	GitHub repository	GitHub repozitorijs
 	GitHub's hourly limit was reached; full details return in {min} min	Sasniegts GitHub stundas ierobežojums; pilna informācija būs pieejama pēc {min} min
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -101,7 +99,6 @@ month	Feb	febr.
 photocraft	Image editing	Attēlu rediģēšana
 	Include pre-releases (betas and release candidates)	Iekļaut pirmsizlaides versijas (beta un laidienu kandidātus)
 	Inspired by	Iedvesmojusi
-	Install	Instalēt
 	Install cancelled	Instalēšana atcelta
 	Install cancelled. The download is kept for the next try.	Instalēšana atcelta. Lejupielāde tiek saglabāta nākamajam mēģinājumam.
 	Install folder	Instalēšanas mape

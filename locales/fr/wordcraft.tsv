@@ -443,7 +443,6 @@
 	Columns:	Colonnes :
 	Combine Documents	Combiner les documents
 	Combo Box Content Control	Contrôle de contenu Zone de liste déroulante
-	Commands	Commandes
 	Commas	Virgules
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Commentaires à côté de chaque page et modifications suivies dans les PDF, les impressions et les images ; liste des commentaires à la fin des pages web, du Markdown et du texte.
 	Comments Pane	Volet Commentaires
@@ -2539,7 +2538,6 @@ preview	Title	Titre
 	Getting the list of languages…	Récupération de la liste des langues…
 	Get the list of languages again	Récupérer à nouveau la liste des langues
 	Installed	Installé
-	Install	Installer
 	The spelling and hyphenation data WordCraft uses, and their licences.	Les données d’orthographe et de césure utilisées par WordCraft, et leurs licences.
 	{language}: {file} (unreadable: {reason})	{language} : {file} (illisible : {reason})
 	Spanish (Latin America)	Espagnol (Amérique latine)
@@ -2559,7 +2557,6 @@ preview	Title	Titre
 	Current Document	Document actuel
 	Macro name:	Nom de la macro :
 	There are no macros yet. Record one to add it here.	Il n’y a pas encore de macro. Enregistrez-en une pour l’ajouter ici.
-	Run	Exécuter
 	Stop Recording	Arrêter l’enregistrement
 	Record…	Enregistrer…
 	*Bold* and _italic_ as real formatting	*Gras* et _italique_ en véritable mise en forme

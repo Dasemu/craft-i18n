@@ -2920,7 +2920,6 @@ effect	Regular	Pravidelný
 	Remove Guide	Odebrat vodítko
 	Remove Item	Odebrat položku
 	Remove JavaScript File	Odebrat soubor JavaScript
-	Remove Plug-in	Odebrat zásuvný modul
 	Remove Selected Assets	Odebrat vybrané prvky
 	Remove Selected Entry	Odebrat vybranou položku
 	Remove the shortcut	Odebrat zkratku
@@ -3075,7 +3074,6 @@ diagnostics	render	vykreslení
 	Rule:	Pravidlo:
 	Ruler Origin	Počátek pravítek
 	Run Length	Délka běhu
-	Run Plug-in	Spustit zásuvný modul
 	Runs code the checker can't read	Spouští kód, který kontrola nedokáže přečíst
 	Same	Stejné
 	Same As Source	Stejné jako zdroj

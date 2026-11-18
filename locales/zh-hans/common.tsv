@@ -25,6 +25,7 @@
 	Absolute	绝对
 	Absolute Colorimetric	绝对比色
 	Accented Edges	强化的边缘
+	Access	访问权限
 	Accessibility	无障碍
 	Accurate	精确
 	Actions	动作
@@ -34,7 +35,9 @@
 	Adaptive	自适应
 	Add	添加
 	Add a comment	添加注释
+	Add Catalog	添加目录
 	Add Guide	添加参考线
+	Add Plug-in Catalog	添加增效工具目录
 	Add to Dictionary	添加到词典
 	Add to favorites	添加到收藏
 	Add to Swatches	添加到色板
@@ -71,6 +74,7 @@
 	Anti-Alias	消除锯齿
 	Anti-alias	消除锯齿
 	Any	任意
+	Any command its access allows	其访问权限允许的任何命令
 	Appearance	外观
 	Appearance Settings…	外观设置…
 	Application	应用程序
@@ -150,6 +154,7 @@
 	Bring to Front	置于顶层
 	Brown	棕
 	Browse	浏览
+	Browse Catalogs	浏览目录
 	Browse…	浏览…
 	Brush Size	笔刷大小
 	Brush Strokes	画笔描边
@@ -157,12 +162,14 @@
 	Bulge	凸出
 	Bullet	项目符号
 	Burlap	粗麻布
+	By {author}	作者：{author}
 	Calculate	计算
 	Cancel	取消
 	Canvas	画布
 	Caption	题注
 	Cascade	层叠
 	Case Sensitive	区分大小写
+	Catalogs	目录
 	Category:	分类：
 	Cell Size	单元格大小
 	Center	居中
@@ -231,6 +238,7 @@
 	Columns:	列数：
 	Combine	合并
 	Command	命令
+	Commands	命令
 	Commands:	命令：
 	Comment	注释
 	Comments	注释
@@ -355,6 +363,7 @@
 	Double-click	双击
 	Down	向下
 	Download	下载
+	Downloading…	正在下载…
 	Draft	草稿
 	Draw	绘制
 	Drop Shadow	投影
@@ -405,6 +414,7 @@
 	Error	错误
 	Even Fields	偶数场
 	Even pages only	仅偶数页
+	Every plug-in is up to date.	所有增效工具均为最新版本。
 	Exact	精确
 	Example: {sample}	示例：{sample}
 	Exclusion	排除
@@ -476,6 +486,7 @@
 	French	法语
 	Frequency	频率
 	From	从
+	From File…	从文件…
 	Frosted	磨砂
 	Full	完整
 	Full Screen	全屏
@@ -492,6 +503,7 @@
 	Geometry	几何图形
 	German	德语
 	GitHub	GitHub
+	GitHub repository	GitHub 仓库
 	Glass	玻璃
 	Global	全局
 	Glow	发光
@@ -575,8 +587,12 @@
 	Insert	插入
 	Inside	内部
 	Inspect Document	检查文档
+	Install	安装
+	Install from File…	从文件安装…
 	Install Plug-in	安装插件
 	Install Plug-in…	安装增效工具…
+	Installed {name}.	已安装 {name}。
+	Install…	安装…
 	Intensity	强度
 	Interface	界面
 	Interface Language	界面语言
@@ -589,6 +605,7 @@
 	Invert	反相
 	Invert Mask	反转蒙版
 	Isolate	隔离
+	It is kept for this session only.	它只在本次会话中保留。
 	Italian	意大利语
 	Italic	斜体
 	Japanese	日语
@@ -689,6 +706,7 @@
 	Magenta	洋红
 	Magic Wand Tool	魔棒工具
 	Magnification	放大
+	Manage Plug-ins…	管理增效工具…
 	Margins	边距
 	Mask	蒙版
 	Masks	遮罩
@@ -775,6 +793,7 @@
 	No limit	无限制
 	No matches.	没有匹配项。
 	No matching commands	无匹配命令
+	No plug-ins installed.	未安装任何增效工具。
 	No recent files	没有最近的文件
 	No results	无结果
 	No Selection	未选择对象
@@ -863,6 +882,7 @@
 	Pixelate	像素化
 	Pixels	像素
 	Play	播放
+	Plug-in Catalogs	增效工具目录
 	Plug-ins	增效工具
 	Point	点
 	Pointillize	点彩
@@ -949,6 +969,7 @@
 	Remove	删除
 	Remove Background	移除背景
 	Remove from favorites	从收藏中移除
+	Remove Plug-in	移除增效工具
 	Rename	重命名
 	Rename Group…	重命名组…
 	Rename Style	重命名样式
@@ -956,6 +977,7 @@
 	Repeat	重复
 	Replace	替换
 	Replace:	替换：
+	Replaces version {version}.	替换版本 {version}。
 	Reply	回复
 	Report	报告
 	Report an Issue…	报告问题…
@@ -975,6 +997,7 @@
 	Reverse the order	反转顺序
 	Revert	恢复
 	Review	审阅
+	Review…	查看…
 	RGB	RGB
 	RGB Color	RGB 颜色
 	RGB:	RGB：
@@ -992,6 +1015,8 @@
 	Ruler	标尺
 	Rulers	标尺
 	Rulers & Grids	标尺和网格
+	Run	运行
+	Run Plug-in	运行增效工具
 	Russian	俄语
 	Sample Size	采样大小
 	Sandstone	砂岩
@@ -1162,10 +1187,13 @@
 	Text color	文字颜色
 	Text:	文本：
 	Texture	纹理
+	The download stopped.	下载已中断。
 	The passwords don't match.	两次输入的密码不一致。
 	Theme	主题
 	Thickness	粗细
 	This document has no bookmarks.	本文档没有书签。
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	此增效工具不在你使用的任何目录中：只有在信任其作者时才安装。
+	This version asks for different permissions.	此版本请求不同的权限。
 	Threshold	阈值
 	Thumbnails	缩略图
 	Tile	平铺
@@ -1219,7 +1247,10 @@
 	Untitled	未命名
 	Up	上移
 	Update	更新
+	Update Plug-ins	更新增效工具
+	Update to {version}	更新到 {version}
 	Updates	更新
+	Update…	更新…
 	UPPERCASE	大写
 	Use Default	使用默认值
 	User	用户

@@ -23,6 +23,7 @@
 	Absolute	Absolut
 	Absolute Colorimetric	Absolut farbmetrisch
 	Accented Edges	Kanten betonen
+	Access	Zugriff
 	Accessibility	Barrierefreiheit
 	Accurate	Genau
 	Actions	Aktionen
@@ -32,7 +33,9 @@
 	Adaptive	Adaptiv
 	Add	Hinzufügen
 	Add a comment	Kommentar hinzufügen
+	Add Catalog	Katalog hinzufügen
 	Add Guide	Hilfslinie hinzufügen
+	Add Plug-in Catalog	Plug-in-Katalog hinzufügen
 	Add to Dictionary	Zum Wörterbuch hinzufügen
 	Add to favorites	Zu Favoriten hinzufügen
 	Add to Swatches	Zu Farbfeldern hinzufügen
@@ -69,6 +72,7 @@
 	Anti-Alias	Glätten
 	Anti-alias	Glätten
 	Any	Beliebig
+	Any command its access allows	Jeder Befehl, den sein Zugriff erlaubt
 	Appearance	Erscheinungsbild
 theme	Appearance	Erscheinungsbild
 	Appearance Settings…	Erscheinungsbild-Einstellungen…
@@ -146,17 +150,20 @@ theme	Appearance	Erscheinungsbild
 	Bring Forward	Schrittweise nach vorne
 	Bring to Front	In den Vordergrund
 	Brown	Braun
+	Browse Catalogs	Kataloge durchsuchen
 	Browse…	Durchsuchen…
 	Brush Strokes	Pinselstriche
 	Brushes	Pinsel
 	Bulge	Ausbauchung
 	Bullet	Aufzählungszeichen
+	By {author}	Von {author}
 	Calculate	Berechnen
 	Cancel	Abbrechen
 	Canvas	Leinwand
 	Caption	Beschriftung
 	Cascade	Überlappend
 	Case Sensitive	Groß-/Kleinschreibung beachten
+	Catalogs	Kataloge
 	Category:	Kategorie:
 	Cell Size	Zellengröße
 	Center	Mitte
@@ -224,6 +231,7 @@ theme	Appearance	Erscheinungsbild
 	Columns:	Spalten:
 	Combine	Zusammenführen
 	Command	Befehl
+	Commands	Befehle
 	Commands:	Befehle:
 	Comment	Kommentar
 	Comments	Kommentare
@@ -339,6 +347,7 @@ theme	Appearance	Erscheinungsbild
 	Double-click	Doppelklicken
 	Down	Nach unten
 	Download	Herunterladen
+	Downloading…	Wird heruntergeladen…
 	Draft	Entwurf
 	Draw	Zeichnen
 	Drop Shadow	Schlagschatten
@@ -386,6 +395,7 @@ theme	Appearance	Erscheinungsbild
 	Error	Fehler
 	Even Fields	Gerade Halbbilder
 	Even pages only	Nur gerade Seiten
+	Every plug-in is up to date.	Alle Plug-ins sind auf dem neuesten Stand.
 	Exact	Exakt
 	Example: {sample}	Beispiel: {sample}
 	Exclusion	Ausschluss
@@ -452,6 +462,7 @@ theme	Appearance	Erscheinungsbild
 	French	Französisch
 	Frequency	Rasterweite
 	From	Von
+	From File…	Aus Datei…
 	Frosted	Mattiert
 	Full	Voll
 	Full Screen	Vollbild
@@ -468,6 +479,7 @@ theme	Appearance	Erscheinungsbild
 	Geometry	Geometrie
 	German	Deutsch
 	GitHub	GitHub
+	GitHub repository	GitHub-Repository
 	Glass	Glas
 	Global	Global
 	Glow	Glühen
@@ -547,8 +559,12 @@ theme	Appearance	Erscheinungsbild
 	Insert	Einfügen
 	Inside	Innen
 	Inspect Document	Dokument untersuchen
+	Install	Installieren
+	Install from File…	Aus Datei installieren…
 	Install Plug-in	Plug-in installieren
 	Install Plug-in…	Plug-in installieren…
+	Installed {name}.	{name} installiert.
+	Install…	Installieren…
 	Intensity	Intensität
 	Interface	Benutzeroberfläche
 	Interface Language	Sprache der Benutzeroberfläche
@@ -560,6 +576,7 @@ theme	Appearance	Erscheinungsbild
 	Invert	Invertieren
 	Invert Mask	Maske umkehren
 	Isolate	Isolieren
+	It is kept for this session only.	Es wird nur für diese Sitzung behalten.
 	Italian	Italienisch
 	Italic	Kursiv
 	Japanese	Japanisch
@@ -654,6 +671,7 @@ theme	Appearance	Erscheinungsbild
 	Magenta	Magenta
 	Magic Wand Tool	Zauberstab-Werkzeug
 	Magnification	Zoom
+	Manage Plug-ins…	Plug-ins verwalten…
 	Margins	Ränder
 	Mask	Maske
 	Matte	Hintergrundfarbe
@@ -736,6 +754,7 @@ theme	Appearance	Erscheinungsbild
 	No limit	Keine Grenze
 	No matches.	Keine Treffer.
 	No matching commands	Keine passenden Befehle
+	No plug-ins installed.	Keine Plug-ins installiert.
 	No recent files	Keine zuletzt geöffneten Dateien
 	No results	Keine Ergebnisse
 	No Selection	Keine Auswahl
@@ -822,6 +841,7 @@ theme	Appearance	Erscheinungsbild
 	Pixelate	Vergröbern
 	Pixels	Pixel
 	Play	Wiedergeben
+	Plug-in Catalogs	Plug-in-Kataloge
 	Plug-ins	Plug-ins
 	Point	Punkt
 	Pointillize…	Punktieren…
@@ -906,6 +926,7 @@ theme	Appearance	Erscheinungsbild
 	Remove	Entfernen
 	Remove Background	Hintergrund entfernen
 	Remove from favorites	Aus Favoriten entfernen
+	Remove Plug-in	Plug-in entfernen
 	Rename	Umbenennen
 	Rename Group…	Gruppe umbenennen…
 	Rename Style	Format umbenennen
@@ -913,6 +934,7 @@ theme	Appearance	Erscheinungsbild
 	Repeat	Wiederholen
 	Replace	Ersetzen
 	Replace:	Ersetzen:
+	Replaces version {version}.	Ersetzt Version {version}.
 	Reply	Antworten
 	Report	Bericht
 	Report an Issue…	Problem melden…
@@ -932,6 +954,7 @@ theme	Appearance	Erscheinungsbild
 	Reverse the order	Reihenfolge umkehren
 	Revert	Zurücksetzen
 	Review	Überprüfen
+	Review…	Prüfen…
 	RGB Color	RGB-Farbe
 	RGB:	RGB:
 	Right	Rechts
@@ -948,6 +971,8 @@ theme	Appearance	Erscheinungsbild
 	Ruler	Lineal
 	Rulers	Lineale
 	Rulers & Grids	Lineale und Raster
+	Run	Ausführen
+	Run Plug-in	Plug-in ausführen
 	Russian	Russisch
 	Saturation	Sättigung
 	Save	Speichern
@@ -1108,10 +1133,13 @@ theme	Appearance	Erscheinungsbild
 	Text color	Textfarbe
 	Text:	Text:
 	Texture	Struktur
+	The download stopped.	Der Download wurde abgebrochen.
 	The passwords don't match.	Die Passwörter stimmen nicht überein.
 	Theme	Design
 	Thickness	Stärke
 	This document has no bookmarks.	Dieses Dokument hat keine Lesezeichen.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Dieses Plug-in steht in keinem Katalog, den Sie verwenden: Installieren Sie es nur, wenn Sie seinem Autor vertrauen.
+	This version asks for different permissions.	Diese Version verlangt andere Berechtigungen.
 	Threshold	Schwellenwert
 	Thumbnails	Miniaturansichten
 	Tile	Nebeneinander
@@ -1161,7 +1189,10 @@ theme	Appearance	Erscheinungsbild
 	Untitled	Unbenannt
 	Up	Nach oben
 	Update	Aktualisieren
+	Update Plug-ins	Plug-ins aktualisieren
+	Update to {version}	Auf {version} aktualisieren
 	Updates	Updates
+	Update…	Aktualisieren…
 	UPPERCASE	GROSSBUCHSTABEN
 	Use Default	Standard verwenden
 	User	Benutzer

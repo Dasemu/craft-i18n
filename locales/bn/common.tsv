@@ -26,6 +26,7 @@
 	Absolute	পরম
 	Absolute Colorimetric	অ্যাবসলিউট কালারমেট্রিক
 	Accented Edges	তীক্ষ্ণ প্রান্ত
+	Access	অ্যাক্সেস
 	Accessibility	অ্যাক্সেস
 	Accurate	সঠিক
 	Actions	অ্যাকশন
@@ -35,7 +36,9 @@
 	Adaptive	মানানসই
 	Add	যোগ
 	Add a comment	মন্তব্য যোগ
+	Add Catalog	ক্যাটালগ যোগ করুন
 	Add Guide	গাইড যোগ
+	Add Plug-in Catalog	প্লাগইন ক্যাটালগ যোগ করুন
 	Add to Dictionary	অভিধানে যোগ
 	Add to favorites	প্রিয়তে যোগ
 	Add to Swatches	সোয়াচে যোগ
@@ -72,6 +75,7 @@
 	Anti-Alias	অ্যান্টি-অ্যালিয়াস
 	Anti-alias	অ্যান্টি-অ্যালিয়াস
 	Any	যেকোনো
+	Any command its access allows	এর অ্যাক্সেস যে কোনো কমান্ডের অনুমতি দেয়
 	Appearance	দৃশ্যরূপ
 theme	Appearance	দৃশ্যরূপ
 	Appearance Settings…	দৃশ্যরূপ সেটিংস…
@@ -152,6 +156,7 @@ theme	Appearance	দৃশ্যরূপ
 	Bring to Front	সবার সামনে
 	Brown	বাদামী
 	Browse	ব্রাউজ
+	Browse Catalogs	ক্যাটালগ ব্রাউজ করুন
 	Browse…	ব্রাউজ…
 	Brush Size	ব্রাশের আকার
 	Brush Strokes	ব্রাশ স্ট্রোক
@@ -159,12 +164,14 @@ theme	Appearance	দৃশ্যরূপ
 	Bulge	স্ফীতি
 	Bullet	বুলেট
 	Burlap	চট
+	By {author}	{author}-এর তৈরি
 	Calculate	গণনা
 	Cancel	বাতিল
 	Canvas	ক্যানভাস
 	Caption	ক্যাপশন
 	Cascade	ক্যাসকেড
 	Case Sensitive	কেস সংবেদনশীল
+	Catalogs	ক্যাটালগ
 	Category	বিভাগ
 	Category:	বিভাগ:
 	Cell Size	ঘরের আকার
@@ -234,6 +241,7 @@ theme	Appearance	দৃশ্যরূপ
 	Columns:	কলাম:
 	Combine	একত্রিত
 	Command	কমান্ড
+	Commands	কমান্ড
 	Commands:	কমান্ড:
 	Comment	মন্তব্য
 	Comments	মন্তব্য
@@ -359,6 +367,7 @@ theme	Appearance	দৃশ্যরূপ
 	Double-click	ডাবল ক্লিক
 	Down	নিচে
 	Download	ডাউনলোড
+	Downloading…	ডাউনলোড হচ্ছে…
 	Draft	খসড়া
 	Draw	আঁকুন
 	Drop Shadow	ড্রপ শ্যাডো
@@ -409,6 +418,7 @@ theme	Appearance	দৃশ্যরূপ
 	Error	ত্রুটি
 	Even Fields	জোড় ক্ষেত্র
 	Even pages only	শুধু জোড় পৃষ্ঠা
+	Every plug-in is up to date.	সব প্লাগইন হালনাগাদ আছে।
 	Exact	হুবহু
 	Example: {sample}	উদাহরণ: {sample}
 	Exclusion	বর্জন
@@ -481,6 +491,7 @@ theme	Appearance	দৃশ্যরূপ
 	French	ফরাসি
 	Frequency	কম্পাঙ্ক
 	From	হতে
+	From File…	ফাইল থেকে…
 	Frosted	ফ্রস্টেড
 	Full	পূর্ণ
 	Full Screen	পূর্ণ পর্দা
@@ -497,6 +508,7 @@ theme	Appearance	দৃশ্যরূপ
 	Geometry	জ্যামিতি
 	German	জার্মান
 	GitHub	গিটহাব
+	GitHub repository	গিটহাব রিপোজিটরি
 	Glass	কাঁচ
 	Global	গ্লোবাল
 	Glow	দীপ্তি
@@ -580,8 +592,12 @@ theme	Appearance	দৃশ্যরূপ
 	Insert	ঢোকান
 	Inside	ভেতরে
 	Inspect Document	নথি পরিদর্শন
+	Install	ইনস্টল
+	Install from File…	ফাইল থেকে ইনস্টল…
 	Install Plug-in	প্লাগইন ইনস্টল
 	Install Plug-in…	প্লাগইন ইনস্টল…
+	Installed {name}.	{name} ইনস্টল হয়েছে।
+	Install…	ইনস্টল…
 	Intensity	তীব্রতা
 	Interface	ইন্টারফেস
 	Interface Language	ইন্টারফেস ভাষা
@@ -594,6 +610,7 @@ theme	Appearance	দৃশ্যরূপ
 	Invert	বিপরীত
 	Invert Mask	মাস্ক বিপরীত
 	Isolate	বিচ্ছিন্ন
+	It is kept for this session only.	এটি শুধু এই সেশনের জন্য রাখা হয়।
 	Italian	ইতালীয়
 	Italic	তির্যক
 	Japanese	জাপানি
@@ -693,6 +710,7 @@ theme	Appearance	দৃশ্যরূপ
 	Magenta	ম্যাজেন্টা
 	Magic Wand Tool	ম্যাজিক ওয়ান্ড টুল
 	Magnification	বিবর্ধন
+	Manage Plug-ins…	প্লাগইন পরিচালনা…
 	Margins	মার্জিন
 	Mask	মাস্ক
 	Masks	মাস্ক
@@ -779,6 +797,7 @@ theme	Appearance	দৃশ্যরূপ
 	No limit	সীমাহীন
 	No matches.	কোনো মিল নেই।
 	No matching commands	কোনো কমান্ড মেলেনি
+	No plug-ins installed.	কোনো প্লাগইন ইনস্টল করা নেই।
 	No recent files	সাম্প্রতিক ফাইল নেই
 	No results	ফলাফল নেই
 	No Selection	নির্বাচন নেই
@@ -867,6 +886,7 @@ theme	Appearance	দৃশ্যরূপ
 	Pixelate	পিক্সেলেট
 	Pixels	পিক্সেল
 	Play	প্লে
+	Plug-in Catalogs	প্লাগইন ক্যাটালগ
 	Plug-ins	প্লাগইন
 	Point	বিন্দু
 	Pointillize	পয়েন্টিলাইজ
@@ -954,6 +974,7 @@ theme	Appearance	দৃশ্যরূপ
 	Remove	সরান
 	Remove Background	পটভূমি সরান
 	Remove from favorites	প্রিয় হতে সরান
+	Remove Plug-in	প্লাগইন সরান
 	Rename	নাম বদল
 	Rename Group…	গ্রুপ নাম বদল…
 	Rename Style	শৈলী নাম বদল
@@ -961,6 +982,7 @@ theme	Appearance	দৃশ্যরূপ
 	Repeat	পুনরাবৃত্তি
 	Replace	প্রতিস্থাপন
 	Replace:	প্রতিস্থাপন:
+	Replaces version {version}.	সংস্করণ {version}-এর জায়গা নেয়।
 	Reply	উত্তর
 	Report	রিপোর্ট
 	Report an Issue…	সমস্যা জানান…
@@ -980,6 +1002,7 @@ theme	Appearance	দৃশ্যরূপ
 	Reverse the order	ক্রম উল্টান
 	Revert	পূর্বাবস্থা
 	Review	পর্যালোচনা
+	Review…	পর্যালোচনা…
 	RGB	RGB
 	RGB Color	RGB রঙ
 	RGB:	RGB:
@@ -997,6 +1020,8 @@ theme	Appearance	দৃশ্যরূপ
 	Ruler	রুলার
 	Rulers	রুলার
 	Rulers & Grids	রুলার ও গ্রিড
+	Run	চালান
+	Run Plug-in	প্লাগইন চালান
 	Russian	রুশ
 	Sample Size	নমুনার আকার
 	Sandstone	বেলেপাথর
@@ -1167,10 +1192,13 @@ theme	Appearance	দৃশ্যরূপ
 	Text color	টেক্সট রঙ
 	Text:	টেক্সট:
 	Texture	টেক্সচার
+	The download stopped.	ডাউনলোড থেমে গেছে।
 	The passwords don't match.	পাসওয়ার্ড মিলছে না।
 	Theme	থিম
 	Thickness	পুরুত্ব
 	This document has no bookmarks.	এই নথিতে কোনো বুকমার্ক নেই।
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	এই প্লাগইনটি আপনার ব্যবহৃত কোনো ক্যাটালগে নেই: এর লেখককে বিশ্বাস করলেই কেবল এটি ইনস্টল করুন।
+	This version asks for different permissions.	এই সংস্করণ ভিন্ন অনুমতি চায়।
 	Threshold	সীমা
 	Thumbnails	থাম্বনেইল
 	Tile	টাইল
@@ -1224,7 +1252,10 @@ theme	Appearance	দৃশ্যরূপ
 	Untitled	শিরোনামহীন
 	Up	উপরে
 	Update	আপডেট
+	Update Plug-ins	প্লাগইন আপডেট
+	Update to {version}	{version}-এ আপডেট
 	Updates	আপডেট
+	Update…	আপডেট…
 	UPPERCASE	বড় হাতের
 	Use Default	ডিফল্ট ব্যবহার
 	User	ব্যবহারকারী

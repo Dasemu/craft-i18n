@@ -25,6 +25,7 @@
 	Absolute	Absolu
 	Absolute Colorimetric	Colorimétrique absolu
 	Accented Edges	Contours accentués
+	Access	Accès
 	Accessibility	Accessibilité
 	Accurate	Précis
 	Actions	Actions
@@ -34,7 +35,9 @@
 	Adaptive	Adaptative
 	Add	Ajouter
 	Add a comment	Ajouter un commentaire
+	Add Catalog	Ajouter un catalogue
 	Add Guide	Ajouter un repère
+	Add Plug-in Catalog	Ajouter un catalogue de modules externes
 	Add to Dictionary	Ajouter au dictionnaire
 	Add to favorites	Ajouter aux favoris
 	Add to Swatches	Ajouter au nuancier
@@ -71,6 +74,7 @@
 	Anti-Alias	Lissage
 	Anti-alias	Lissage
 	Any	N'importe lequel
+	Any command its access allows	Toute commande que son accès permet
 	Appearance	Apparence
 theme	Appearance	Apparence
 	Appearance Settings…	Réglages d’apparence…
@@ -151,6 +155,7 @@ theme	Appearance	Apparence
 	Bring to Front	Mettre au premier plan
 	Brown	Marron
 	Browse	Parcourir
+	Browse Catalogs	Parcourir les catalogues
 	Browse…	Parcourir…
 	Brush Size	Taille du pinceau
 	Brush Strokes	Contours de forme
@@ -158,12 +163,14 @@ theme	Appearance	Apparence
 	Bulge	Renflement
 	Bullet	Puce
 	Burlap	Toile de jute
+	By {author}	Par {author}
 	Calculate	Calculer
 	Cancel	Annuler
 	Canvas	Toile
 	Caption	Légende
 	Cascade	Cascade
 	Case Sensitive	Respecter la casse
+	Catalogs	Catalogues
 	Category	Catégorie
 	Category:	Catégorie :
 	Cell Size	Taille de cellule
@@ -233,6 +240,7 @@ theme	Appearance	Apparence
 	Columns:	Colonnes :
 	Combine	Combiner
 	Command	Commande
+	Commands	Commandes
 	Commands:	Commandes :
 	Comment	Commentaire
 	Comments	Commentaires
@@ -358,6 +366,7 @@ theme	Appearance	Apparence
 	Double-click	Double-clic
 	Down	Bas
 	Download	Télécharger
+	Downloading…	Téléchargement…
 	Draft	Brouillon
 	Draw	Dessiner
 	Drop Shadow	Ombre portée
@@ -408,6 +417,7 @@ theme	Appearance	Apparence
 	Error	Erreur
 	Even Fields	Trames paires
 	Even pages only	Pages paires seulement
+	Every plug-in is up to date.	Tous les modules externes sont à jour.
 	Exact	Exacte
 	Example: {sample}	Exemple : {sample}
 	Exclusion	Exclusion
@@ -480,6 +490,7 @@ theme	Appearance	Apparence
 	French	Français
 	Frequency	Fréquence
 	From	De
+	From File…	Depuis un fichier…
 	Frosted	Dépoli
 	Full	Intégrale
 	Full Screen	Plein écran
@@ -496,6 +507,7 @@ theme	Appearance	Apparence
 	Geometry	Géométrie
 	German	Allemand
 	GitHub	GitHub
+	GitHub repository	Dépôt GitHub
 	Glass	Verre
 	Global	Global
 	Glow	Lueur
@@ -579,8 +591,12 @@ theme	Appearance	Apparence
 	Insert	Insérer
 	Inside	Intérieur
 	Inspect Document	Inspecter le document
+	Install	Installer
+	Install from File…	Installer depuis un fichier…
 	Install Plug-in	Installer un module externe
 	Install Plug-in…	Installer un module externe…
+	Installed {name}.	{name} installé.
+	Install…	Installer…
 	Intensity	Intensité
 	Interface	Interface
 	Interface Language	Langue de l'interface
@@ -593,6 +609,7 @@ theme	Appearance	Apparence
 	Invert	Inverser
 	Invert Mask	Inverser le masque
 	Isolate	Isoler
+	It is kept for this session only.	Il n’est conservé que pour cette session.
 	Italian	Italien
 	Italic	Italique
 	Japanese	Japonais
@@ -693,6 +710,7 @@ theme	Appearance	Apparence
 	Magenta	Magenta
 	Magic Wand Tool	Outil Baguette magique
 	Magnification	Agrandissement
+	Manage Plug-ins…	Gérer les modules externes…
 	Margins	Marges
 	Mask	Masque
 	Masks	Masques
@@ -779,6 +797,7 @@ theme	Appearance	Apparence
 	No limit	Aucune limite
 	No matches.	Aucun résultat.
 	No matching commands	Aucune commande correspondante
+	No plug-ins installed.	Aucun module externe installé.
 	No recent files	Aucun fichier récent
 	No results	Aucun résultat
 	No Selection	Aucune sélection
@@ -867,6 +886,7 @@ theme	Appearance	Apparence
 	Pixelate	Pixellisation
 	Pixels	Pixels
 	Play	Lecture
+	Plug-in Catalogs	Catalogues de modules externes
 	Plug-ins	Modules externes
 	Point	Point
 	Pointillize	Pointillisme
@@ -954,6 +974,7 @@ theme	Appearance	Apparence
 	Remove	Retirer
 	Remove Background	Supprimer l'arrière-plan
 	Remove from favorites	Retirer des favoris
+	Remove Plug-in	Supprimer le module externe
 	Rename	Renommer
 	Rename Group…	Renommer le groupe…
 	Rename Style	Renommer le style
@@ -961,6 +982,7 @@ theme	Appearance	Apparence
 	Repeat	Répéter
 	Replace	Remplacer
 	Replace:	Remplacer :
+	Replaces version {version}.	Remplace la version {version}.
 	Reply	Répondre
 	Report	Rapport
 	Report an Issue…	Signaler un problème…
@@ -980,6 +1002,7 @@ theme	Appearance	Apparence
 	Reverse the order	Inverser l'ordre
 	Revert	Revenir à la version enregistrée
 	Review	Révision
+	Review…	Examiner…
 	RGB	RVB
 	RGB Color	Couleur RVB
 	RGB:	RVB :
@@ -997,6 +1020,8 @@ theme	Appearance	Apparence
 	Ruler	Règle
 	Rulers	Règles
 	Rulers & Grids	Règles et grilles
+	Run	Exécuter
+	Run Plug-in	Exécuter le module externe
 	Russian	Russe
 	Sample Size	Taille d'échantillon
 	Sandstone	Grès
@@ -1167,10 +1192,13 @@ theme	Appearance	Apparence
 	Text color	Couleur du texte
 	Text:	Texte :
 	Texture	Texture
+	The download stopped.	Le téléchargement s’est interrompu.
 	The passwords don't match.	Les mots de passe ne correspondent pas.
 	Theme	Thème
 	Thickness	Épaisseur
 	This document has no bookmarks.	Ce document ne contient aucun signet.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Ce module externe ne figure dans aucun catalogue que vous utilisez : ne l’installez que si vous faites confiance à son auteur.
+	This version asks for different permissions.	Cette version demande des autorisations différentes.
 	Threshold	Seuil
 	Thumbnails	Vignettes
 	Tile	Mosaïque
@@ -1224,7 +1252,10 @@ theme	Appearance	Apparence
 	Untitled	Sans titre
 	Up	Monter
 	Update	Mettre à jour
+	Update Plug-ins	Mettre à jour les modules externes
+	Update to {version}	Mettre à jour vers {version}
 	Updates	Mises à jour
+	Update…	Mettre à jour…
 	UPPERCASE	MAJUSCULES
 	Use Default	Utiliser la valeur par défaut
 	User	Utilisateur

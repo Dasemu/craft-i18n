@@ -74,7 +74,6 @@ month	Dec	dec
 	Download paused	Preuzimanje pauzirano
 	Downloading	Preuzimanje
 	Downloading {done} of {total}	Preuzimanje {done} od {total}
-	Downloading…	Preuzimanje…
 	Downloads for {platform}	Preuzimanja za {platform}
 	Downloads the new version, replaces this one and opens it again	Preuzima novu verziju, zamjenjuje ovu i ponovo je otvara
 	Enlarge picture	Uvećaj sliku
@@ -88,7 +87,6 @@ month	Feb	feb
 	Flatpak bundle	Flatpak paket
 	Full changelog	Potpuni popis izmjena
 	GitHub limit hit; back in {min} min	Dostignuto ograničenje GitHuba; ponovo za {min} min
-	GitHub repository	GitHub repozitorij
 	GitHub's hourly limit was reached; full details return in {min} min	Dostignuto je satno ograničenje GitHuba; potpuni detalji se vraćaju za {min} min
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -98,7 +96,6 @@ month	Feb	feb
 photocraft	Image editing	Uređivanje slika
 	Include pre-releases (betas and release candidates)	Uključi probna izdanja (beta verzije i kandidate za izdanje)
 	Inspired by	Inspirisano sa
-	Install	Instaliraj
 	Install cancelled	Instalacija otkazana
 	Install cancelled. The download is kept for the next try.	Instalacija otkazana. Preuzimanje je sačuvano za sljedeći pokušaj.
 	Install folder	Folder za instalaciju

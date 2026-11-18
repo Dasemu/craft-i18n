@@ -13,3 +13,34 @@
 
 @id	language.name	Română
 @plural	{n} byte|{n} bytes	{n} octet|{n} octeți|{n} de octeți
+	Access	Acces
+	Add Catalog	Adăugare catalog
+	Add Plug-in Catalog	Adăugare catalog de pluginuri
+	Any command its access allows	Orice comandă permisă de accesul său
+	Browse Catalogs	Răsfoire cataloage
+	By {author}	De {author}
+	Catalogs	Cataloage
+	Commands	Comenzi
+	Downloading…	Se descarcă…
+	Every plug-in is up to date.	Toate pluginurile sunt la zi.
+	From File…	Din fișier…
+	GitHub repository	Depozit GitHub
+	Install	Instalare
+	Install from File…	Instalare din fișier…
+	Installed {name}.	{name} a fost instalat.
+	Install…	Instalare…
+	It is kept for this session only.	Este păstrat doar pentru această sesiune.
+	Manage Plug-ins…	Gestionare pluginuri…
+	No plug-ins installed.	Niciun plugin instalat.
+	Plug-in Catalogs	Cataloage de pluginuri
+	Remove Plug-in	Eliminare plugin
+	Replaces version {version}.	Înlocuiește versiunea {version}.
+	Review…	Examinare…
+	Run	Rulare
+	Run Plug-in	Rulare plugin
+	The download stopped.	Descărcarea s-a oprit.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Acest plugin nu se află în niciun catalog pe care îl folosiți: instalați-l doar dacă aveți încredere în autorul lui.
+	This version asks for different permissions.	Această versiune cere alte permisiuni.
+	Update Plug-ins	Actualizare pluginuri
+	Update to {version}	Actualizare la {version}
+	Update…	Actualizare…

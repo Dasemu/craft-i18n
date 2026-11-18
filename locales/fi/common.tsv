@@ -22,13 +22,16 @@
 	Absolute	Absoluuttinen
 	Absolute Colorimetric	Absoluuttinen kolorimetrinen
 	Accented Edges	Korostetut reunat
+	Access	Käyttöoikeus
 	Accurate	Tarkka
 	Actions	Toiminnot
 	Activate Panel	Aktivoi paneeli
 	Actual Size	Todellinen koko
 	Adaptive	Mukautuva
 	Add	Lisää
+	Add Catalog	Lisää luettelo
 	Add Guide	Lisää apuviiva
+	Add Plug-in Catalog	Lisää laajennusluettelo
 	Add to Swatches	Lisää värimalleihin
 	Advanced	Lisäasetukset
 	Align	Tasaa
@@ -49,6 +52,7 @@
 	Angle:	Kulma:
 	Anti-Alias	Reunanpehmennys
 	Anti-alias	Reunanpehmennys
+	Any command its access allows	Mikä tahansa komento, jonka sen käyttöoikeus sallii
 	Appearance	Ulkoasu
 theme	Appearance	Ulkoasu
 	Apply	Käytä
@@ -106,13 +110,16 @@ theme	Appearance	Ulkoasu
 	Bring Forward	Tuo eteenpäin
 	Bring to Front	Tuo eteen
 	Brown	Ruskea
+	Browse Catalogs	Selaa luetteloita
 	Brush Strokes	Sivellinviivat
 	Brushes	Siveltimet
 	Bullet	Luettelomerkki
 	Burlap	Juuttikangas
+	By {author}	Tekijä: {author}
 	Cancel	Peruuta
 	Canvas	Kangas
 	Cascade	Porrasta
+	Catalogs	Luettelot
 	Cell Size	Solun koko
 	Center	Keskitä
 	Centimeters	Senttimetrit
@@ -159,6 +166,7 @@ theme	Appearance	Ulkoasu
 	Colors:	Värit:
 	Columns:	Sarakkeet:
 	Command	Komento
+	Commands	Komennot
 	Commits	Commitit
 	Community	Yhteisö
 	Company	Yritys
@@ -242,6 +250,7 @@ theme	Appearance	Ulkoasu
 	Dots	Pisteet
 	Double-click	Kaksoisnapsauta
 	Download	Lataa
+	Downloading…	Ladataan…
 	Draft	Vedos
 	Draw	Piirrä
 	Drop Shadow	Pudotusvarjo
@@ -280,6 +289,7 @@ theme	Appearance	Ulkoasu
 	Eraser Tool	Pyyhekumityökalu
 	Error	Virhe
 	Even Fields	Parilliset kentät
+	Every plug-in is up to date.	Kaikki laajennukset ovat ajan tasalla.
 	Exact	Tarkka
 	Exclusion	Poissulkeminen
 	Exit	Lopeta
@@ -326,6 +336,7 @@ theme	Appearance	Ulkoasu
 	Free Transform	Vapaa muunnos
 	French	Ranska
 	Frequency	Taajuus
+	From File…	Tiedostosta…
 	Frosted	Huurrettu
 	Full Screen Mode	Koko näytön tila
 	Gamma	Gamma
@@ -334,6 +345,7 @@ theme	Appearance	Ulkoasu
 	Gaussian Blur…	Gaussin sumennus…
 	General	Yleiset
 	German	Saksa
+	GitHub repository	GitHub-tietovarasto
 	Glass	Lasi
 	Global	Globaali
 	Glow Brightness	Hehkun kirkkaus
@@ -399,8 +411,12 @@ theme	Appearance	Ulkoasu
 	Insert	Lisää
 	Inside	Sisäpuoli
 	Inspect Document	Tarkastele asiakirjaa
+	Install	Asenna
+	Install from File…	Asenna tiedostosta…
 	Install Plug-in	Asenna laajennus
 	Install Plug-in…	Asenna laajennus…
+	Installed {name}.	{name} asennettu.
+	Install…	Asenna…
 	Intensity	Voimakkuus
 	Interface Language	Käyttöliittymän kieli
 	Interlaced	Lomitettu
@@ -409,6 +425,7 @@ theme	Appearance	Ulkoasu
 	Invert	Käänteinen
 	Invert Mask	Käännä maski
 	Isolate	Eristä
+	It is kept for this session only.	Se säilytetään vain tämän istunnon ajan.
 	Italian	Italia
 	Italic	Kursivoitu
 	Japanese	Japani
@@ -480,6 +497,7 @@ theme	Appearance	Ulkoasu
 	Luminosity	Luminanssi
 	Magenta	Magenta
 	Magic Wand Tool	Taikasauvatyökalu
+	Manage Plug-ins…	Hallitse laajennuksia…
 	Mask	Maski
 	Matte	Matta
 	Maximize	Suurenna
@@ -543,6 +561,7 @@ theme	Appearance	Ulkoasu
 	No document	Ei asiakirjaa
 	No document open	Ei avointa asiakirjaa
 	No matches.	Ei osumia.
+	No plug-ins installed.	Laajennuksia ei ole asennettu.
 	No results	Ei tuloksia
 	No Selection	Ei valintaa
 	No selection	Ei valintaa
@@ -608,6 +627,7 @@ theme	Appearance	Ulkoasu
 	Pixel	Pikseli
 	Pixelate	Pikselöi
 	Pixels	Pikselit
+	Plug-in Catalogs	Laajennusluettelot
 	Plug-ins	Laajennukset
 	Pointillize	Pisteytä
 	Pointillize…	Pisteytä…
@@ -671,11 +691,13 @@ theme	Appearance	Ulkoasu
 	Relative Colorimetric	Suhteellinen kolorimetrinen
 	Relief	Korkokuva
 	Remove	Poista
+	Remove Plug-in	Poista laajennus
 	Rename	Nimeä uudelleen
 	Rename Group…	Nimeä ryhmä uudelleen…
 	Rename Style	Nimeä tyyli uudelleen
 	Repeat	Toisto
 	Replace	Korvaa
+	Replaces version {version}.	Korvaa version {version}.
 	Reselect	Valitse uudelleen
 	Reset	Palauta
 	Reset Preferences	Palauta asetukset
@@ -685,6 +707,7 @@ theme	Appearance	Ulkoasu
 	Restore	Palauta
 	Reverse the order	Käänteinen järjestys
 	Revert	Palauta
+	Review…	Tarkista…
 	RGB	RGB
 	RGB Color	RGB-väri
 	RGB:	RGB:
@@ -698,6 +721,8 @@ theme	Appearance	Ulkoasu
 	Roundness:	Pyöreys:
 	Rulers	Viivaimet
 	Rulers & Grids	Viivaimet ja ruudukot
+	Run	Suorita
+	Run Plug-in	Suorita laajennus
 	Sandstone	Hiekkakivi
 	Saturation	Kylläisyys
 	Save	Tallenna
@@ -831,6 +856,9 @@ theme	Appearance	Ulkoasu
 	Text	Teksti
 	Text:	Teksti:
 	Texture	Tekstuuri
+	The download stopped.	Lataus keskeytyi.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Tämä laajennus ei ole missään käyttämässäsi luettelossa: asenna se vain, jos luotat sen tekijään.
+	This version asks for different permissions.	Tämä versio pyytää eri käyttöoikeuksia.
 	Threshold	Kynnys
 	Tile	Vierekkäin
 	Tile Size	Laatan koko
@@ -867,6 +895,9 @@ theme	Appearance	Ulkoasu
 	Unlock	Avaa lukitus
 	Unsharp Mask	Epäterävä maski
 	Untitled	Nimetön
+	Update Plug-ins	Päivitä laajennukset
+	Update to {version}	Päivitä versioon {version}
+	Update…	Päivitä…
 	UPPERCASE	ISOT KIRJAIMET
 	Use Default	Käytä oletusta
 	Username	Käyttäjätunnus

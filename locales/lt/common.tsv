@@ -15,12 +15,15 @@
 	(none)	(nėra)
 	1 file	1 failas
 	About	Apie programą
+	Access	Prieiga
 	Accessibility	Prieinamumas
 	Actions	Veiksmai
 	Active	Aktyvi
 	Actual Size	Faktinis dydis
 	Add	Pridėti
 	Add a comment	Pridėti komentarą
+	Add Catalog	Pridėti katalogą
+	Add Plug-in Catalog	Pridėti papildinių katalogą
 	Advanced	Išplėstiniai
 	Align	Lygiuoti
 	Align left	Lygiuoti kairėje
@@ -32,6 +35,7 @@
 	Angle	Kampas
 	Animation effects	Animacijos efektai
 	Any	Bet kuris
+	Any command its access allows	Bet kuri komanda, kurią leidžia jo prieiga
 	Appearance	Išvaizda
 theme	Appearance	Išvaizda
 	Application	Programa
@@ -55,9 +59,12 @@ theme	Appearance	Išvaizda
 	Both sides	Abi pusės
 	Bottom	Apačia
 	Bottom:	Apačia:
+	Browse Catalogs	Naršyti katalogus
 	Browse…	Naršyti…
+	By {author}	Autorius: {author}
 	Calculate	Skaičiavimas
 	Cancel	Atšaukti
+	Catalogs	Katalogai
 	Category:	Kategorija:
 	Center	Centruoti
 	Characters	Simboliai
@@ -77,6 +84,7 @@ theme	Appearance	Išvaizda
 	Colour	Spalva
 	Combine	Sujungti
 	Command	Komanda
+	Commands	Komandos
 	Comment	Komentaras
 	Comments	Komentarai
 	Commits	Pakeitimų įrašai
@@ -120,6 +128,7 @@ theme	Appearance	Išvaizda
 	Dot	Taškas
 	Double-click	Dukart spustelėti
 	Download	Atsisiųsti
+	Downloading…	Atsisiunčiama…
 	Draw	Brėžti
 	Duplicate	Dubliuoti
 	Duplicate…	Dubliuoti…
@@ -132,6 +141,7 @@ theme	Appearance	Išvaizda
 	Eraser	Trintukas
 	Error	Klaida
 	Even pages only	Tik lyginiai puslapiai
+	Every plug-in is up to date.	Visi papildiniai atnaujinti.
 	Example: {sample}	Pavyzdys: {sample}
 	Expand	Išskleisti
 	Export	Eksportuoti
@@ -161,8 +171,10 @@ theme	Appearance	Išvaizda
 	Format	Formatas
 	Format:	Formatas:
 	From	Nuo
+	From File…	Iš failo…
 	Full Screen	Visas ekranas
 	General	Bendrieji
+	GitHub repository	„GitHub“ saugykla
 	Graphic	Grafika
 	Gray	Pilka
 	Green	Žalia
@@ -185,9 +197,14 @@ theme	Appearance	Išvaizda
 	Import	Importuoti
 	Index	Indeksas
 	Insert	Įterpti
+	Install	Įdiegti
+	Install from File…	Įdiegti iš failo…
+	Installed {name}.	Įdiegta: {name}.
+	Install…	Įdiegti…
 	Interface language	Sąsajos kalba
 	Intersection	Sankirta
 	Invert	Invertuoti
+	It is kept for this session only.	Jis išlaikomas tik šiam seansui.
 	Italic	Kursyvas
 	Join our Discord	Prisijunkite prie mūsų „Discord“ serverio
 	Join the ArtCraft Discord	Prisijungti prie „ArtCraft“ „Discord“ serverio
@@ -220,6 +237,7 @@ theme	Appearance	Išvaizda
 	Locked	Užrakinta
 	Low	Mažas
 	Magnification	Didinimas
+	Manage Plug-ins…	Tvarkyti papildinius…
 	Margins	Paraštės
 	Maximize	Išdidinti
 	Maximum	Didžiausia reikšmė
@@ -245,6 +263,7 @@ theme	Appearance	Išvaizda
 	No	Ne
 	No limit	Neribojama
 	No matches.	Atitikmenų nėra.
+	No plug-ins installed.	Įdiegtų papildinių nėra.
 	No recent files	Nėra paskiausiai naudotų failų
 	No results	Rezultatų nėra
 	None	Nėra
@@ -280,6 +299,7 @@ theme	Appearance	Išvaizda
 	Perimeter	Perimetras
 	Photo	Nuotrauka
 	Pink	Rožinė
+	Plug-in Catalogs	Papildinių katalogai
 	Polygon	Daugiakampis
 	Polyline	Laužtė
 	Portrait	Stačias
@@ -309,8 +329,10 @@ theme	Appearance	Išvaizda
 	Refresh	Atnaujinti
 	Reload	Įkelti iš naujo
 	Remove	Pašalinti
+	Remove Plug-in	Pašalinti papildinį
 	Rename	Pervadinti
 	Replace	Pakeisti
+	Replaces version {version}.	Pakeičia versiją {version}.
 	Reply	Atsakyti
 	Report	Ataskaita
 	Resize panel window	Keisti skydelio lango dydį
@@ -322,12 +344,15 @@ theme	Appearance	Išvaizda
 	Reverse the order	Apversti tvarką
 	Revert	Grąžinti įrašytą versiją
 	Review	Peržiūrėti
+	Review…	Peržiūrėti…
 	Right	Dešinė
 	Rotate	Pasukti
 	Rotate:	Pasukimas:
 	Rotation	Pasukimas
 	Rotation:	Pasukimas:
 	Rows	Eilutės
+	Run	Vykdyti
+	Run Plug-in	Vykdyti papildinį
 	Save	Įrašyti
 	Save as PDF	Įrašyti kaip PDF
 	Scripts	Scenarijai
@@ -361,10 +386,13 @@ theme	Appearance	Išvaizda
 	Table	Lentelė
 	Tables	Lentelės
 	Text	Tekstas
+	The download stopped.	Atsisiuntimas nutrūko.
 	The passwords don't match.	Slaptažodžiai nesutampa.
 	Theme	Tema
 	Thickness	Storis
 	This document has no bookmarks.	Šiame dokumente nėra žymelių.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Šio papildinio nėra jokiame jūsų naudojamame kataloge: diekite jį tik tada, jei pasitikite jo autoriumi.
+	This version asks for different permissions.	Ši versija prašo kitokių leidimų.
 	Thumbnails	Miniatiūros
 	Time	Laikas
 	Title	Pavadinimas
@@ -383,6 +411,9 @@ theme	Appearance	Išvaizda
 	Unlock	Atrakinti
 	Up	Aukštyn
 	Update	Atnaujinti
+	Update Plug-ins	Atnaujinti papildinius
+	Update to {version}	Atnaujinti į {version}
+	Update…	Atnaujinti…
 	Username	Naudotojo vardas
 	Value:	Reikšmė:
 	Version	Versija

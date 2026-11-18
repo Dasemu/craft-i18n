@@ -13,3 +13,34 @@
 
 @id	language.name	ไทย
 @plural	{n} byte|{n} bytes	{n} ไบต์
+	Access	สิทธิ์เข้าถึง
+	Add Catalog	เพิ่มแคตตาล็อก
+	Add Plug-in Catalog	เพิ่มแคตตาล็อกปลั๊กอิน
+	Any command its access allows	คำสั่งใดก็ได้ที่สิทธิ์เข้าถึงของปลั๊กอินอนุญาต
+	Browse Catalogs	เรียกดูแคตตาล็อก
+	By {author}	โดย {author}
+	Catalogs	แคตตาล็อก
+	Commands	คำสั่ง
+	Downloading…	กำลังดาวน์โหลด…
+	Every plug-in is up to date.	ปลั๊กอินทั้งหมดเป็นเวอร์ชันล่าสุด
+	From File…	จากไฟล์…
+	GitHub repository	คลัง GitHub
+	Install	ติดตั้ง
+	Install from File…	ติดตั้งจากไฟล์…
+	Installed {name}.	ติดตั้ง {name} แล้ว
+	Install…	ติดตั้ง…
+	It is kept for this session only.	ปลั๊กอินนี้จะเก็บไว้สำหรับเซสชันนี้เท่านั้น
+	Manage Plug-ins…	จัดการปลั๊กอิน…
+	No plug-ins installed.	ไม่มีปลั๊กอินที่ติดตั้งไว้
+	Plug-in Catalogs	แคตตาล็อกปลั๊กอิน
+	Remove Plug-in	เอาปลั๊กอินออก
+	Replaces version {version}.	แทนที่เวอร์ชัน {version}
+	Review…	ตรวจดู…
+	Run	รัน
+	Run Plug-in	เรียกใช้ปลั๊กอิน
+	The download stopped.	การดาวน์โหลดหยุดลง
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	ปลั๊กอินนี้ไม่อยู่ในแคตตาล็อกใดที่คุณใช้: ติดตั้งเฉพาะเมื่อคุณเชื่อถือผู้สร้าง
+	This version asks for different permissions.	เวอร์ชันนี้ขอสิทธิ์ที่ต่างออกไป
+	Update Plug-ins	อัปเดตปลั๊กอิน
+	Update to {version}	อัปเดตเป็น {version}
+	Update…	อัปเดต…

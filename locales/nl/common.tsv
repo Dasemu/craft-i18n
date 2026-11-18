@@ -22,6 +22,7 @@
 	Absolute	Absoluut
 	Absolute Colorimetric	Absoluut colorimetrisch
 	Accented Edges	Geaccentueerde randen
+	Access	Toegang
 	Accurate	Nauwkeurig
 	Actions	Acties
 	Activate Panel	Paneel activeren
@@ -29,7 +30,9 @@
 	Actual Size	Werkelijke grootte
 	Adaptive	Adaptief
 	Add	Toevoegen
+	Add Catalog	Catalogus toevoegen
 	Add Guide	Hulplijn toevoegen
+	Add Plug-in Catalog	Plug-incatalogus toevoegen
 	Add to Dictionary	Aan woordenboek toevoegen
 	Add to favorites	Toevoegen aan favorieten
 	Add to Swatches	Aan stalen toevoegen
@@ -57,6 +60,7 @@
 	Angular	Hoek
 	Anti-Alias	Anti-alias
 	Anti-alias	Anti-alias
+	Any command its access allows	Elke opdracht die de toegang ervan toestaat
 	Appearance	Uiterlijk
 theme	Appearance	Vormgeving
 	Appearance Settings…	Weergave-instellingen…
@@ -129,6 +133,7 @@ theme	Appearance	Vormgeving
 	Bring to Front	Naar de voorgrond brengen
 	Brown	Bruin
 	Browse	Bladeren
+	Browse Catalogs	Catalogi doorbladeren
 	Browse…	Bladeren…
 	Brush Size	Penseelgrootte
 	Brush Strokes	Penseelstreken
@@ -136,10 +141,12 @@ theme	Appearance	Vormgeving
 	Bulge	Uitstulping
 	Bullet	Opsommingsteken
 	Burlap	Jute
+	By {author}	Door {author}
 	Cancel	Annuleren
 	Canvas	Canvas
 	Caption	Bijschrift
 	Cascade	Trapsgewijs schikken
+	Catalogs	Catalogi
 	Category	Categorie
 	Cell Size	Celgrootte
 	Center	Midden
@@ -201,6 +208,7 @@ theme	Appearance	Vormgeving
 	Columns	Kolommen
 	Columns:	Kolommen:
 	Command	Opdracht
+	Commands	Opdrachten
 	Commits	Commits
 	Community	Community
 	Company	Bedrijf
@@ -315,6 +323,7 @@ theme	Appearance	Vormgeving
 	Double-click	Dubbelklik
 	Down	Omlaag
 	Download	Downloaden
+	Downloading…	Downloaden…
 	Draft	Concept
 	Draw	Tekenen
 	Drop Shadow	Slagschaduw
@@ -361,6 +370,7 @@ theme	Appearance	Vormgeving
 	Eraser Tool	Gum-gereedschap
 	Error	Fout
 	Even Fields	Even velden
+	Every plug-in is up to date.	Alle plug-ins zijn up-to-date.
 	Exact	Exact
 	Exclusion	Uitsluiting
 	Exit	Afsluiten
@@ -422,6 +432,7 @@ theme	Appearance	Vormgeving
 	French	Frans
 	Frequency	Frequentie
 	From	Van
+	From File…	Uit bestand…
 	Frosted	Mat
 	Full	Volledig
 	Full Screen	Volledig scherm
@@ -437,6 +448,7 @@ theme	Appearance	Vormgeving
 	Generate	Genereren
 	German	Duits
 	GitHub	GitHub
+	GitHub repository	GitHub-repository
 	Glass	Glas
 	Global	Globaal
 	Glow	Gloed
@@ -515,8 +527,12 @@ theme	Appearance	Vormgeving
 	Insert	Invoegen
 	Inside	Binnen
 	Inspect Document	Document inspecteren
+	Install	Installeren
+	Install from File…	Installeren uit bestand…
 	Install Plug-in	Plug-in installeren
 	Install Plug-in…	Plug-in installeren…
+	Installed {name}.	{name} geïnstalleerd.
+	Install…	Installeren…
 	Intensity	Intensiteit
 	Interface	Interface
 	Interface Language	Interfacetaal
@@ -526,6 +542,7 @@ theme	Appearance	Vormgeving
 	Invert	Omkeren
 	Invert Mask	Masker omkeren
 	Isolate	Isoleren
+	It is kept for this session only.	Hij blijft alleen voor deze sessie bewaard.
 	Italian	Italiaans
 	Italic	Cursief
 	Japanese	Japans
@@ -616,6 +633,7 @@ theme	Appearance	Vormgeving
 	Luminosity	Luminositeit
 	Magenta	Magenta
 	Magic Wand Tool	Toverstaf-gereedschap
+	Manage Plug-ins…	Plug-ins beheren…
 	Mask	Masker
 	Masks	Maskers
 	Matte	Mat
@@ -697,6 +715,7 @@ theme	Appearance	Vormgeving
 	No document open	Geen document geopend
 	No matches.	Geen overeenkomsten.
 	No matching commands	Geen overeenkomende opdrachten
+	No plug-ins installed.	Geen plug-ins geïnstalleerd.
 	No recent files	Geen recente bestanden
 	No results	Geen resultaten
 	No Selection	Geen selectie
@@ -780,6 +799,7 @@ theme	Appearance	Vormgeving
 	Pixelate	Pixeleren
 	Pixels	Pixels
 	Play	Afspelen
+	Plug-in Catalogs	Plug-incatalogi
 	Plug-ins	Plug-ins
 	Point	Punt
 	Pointillize	Pointilleren
@@ -857,12 +877,14 @@ theme	Appearance	Vormgeving
 	Remove	Verwijderen
 	Remove Background	Achtergrond verwijderen
 	Remove from favorites	Verwijderen uit favorieten
+	Remove Plug-in	Plug-in verwijderen
 	Rename	Hernoemen
 	Rename Group…	Groep hernoemen…
 	Rename Style	Stijl hernoemen
 	Rename…	Hernoemen…
 	Repeat	Herhalen
 	Replace	Vervangen
+	Replaces version {version}.	Vervangt versie {version}.
 	Report an Issue…	Probleem melden…
 	Reselect	Opnieuw selecteren
 	Reset	Opnieuw instellen
@@ -878,6 +900,7 @@ theme	Appearance	Vormgeving
 	Reverse	Omkeren
 	Reverse the order	Volgorde omkeren
 	Revert	Terugzetten
+	Review…	Bekijken…
 	RGB	RGB
 	RGB Color	RGB-kleur
 	RGB:	RGB:
@@ -895,6 +918,8 @@ theme	Appearance	Vormgeving
 	Ruler	Liniaal
 	Rulers	Linialen
 	Rulers & Grids	Linialen & rasters
+	Run	Uitvoeren
+	Run Plug-in	Plug-in uitvoeren
 	Sample Size	Monstergrootte
 	Sandstone	Zandsteen
 	Saturation	Verzadiging
@@ -1054,8 +1079,11 @@ theme	Appearance	Vormgeving
 	Text color	Tekstkleur
 	Text:	Tekst:
 	Texture	Textuur
+	The download stopped.	Het downloaden is gestopt.
 	Theme	Thema
 	Thickness	Dikte
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Deze plug-in staat in geen enkele catalogus die je gebruikt: installeer hem alleen als je de maker vertrouwt.
+	This version asks for different permissions.	Deze versie vraagt om andere machtigingen.
 	Threshold	Drempel
 	Tile	Naast elkaar schikken
 	Tile Size	Tegelgrootte
@@ -1100,7 +1128,10 @@ theme	Appearance	Vormgeving
 	Unsharp Mask	Onscherp maskeren
 	Untitled	Naamloos
 	Update	Bijwerken
+	Update Plug-ins	Plug-ins bijwerken
+	Update to {version}	Bijwerken naar {version}
 	Updates	Updates
+	Update…	Bijwerken…
 	UPPERCASE	HOOFDLETTERS
 	Use Default	Standaard gebruiken
 	Username	Gebruikersnaam

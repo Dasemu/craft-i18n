@@ -15,12 +15,15 @@
 	(none)	(brez)
 	1 file	1 datoteka
 	About	O programu
+	Access	Dostop
 	Accessibility	Dostopnost
 	Actions	Dejanja
 	Active	Aktivno
 	Actual Size	Dejanska velikost
 	Add	Dodaj
 	Add a comment	Dodaj komentar
+	Add Catalog	Dodaj katalog
+	Add Plug-in Catalog	Dodaj katalog vtičnikov
 	Advanced	Napredno
 	Align	Poravnaj
 	Align left	Poravnaj levo
@@ -31,6 +34,7 @@
 	Angle	Kot
 	Animation effects	Učinki animacije
 	Any	Poljubno
+	Any command its access allows	Kateri koli ukaz, ki ga dovoljuje njegov dostop
 	Appearance	Videz
 	Application	Program
 	Apply	Uporabi
@@ -52,9 +56,12 @@
 	Both sides	Obe strani
 	Bottom	Spodaj
 	Bottom:	Spodaj:
+	Browse Catalogs	Prebrskaj kataloge
 	Browse…	Prebrskaj…
+	By {author}	Avtor: {author}
 	Calculate	Izračunaj
 	Cancel	Prekliči
+	Catalogs	Katalogi
 	Category:	Kategorija:
 	Center	Sredinsko
 	Characters	Znaki
@@ -72,6 +79,7 @@
 	Colour	Barva
 	Combine	Združi
 	Command	Ukaz
+	Commands	Ukazi
 	Comments	Komentarji
 	Commits	Commiti
 	Company	Podjetje
@@ -114,6 +122,7 @@
 	Dot	Pika
 	Double-click	Dvoklik
 	Download	Prenesi
+	Downloading…	Prenašanje…
 	Draw	Riši
 	Duplicate…	Podvoji…
 	Dynamic	Dinamično
@@ -124,6 +133,7 @@
 	Erase	Izbriši
 	Eraser	Radirka
 	Even pages only	Samo sode strani
+	Every plug-in is up to date.	Vsi vtičniki so posodobljeni.
 	Example: {sample}	Primer: {sample}
 	Expand	Razširi
 	Export	Izvozi
@@ -151,8 +161,10 @@
 	Format	Oblika
 	Format:	Oblika:
 	From	Od
+	From File…	Iz datoteke…
 	Full Screen	Celoten zaslon
 	General	Splošno
+	GitHub repository	Repozitorij GitHub
 	Graphic	Grafika
 	Gray	Siva
 	Green	Zelena
@@ -174,9 +186,14 @@
 	Images	Slike
 	Index	Kazalo
 	Insert	Vstavi
+	Install	Namesti
+	Install from File…	Namesti iz datoteke…
+	Installed {name}.	Nameščeno: {name}.
+	Install…	Namesti…
 	Interface language	Jezik vmesnika
 	Intersection	Presek
 	Invert	Obrni barve
+	It is kept for this session only.	Ohrani se le za to sejo.
 	Italic	Ležeče
 	Join our Discord	Discord kanal
 	Join the ArtCraft Discord	Pridružite se Discordu ArtCraft
@@ -209,6 +226,7 @@
 	Locked	Zaklenjeno
 	Low	Nizka
 	Magnification	Povečava
+	Manage Plug-ins…	Upravljanje vtičnikov…
 	Margins	Robovi
 	Maximize	Povečaj
 	Maximum	Največ
@@ -231,6 +249,7 @@
 	No	Ne
 	No limit	Brez omejitve
 	No matches.	Ni zadetkov.
+	No plug-ins installed.	Ni nameščenih vtičnikov.
 	No recent files	Ni nedavnih datotek
 	None	Brez
 	Number	Številka
@@ -263,6 +282,7 @@
 	Perimeter	Obseg
 	Photo	Fotografija
 	Pink	Roza
+	Plug-in Catalogs	Katalogi vtičnikov
 	Polygon	Mnogokotnik
 	Polyline	Lomljenica
 	Portrait	Pokončno
@@ -290,8 +310,10 @@
 	Redo	Ponovi
 	Reload	Znova naloži
 	Remove	Odstrani
+	Remove Plug-in	Odstrani vtičnik
 	Rename	Preimenuj
 	Replace	Zamenjaj
+	Replaces version {version}.	Zamenja različico {version}.
 	Reply	Odgovori
 	Report	Poročilo
 	Resize panel window	Spremeni velikost okna razdelka
@@ -303,12 +325,15 @@
 	Reverse the order	Obrni vrstni red
 	Revert	Povrni
 	Review	Pregled
+	Review…	Preglej…
 	Right	Desno
 	Rotate	Zavrti
 	Rotate:	Zavrti:
 	Rotation	Rotacija
 	Rotation:	Rotacija:
 	Rows	Vrstice
+	Run	Zaženi
+	Run Plug-in	Zaženi vtičnik
 	Save	Shrani
 	Save as PDF	Shrani kot PDF
 	Scripts	Skripti
@@ -341,9 +366,12 @@
 	Table	Tabela
 	Tables	Tabele
 	Text	Besedilo
+	The download stopped.	Prenos se je ustavil.
 	The passwords don't match.	Gesli se ne ujemata.
 	Thickness	Debelina
 	This document has no bookmarks.	Ta dokument nima zaznamkov.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Tega vtičnika ni v nobenem katalogu, ki ga uporabljate: namestite ga le, če zaupate njegovemu avtorju.
+	This version asks for different permissions.	Ta različica zahteva drugačna dovoljenja.
 	Thumbnails	Sličice
 	Time	Čas
 	Title	Naslov
@@ -362,6 +390,9 @@
 	Unlock	Odkleni
 	Up	Navzgor
 	Update	Posodobi
+	Update Plug-ins	Posodobi vtičnike
+	Update to {version}	Posodobi na {version}
+	Update…	Posodobi…
 	Username	Uporabniško ime
 	Value:	Vrednost:
 	Version	Različica

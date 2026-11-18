@@ -23,6 +23,7 @@
 	Absolute	Mutlak
 	Absolute Colorimetric	Mutlak Kolorimetrik
 	Accented Edges	Vurgulu Kenarlar
+	Access	Erişim
 	Accessibility	Erişilebilirlik
 	Accurate	Doğru
 	Actions	Eylemler
@@ -32,6 +33,8 @@
 	Adaptive	Uyarlanabilir
 	Add	Ekle
 	Add a comment	Yorum ekle
+	Add Catalog	Katalog Ekle
+	Add Plug-in Catalog	Eklenti Kataloğu Ekle
 	Add to Dictionary	Sözlüğe Ekle
 	Add to favorites	Favorilere ekle
 	Add to Swatches	Renk Örneklerine Ekle
@@ -64,6 +67,7 @@
 	Anti-Alias	Kenar Yumuşatma
 	Anti-alias	Kenar yumuşatma
 	Any	Herhangi biri
+	Any command its access allows	Erişiminin izin verdiği her komut
 	Appearance	Görünüm
 	Appearance Settings…	Görünüm Ayarları…
 	Application	Uygulama
@@ -140,6 +144,7 @@
 	Bring Forward	Öne Getir
 	Bring to Front	En Öne Getir
 	Browse	Göz at
+	Browse Catalogs	Kataloglara Göz At
 	Browse…	Gözat…
 	Brush Size	Fırça Boyutu
 	Brush Strokes	Fırça Darbeleri
@@ -147,11 +152,13 @@
 	Bulge	çıkıntı
 	Bullet	Madde İşareti
 	Burlap	Çuval bezi
+	By {author}	Yazar: {author}
 	Calculate	Hesapla
 	Cancel	İptal
 	Canvas	Kanvas
 	Caption	Başlık
 	Cascade	Çağlayan
+	Catalogs	Kataloglar
 	Category	Kategori
 	Category:	Kategori:
 	Cell Size	Hücre Boyutu
@@ -218,6 +225,7 @@
 	Columns:	Sütunlar:
 	Combine	Birleştir
 	Command	Komut
+	Commands	Komutlar
 	Commands:	Komutlar:
 	Comment	Yorum
 	Comments	Yorumlar
@@ -336,6 +344,7 @@
 	Double-click	Çift tıklama
 	Down	Aşağı
 	Download	İndir
+	Downloading…	İndiriliyor…
 	Draft	Taslak
 	Draw	Çiz
 	Drop Shadow	Alt Gölge
@@ -381,6 +390,7 @@
 	Error	Hata
 	Even Fields	Çift Alanlar
 	Even pages only	Yalnızca çift sayfalar
+	Every plug-in is up to date.	Tüm eklentiler güncel.
 	Exact	tam
 	Example: {sample}	Örnek: {sample}
 	Exclusion	Dışlama
@@ -450,6 +460,7 @@
 	Free Transform	Serbest Dönüştürme
 	Frequency	Frekans
 	From	Gönderen
+	From File…	Dosyadan…
 	Frosted	Buzlu
 	Full	Tam
 	Full Screen	Tam ekran
@@ -465,6 +476,7 @@
 	Generate	Oluştur
 	Geometry	Geometri
 	GitHub	GitHub
+	GitHub repository	GitHub deposu
 	Glass	Cam
 	Global	Küresel
 	Glow	Parıltı
@@ -547,8 +559,12 @@
 	Insert	Ekle
 	Inside	İçeride
 	Inspect Document	Belgeyi İncele
+	Install	Yükle
+	Install from File…	Dosyadan Yükle…
 	Install Plug-in	Eklentiyi Yükle
 	Install Plug-in…	Eklentiyi Yükle…
+	Installed {name}.	{name} yüklendi.
+	Install…	Yükle…
 	Intensity	Yoğunluk
 	Interface	Arayüz
 	Interface language	Arayüz dili
@@ -558,6 +574,7 @@
 	Intersection	Kesişim
 	Invert	Tersine Çevir
 	Invert Mask	Maskeyi Ters Çevir
+	It is kept for this session only.	Yalnızca bu oturum boyunca tutulur.
 	Italian	İtalyanca
 	Italic	İtalik
 	Japanese	Japonca
@@ -652,6 +669,7 @@
 	Magenta	Macenta
 	Magic Wand Tool	Sihirli Değnek Aracı
 	Magnification	Yakınlaştırma
+	Manage Plug-ins…	Eklentileri Yönet…
 	Margins	Kenar Boşlukları
 	Mask	Maske
 	Masks	Maskeler
@@ -734,6 +752,7 @@
 	No limit	Sınır yok
 	No matches.	Eşleşme yok.
 	No matching commands	Eşleşen komut yok
+	No plug-ins installed.	Yüklü eklenti yok.
 	No recent files	Yeni dosya yok
 	No Selection	Seçim Yok
 	No selection	Seçim yok
@@ -818,6 +837,7 @@
 	Pixelate	Pikselleştir
 	Pixels	Piksel
 	Play	Oyna
+	Plug-in Catalogs	Eklenti Katalogları
 	Plug-ins	Eklentiler
 	Point	Nokta
 	Pointillize	Noktalaştır
@@ -903,6 +923,7 @@
 	Remove	Kaldır
 	Remove Background	Arka Planı Kaldır
 	Remove from favorites	Favorilerden kaldır
+	Remove Plug-in	Eklentiyi Kaldır
 	Rename	Yeniden adlandır
 	Rename Group…	Grubu Yeniden Adlandır…
 	Rename Style	Stili Yeniden Adlandır
@@ -910,6 +931,7 @@
 	Repeat	Tekrarla
 	Replace	Değiştir
 	Replace:	Değiştirilecek:
+	Replaces version {version}.	{version} sürümünün yerini alır.
 	Reply	Yanıtla
 	Report	Rapor
 	Report an Issue…	Bir Sorun Bildirin…
@@ -929,6 +951,7 @@
 	Reverse the order	Sırayı tersine çevir
 	Revert	Geri Döndür
 	Review	İncele
+	Review…	İncele…
 	RGB	RGB
 	RGB Color	RGB Rengi
 	RGB:	RGB:
@@ -946,6 +969,8 @@
 	Ruler	Cetvel
 	Rulers	Cetveller
 	Rulers & Grids	Cetveller ve Izgaralar
+	Run	Çalıştır
+	Run Plug-in	Eklentiyi Çalıştır
 	Russian	Rusça
 	Sample Size	Örnek Boyutu
 	Sandstone	Kumtaşı
@@ -1108,10 +1133,13 @@
 	Text color	Metin rengi
 	Text:	Metin:
 	Texture	Doku
+	The download stopped.	İndirme durdu.
 	The passwords don't match.	Parolalar eşleşmiyor.
 	Theme	Tema
 	Thickness	Kalınlık
 	This document has no bookmarks.	Bu belgede yer işareti yok.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Bu eklenti kullandığınız hiçbir katalogda yok: yalnızca yazarına güveniyorsanız yükleyin.
+	This version asks for different permissions.	Bu sürüm farklı izinler istiyor.
 	Threshold	Eşik
 	Thumbnails	Küçük Resimler
 	Tile	Fayans
@@ -1163,7 +1191,10 @@
 	Untitled	İsimsiz
 	Up	Yukarı
 	Update	Güncelleme
+	Update Plug-ins	Eklentileri Güncelle
+	Update to {version}	{version} sürümüne güncelle
 	Updates	Güncellemeler
+	Update…	Güncelle…
 	UPPERCASE	BÜYÜK HARF
 	Use Default	Varsayılanı Kullan
 	Username	Kullanıcı adı

@@ -478,7 +478,6 @@ numerals	Arabic	Arābu
 	Column:	Kolonna:
 	Combine Documents	Apvienot dokumentus
 	Combo Box Content Control	Kombinētā lodziņa satura vadīkla
-	Commands	Komandas
 	Commas	Komati
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Komentāri blakus katrai lapai un izsekotās izmaiņas PDF failos, izdrukās un attēlos; komentāru saraksts tīmekļa lapu, Markdown un teksta beigās.
 	Comments Pane	Komentāru rūts
@@ -735,7 +734,6 @@ numerals	Context	Kontekstuāli
 	Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads.	Lejupielāde iegūst vārdnīcu no LibreOffice vārdnīcu kolekcijas vārdnīcu mapē. Katrai ir sava licence (GPL, LGPL vai MPL), un tā paliek atsevišķs fails, ko WordCraft tikai lasa.
 	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Lejupielāde ir izslēgta. Noklikšķinot uz Pievienot valodu… vai Instalēt, tā tiek ieslēgta: WordCraft tad lejupielādē valodu pakotnes un fontus no GitHub.
 	Downloading the {language} dictionary…	Lejupielādē vārdnīcu: {language}…
-	Downloading…	Lejupielādē…
 	DRAFT	MELNRAKSTS
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Velciet taisnstūri, lai uzzīmētu tabulu, vai līniju pāri šūnām, lai tās sadalītu. Esc aptur.
 	Draw Ink	Zīmēt ar tinti

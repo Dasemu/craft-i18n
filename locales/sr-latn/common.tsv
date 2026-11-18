@@ -22,6 +22,7 @@
 	Absolute	Apsolutno
 	Absolute Colorimetric	Apsolutno kolorimetrijski
 	Accented Edges	Naglašene ivice
+	Access	Pristup
 	Accessibility	Pristupačnost
 	Accurate	Precizno
 	Actions	Radnje
@@ -30,6 +31,8 @@
 	Adaptive	Prilagodljivo
 	Add	Dodaj
 	Add a comment	Dodaj komentar
+	Add Catalog	Dodaj katalog
+	Add Plug-in Catalog	Dodaj katalog dodataka
 	Add to Dictionary	Dodaj u rečnik
 	Add to favorites	Dodaj u omiljene
 	Add to Swatches	Dodaj u uzorke boja
@@ -58,6 +61,7 @@
 	Animation	Animacija
 	Anti-Alias	Uglađivanje ivica
 	Anti-alias	Uglađivanje ivica
+	Any command its access allows	Bilo koja naredba koju njegov pristup dozvoljava
 	Appearance	Izgled
 	Appearance Settings…	Podešavanja izgleda…
 	Apply	Primeni
@@ -130,6 +134,7 @@
 	Bring Forward	Pomeri napred
 	Bring to Front	Premesti na vrh
 	Browse	Pregledaj
+	Browse Catalogs	Pretraži kataloge
 	Browse…	Potraži…
 	Brush Size	Veličina četkice
 	Brush Strokes	Potezi četkicom
@@ -137,10 +142,12 @@
 	Bulge	Ispupčenje
 	Bullet	Oznaka
 	Burlap	Juta
+	By {author}	Autor: {author}
 	Cancel	Otkaži
 	Canvas	Platno
 	Caption	Natpis
 	Cascade	Kaskadno
+	Catalogs	Katalozi
 	Category	Kategorija
 	Cell Size	Veličina ćelije
 	Center	Centar
@@ -202,6 +209,7 @@
 	Columns:	Kolone:
 	Combine	Spoji
 	Command	Komanda
+	Commands	Naredbe
 	Commands:	Komande:
 	Comment	Komentar
 	Comments	Komentari
@@ -315,6 +323,7 @@
 	Dots	Tačke
 	Dotted	Tačkasta
 	Down	Nadole
+	Downloading…	Preuzimanje…
 	Draft	Nacrt
 	Draw	Crtanje
 	Drop Shadow	Bačena senka
@@ -358,6 +367,7 @@
 	Error	Greška
 	Even Fields	Parni poluslikovi
 	Even pages only	Samo parne stranice
+	Every plug-in is up to date.	Svi dodaci su ažurni.
 	Exact	Tačno
 	Example: {sample}	Primer: {sample}
 	Exclusion	Isključenje
@@ -424,6 +434,7 @@
 	Free Transform	Slobodna transformacija
 	Frequency	Frekvencija
 	From	Od
+	From File…	Iz datoteke…
 	Frosted	Mat staklo
 	Full	Potpuna
 	Full Screen	Ceo ekran
@@ -438,6 +449,7 @@
 	General…	Opšte…
 	Generate	Generisanje
 	GitHub	GitHub
+	GitHub repository	GitHub repozitorijum
 	Glass	Staklo
 	Global	Globalno
 	Glow	Sjaj
@@ -516,8 +528,12 @@
 	Insert	Umetanje
 	Inside	Unutra
 	Inspect Document	Pregledaj dokument
+	Install	Instaliraj
+	Install from File…	Instaliraj iz datoteke…
 	Install Plug-in	Instaliraj dodatak
 	Install Plug-in…	Instaliraj dodatak…
+	Installed {name}.	Instalirano: {name}.
+	Install…	Instaliraj…
 	Intensity	Intenzitet
 	Interface	Interfejs
 	Interface language	Jezik interfejsa
@@ -526,6 +542,7 @@
 	Interpolation	Interpolacija
 	Invert	Invertuj
 	Invert Mask	Invertuj masku
+	It is kept for this session only.	Zadržava se samo za ovu sesiju.
 	Italian	Italijanski
 	Italic	Kurziv
 	Japanese	Japanski
@@ -612,6 +629,7 @@
 	Luminosity	Svetlina tona
 	Magenta	Magenta
 	Magic Wand Tool	Alatka čarobni štapić
+	Manage Plug-ins…	Upravljaj dodacima…
 	Margins	Margine
 	Mask	Maska
 	Masks	Maske
@@ -692,6 +710,7 @@
 	No document open	Nijedan dokument nije otvoren
 	No limit	Bez ograničenja
 	No matching commands	Nema odgovarajućih komandi
+	No plug-ins installed.	Nema instaliranih dodataka.
 	No recent files	Nema nedavnih datoteka
 	No Selection	Nema selekcije
 	No selection	Nema selekcije
@@ -772,6 +791,7 @@
 	Pixelate	Pikselizacija
 	Pixels	Pikseli
 	Play	Pusti
+	Plug-in Catalogs	Katalozi dodataka
 	Plug-ins	Dodaci
 	Point	Tačka
 	Pointillize	Poentilizam
@@ -851,6 +871,7 @@
 	Remove	Ukloni
 	Remove Background	Ukloni pozadinu
 	Remove from favorites	Ukloni iz omiljenih
+	Remove Plug-in	Ukloni dodatak
 	Rename	Preimenuj
 	Rename Group…	Preimenuj grupu…
 	Rename Style	Preimenuj stil
@@ -858,6 +879,7 @@
 	Repeat	Ponavljaj
 	Replace	Zameni
 	Replace:	Zameni:
+	Replaces version {version}.	Zamenjuje verziju {version}.
 	Reply	Odgovori
 	Report	Izveštaj
 	Report an Issue…	Prijavi problem…
@@ -877,6 +899,7 @@
 	Reverse the order	Obrni redosled
 	Revert	Vrati sačuvano
 	Review	Pregled
+	Review…	Pregledaj…
 	RGB	RGB
 	RGB Color	RGB boje
 	RGB:	RGB:
@@ -894,6 +917,8 @@
 	Ruler	Lenjir
 	Rulers	Lenjiri
 	Rulers & Grids	Lenjiri i mreže
+	Run	Pokreni
+	Run Plug-in	Pokreni dodatak
 	Russian	Ruski
 	Sample Size	Veličina uzorka
 	Sandstone	Peščar
@@ -1051,9 +1076,12 @@
 	Text color	Boja teksta
 	Text:	Tekst:
 	Texture	Tekstura
+	The download stopped.	Preuzimanje je prekinuto.
 	The passwords don't match.	Lozinke se ne podudaraju.
 	Theme	Tema
 	Thickness	Debljina
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Ovaj dodatak nije ni u jednom katalogu koji koristite: instalirajte ga samo ako verujete njegovom autoru.
+	This version asks for different permissions.	Ova verzija traži drugačije dozvole.
 	Threshold	Prag
 	Tile	Popločaj
 	Tile Size	Veličina pločice
@@ -1102,7 +1130,10 @@
 	Untitled	Bez naslova
 	Up	Gore
 	Update	Ažuriraj
+	Update Plug-ins	Ažuriraj dodatke
+	Update to {version}	Ažuriraj na {version}
 	Updates	Ažuriranja
+	Update…	Ažuriraj…
 	UPPERCASE	VELIKA SLOVA
 	Use Default	Koristi podrazumevano
 	Username	Korisničko ime

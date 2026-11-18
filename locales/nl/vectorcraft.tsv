@@ -2951,7 +2951,6 @@ effect	Regular	Regelmatig
 	Remove Guide	Hulplijn verwijderen
 	Remove Item	Item verwijderen
 	Remove JavaScript File	JavaScript-bestand verwijderen
-	Remove Plug-in	Plug-in verwijderen
 	Remove Selected Assets	Geselecteerde assets verwijderen
 	Remove Selected Entry	Geselecteerd item verwijderen
 	Remove the shortcut	Sneltoets verwijderen
@@ -3107,7 +3106,6 @@ swatch	Rose	Roos
 	Rule:	Regel:
 	Ruler Origin	Lineaaloorsprong
 	Run Length	Run Length
-	Run Plug-in	Plug-in uitvoeren
 	Runs code the checker can't read	Voert code uit die het controleprogramma niet kan lezen
 swatch	Rust	Roest
 	Same	Zelfde

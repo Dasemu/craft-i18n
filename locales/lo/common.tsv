@@ -12,3 +12,34 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	ພາສາລາວ
+	Access	ສິດເຂົ້າເຖິງ
+	Add Catalog	ເພີ່ມແຄັດຕາລັອກ
+	Add Plug-in Catalog	ເພີ່ມແຄັດຕາລັອກປລັກອິນ
+	Any command its access allows	ຄຳສັ່ງໃດກໍໄດ້ທີ່ສິດເຂົ້າເຖິງຂອງມັນອະນຸຍາດ
+	Browse Catalogs	ເບິ່ງແຄັດຕາລັອກ
+	By {author}	ໂດຍ {author}
+	Catalogs	ແຄັດຕາລັອກ
+	Commands	ຄຳສັ່ງ
+	Downloading…	ກຳລັງດາວໂຫຼດ…
+	Every plug-in is up to date.	ປລັກອິນທັງໝົດເປັນລຸ້ນລ່າສຸດ.
+	From File…	ຈາກໄຟລ໌…
+	GitHub repository	ຄັງ GitHub
+	Install	ຕິດຕັ້ງ
+	Install from File…	ຕິດຕັ້ງຈາກໄຟລ໌…
+	Installed {name}.	ຕິດຕັ້ງ {name} ແລ້ວ.
+	Install…	ຕິດຕັ້ງ…
+	It is kept for this session only.	ມັນຖືກເກັບໄວ້ສຳລັບເຊດຊັນນີ້ເທົ່ານັ້ນ.
+	Manage Plug-ins…	ຈັດການປລັກອິນ…
+	No plug-ins installed.	ບໍ່ມີປລັກອິນທີ່ຕິດຕັ້ງໄວ້.
+	Plug-in Catalogs	ແຄັດຕາລັອກປລັກອິນ
+	Remove Plug-in	ເອົາປລັກອິນອອກ
+	Replaces version {version}.	ແທນທີ່ລຸ້ນ {version}.
+	Review…	ກວດເບິ່ງ…
+	Run	ເອີ້ນໃຊ້
+	Run Plug-in	ເອີ້ນໃຊ້ປລັກອິນ
+	The download stopped.	ການດາວໂຫຼດຢຸດລົງ.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	ປລັກອິນນີ້ບໍ່ຢູ່ໃນແຄັດຕາລັອກໃດທີ່ທ່ານໃຊ້: ຕິດຕັ້ງສະເພາະເມື່ອທ່ານເຊື່ອຖືຜູ້ສ້າງ.
+	This version asks for different permissions.	ລຸ້ນນີ້ຂໍສິດທີ່ແຕກຕ່າງ.
+	Update Plug-ins	ອັບເດດປລັກອິນ
+	Update to {version}	ອັບເດດເປັນ {version}
+	Update…	ອັບເດດ…

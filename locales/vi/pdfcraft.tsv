@@ -2555,7 +2555,6 @@ review-suggestion	Replacement text	Văn bản được thay vào
 	rows have between {min} and {max} columns	các hàng có từ {min} đến {max} cột
 	Rule	Quy tắc
 	Rule Name	Tên quy tắc
-	Run	Chạy
 	Run a JavaScript	Chạy một JavaScript
 	Run form script	Chạy script biểu mẫu
 	Run JavaScript	Chạy JavaScript

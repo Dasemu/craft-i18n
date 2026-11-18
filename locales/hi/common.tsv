@@ -13,3 +13,34 @@
 
 @id	language.name	हिन्दी
 @plural	{n} byte|{n} bytes	{n} बाइट|{n} बाइट
+	Access	पहुँच
+	Add Catalog	कैटलॉग जोड़ें
+	Add Plug-in Catalog	प्लगइन कैटलॉग जोड़ें
+	Any command its access allows	कोई भी कमांड जिसकी अनुमति इसकी पहुँच देती है
+	Browse Catalogs	कैटलॉग ब्राउज़ करें
+	By {author}	{author} द्वारा
+	Catalogs	कैटलॉग
+	Commands	कमांड
+	Downloading…	डाउनलोड हो रहा है…
+	Every plug-in is up to date.	सभी प्लगइन अप-टू-डेट हैं।
+	From File…	फ़ाइल से…
+	GitHub repository	GitHub रिपॉज़िटरी
+	Install	इंस्टॉल करें
+	Install from File…	फ़ाइल से इंस्टॉल करें…
+	Installed {name}.	{name} इंस्टॉल हो गया।
+	Install…	इंस्टॉल करें…
+	It is kept for this session only.	इसे केवल इस सत्र के लिए रखा जाता है।
+	Manage Plug-ins…	प्लगइन प्रबंधित करें…
+	No plug-ins installed.	कोई प्लगइन इंस्टॉल नहीं है।
+	Plug-in Catalogs	प्लगइन कैटलॉग
+	Remove Plug-in	प्लगइन हटाएँ
+	Replaces version {version}.	संस्करण {version} की जगह लेता है।
+	Review…	समीक्षा करें…
+	Run	चलाएँ
+	Run Plug-in	प्लगइन चलाएँ
+	The download stopped.	डाउनलोड रुक गया।
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	यह प्लगइन आपके उपयोग किए जाने वाले किसी भी कैटलॉग में नहीं है: इसे तभी इंस्टॉल करें जब आपको इसके लेखक पर भरोसा हो।
+	This version asks for different permissions.	यह संस्करण अलग अनुमतियाँ माँगता है।
+	Update Plug-ins	प्लगइन अपडेट करें
+	Update to {version}	{version} पर अपडेट करें
+	Update…	अपडेट करें…

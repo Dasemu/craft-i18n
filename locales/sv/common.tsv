@@ -24,6 +24,7 @@
 	Absolute	Absolut
 	Absolute Colorimetric	Absolut kolorimetrisk
 	Accented Edges	Accentuerade kanter
+	Access	Åtkomst
 	Accessibility	Tillgänglighet
 	Accurate	Exakt
 	Actions	Åtgärder
@@ -32,7 +33,9 @@
 	Adaptive	Adaptiv
 	Add	Lägg till
 	Add a comment	Lägg till en kommentar
+	Add Catalog	Lägg till katalog
 	Add Guide	Lägg till stödlinje
+	Add Plug-in Catalog	Lägg till katalog för insticksprogram
 	Add to Dictionary	Lägg till i ordlistan
 	Add to Swatches	Lägg till i färgrutor
 	Adjust	Bildjustering
@@ -63,6 +66,7 @@
 	Animation	Animering
 	Anti-Alias	Kantutjämning
 	Anti-alias	Kantutjämning
+	Any command its access allows	Alla kommandon som dess åtkomst tillåter
 	Appearance	Utseende
 theme	Appearance	Utseende
 	Apply	Använd
@@ -128,15 +132,18 @@ theme	Appearance	Utseende
 	Bring Forward	Flytta framåt
 	Bring to Front	Flytta längst fram
 	Brown	Brun
+	Browse Catalogs	Bläddra i kataloger
 	Browse…	Bläddra…
 	Brush Strokes	Penseldrag
 	Brushes	Penslar
 	Bullet	Punkt
 	Burlap	Säckväv
+	By {author}	Av {author}
 	Cancel	Avbryt
 	Canvas	Arbetsyta
 	Caption	Bildtext
 	Cascade	Överlappande
+	Catalogs	Kataloger
 	Category	Kategori
 	Cell Size	Cellstorlek
 	Center	Center
@@ -194,6 +201,7 @@ theme	Appearance	Utseende
 	Columns:	Kolumner:
 	Combine	Kombinera
 	Command	Kommando
+	Commands	Kommandon
 	Commands:	Kommandon:
 	Comment	Kommentar
 	Comments	Kommentarer
@@ -302,6 +310,7 @@ theme	Appearance	Utseende
 	Double-click	Dubbelklick
 	Down	Nedåt
 	Download	Hämta
+	Downloading…	Hämtar…
 	Draft	Utkast
 	Draw	Rita
 	Drop Shadow	Släppskugga
@@ -347,6 +356,7 @@ theme	Appearance	Utseende
 	Error	Fel
 	Even Fields	Jämna fält
 	Even pages only	Bara jämna sidor
+	Every plug-in is up to date.	Alla insticksprogram är uppdaterade.
 	Exact	Exakt
 	Example: {sample}	Exempel: {sample}
 	Exclusion	Uteslutning
@@ -404,6 +414,7 @@ theme	Appearance	Utseende
 	French	Franska
 	Frequency	Frekvens
 	From	Från
+	From File…	Från fil…
 	Frosted	Frostat
 	Full Screen	Helskärm
 	Full Screen Mode	Helskärmsläge
@@ -415,6 +426,7 @@ theme	Appearance	Utseende
 	General	Allmänt
 	Geometry	Geometri
 	German	Tyska
+	GitHub repository	GitHub-förråd
 	Glass	Glas
 	Global	Global
 	Glow	Glöd
@@ -489,8 +501,12 @@ theme	Appearance	Utseende
 	Insert	Infoga
 	Inside	Inuti
 	Inspect Document	Inspektera dokumentet
+	Install	Installera
+	Install from File…	Installera från fil…
 	Install Plug-in	Installera plugin
 	Install Plug-in…	Installera plugin…
+	Installed {name}.	{name} installerat.
+	Install…	Installera…
 	Intensity	Intensitet
 	Interface	Gränssnitt
 	Interface Language	Gränssnittsspråk
@@ -503,6 +519,7 @@ theme	Appearance	Utseende
 	Invert	Invertera
 	Invert Mask	Invertera mask
 	Isolate	Isolera
+	It is kept for this session only.	Det sparas bara under den här sessionen.
 	Italian	Italienska
 	Italic	Kursiv
 	Japanese	Japanska
@@ -586,6 +603,7 @@ theme	Appearance	Utseende
 	Luminosity	Luminositet
 	Magenta	Magenta
 	Magic Wand Tool	Verktyget Trollstav
+	Manage Plug-ins…	Hantera insticksprogram…
 	Margins	Marginaler
 	Mask	Maskera
 	Matte	Matte
@@ -662,6 +680,7 @@ theme	Appearance	Utseende
 	No document open	Inget dokument är öppet
 	No limit	Ingen gräns
 	No matches.	Inga träffar.
+	No plug-ins installed.	Inga insticksprogram installerade.
 	No results	Inga resultat
 	No Selection	Ingen markering
 	No selection	Ingen markering
@@ -736,6 +755,7 @@ theme	Appearance	Utseende
 	Pixelate	Pixla
 	Pixels	Pixlar
 	Play	Spela upp
+	Plug-in Catalogs	Kataloger för insticksprogram
 	Plug-ins	Insticksprogram
 	Point	Punkt
 	Pointillize	Pointillisera
@@ -811,6 +831,7 @@ theme	Appearance	Utseende
 	Reload	Läs in igen
 	Remove	Ta bort
 	Remove Background	Ta bort bakgrund
+	Remove Plug-in	Ta bort insticksprogram
 	Rename	Byt namn
 	Rename Group…	Byt namn på grupp…
 	Rename Style	Byt namn på stil
@@ -818,6 +839,7 @@ theme	Appearance	Utseende
 	Repeat	Upprepa
 	Replace	Ersätt
 	Replace:	Ersätt:
+	Replaces version {version}.	Ersätter version {version}.
 	Reply	Svara
 	Report	Rapport
 	Reselect	Markera igen
@@ -833,6 +855,7 @@ theme	Appearance	Utseende
 	Reverse the order	Vänd på ordningen
 	Revert	Återgå
 	Review	Granska
+	Review…	Granska…
 	RGB	RGB
 	RGB Color	RGB-färg
 	RGB:	RGB:
@@ -847,6 +870,8 @@ theme	Appearance	Utseende
 	Ruler	Linjal
 	Rulers	Linjaler
 	Rulers & Grids	Linjaler och rutnät
+	Run	Kör
+	Run Plug-in	Kör insticksprogram
 	Russian	Ryska
 	Sandstone	Sandsten
 	Saturation	Mättnad
@@ -1001,9 +1026,12 @@ theme	Appearance	Utseende
 	Text	Text
 	Text:	Text:
 	Texture	Textur
+	The download stopped.	Hämtningen avbröts.
 	The passwords don't match.	Lösenorden stämmer inte överens.
 	Thickness	Tjocklek
 	This document has no bookmarks.	Det här dokumentet har inga bokmärken.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Det här insticksprogrammet finns inte i någon katalog du använder: installera det bara om du litar på upphovspersonen.
+	This version asks for different permissions.	Den här versionen begär andra behörigheter.
 	Threshold	Tröskel
 	Tile	Sida vid sida
 	Tile Size	Rutstorlek
@@ -1049,6 +1077,9 @@ theme	Appearance	Utseende
 	Untitled	Namnlös
 	Up	Uppåt
 	Update	Uppdatera
+	Update Plug-ins	Uppdatera insticksprogram
+	Update to {version}	Uppdatera till {version}
+	Update…	Uppdatera…
 	UPPERCASE	VERSALER
 	Use Default	Använd standard
 	User	Användare

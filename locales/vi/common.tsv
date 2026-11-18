@@ -23,6 +23,7 @@
 	Absolute	Tuyệt đối
 	Absolute Colorimetric	Đo màu tuyệt đối
 	Accented Edges	Cạnh nhấn mạnh
+	Access	Quyền truy cập
 	Accessibility	Trợ năng
 	Accurate	Chính xác
 	Actions	Hành động
@@ -32,7 +33,9 @@
 	Adaptive	Thích ứng
 	Add	Thêm
 	Add a comment	Thêm bình luận
+	Add Catalog	Thêm danh mục
 	Add Guide	Thêm đường căn
+	Add Plug-in Catalog	Thêm danh mục plug-in
 	Add to Dictionary	Thêm vào từ điển
 	Add to favorites	Thêm vào mục yêu thích
 	Add to Swatches	Thêm vào mẫu màu
@@ -69,6 +72,7 @@
 	Anti-Alias	Khử răng cưa
 	Anti-alias	Khử răng cưa
 	Any	Bất kỳ
+	Any command its access allows	Bất kỳ lệnh nào mà quyền truy cập của nó cho phép
 	Appearance	Diện mạo
 theme	Appearance	Giao diện
 	Appearance Settings…	Cài đặt giao diện…
@@ -147,6 +151,7 @@ theme	Appearance	Giao diện
 	Bring Forward	Đưa lên trước
 	Bring to Front	Đưa lên trên cùng
 	Browse	Duyệt
+	Browse Catalogs	Duyệt danh mục
 	Browse…	Duyệt…
 	Brush Size	Cỡ cọ
 	Brush Strokes	Nét cọ
@@ -154,11 +159,13 @@ theme	Appearance	Giao diện
 	Bulge	Phồng
 	Bullet	Dấu đầu dòng
 	Burlap	Vải thô
+	By {author}	Của {author}
 	Calculate	Tính toán
 	Cancel	Hủy
 	Canvas	Vùng vẽ
 	Caption	Chú thích
 	Cascade	Xếp tầng
+	Catalogs	Danh mục
 	Category	Thể loại
 	Category:	Danh mục:
 	Cell Size	Kích thước ô
@@ -226,6 +233,7 @@ theme	Appearance	Giao diện
 	Columns:	Cột:
 	Combine	Kết hợp
 	Command	Lệnh
+	Commands	Lệnh
 	Commands:	Lệnh:
 	Comment	Bình luận
 	Comments	Bình luận
@@ -345,6 +353,7 @@ theme	Appearance	Giao diện
 	Double-click	Bấm đúp
 	Down	Xuống
 	Download	Tải xuống
+	Downloading…	Đang tải xuống…
 	Draft	Nháp
 	Draw	Vẽ
 	Drop Shadow	Đổ bóng
@@ -394,6 +403,7 @@ theme	Appearance	Giao diện
 	Error	Lỗi
 	Even Fields	Trường chẵn
 	Even pages only	Chỉ các trang chẵn
+	Every plug-in is up to date.	Mọi plug-in đều đã được cập nhật.
 	Exact	Chính xác
 	Example: {sample}	Ví dụ: {sample}
 	Exclusion	Loại trừ
@@ -462,6 +472,7 @@ theme	Appearance	Giao diện
 	French	Tiếng Pháp
 	Frequency	Tần số
 	From	Từ
+	From File…	Từ tệp…
 	Frosted	Sương mờ
 	Full	Toàn phần
 	Full Screen	Toàn màn hình
@@ -478,6 +489,7 @@ theme	Appearance	Giao diện
 	Geometry	Hình học
 	German	Tiếng Đức
 	GitHub	GitHub
+	GitHub repository	Kho GitHub
 	Glass	Kính
 	Global	Toàn cục
 	Glow	Ánh sáng
@@ -561,8 +573,12 @@ theme	Appearance	Giao diện
 	Insert	Chèn
 	Inside	Bên trong
 	Inspect Document	Kiểm tra tài liệu
+	Install	Cài đặt
+	Install from File…	Cài đặt từ tệp…
 	Install Plug-in	Cài đặt plug-in
 	Install Plug-in…	Cài đặt plug-in…
+	Installed {name}.	Đã cài đặt {name}.
+	Install…	Cài đặt…
 	Intensity	Cường độ
 	Interface	Giao diện
 	Interface Language	Ngôn ngữ giao diện
@@ -575,6 +591,7 @@ theme	Appearance	Giao diện
 	Invert	Đảo màu
 	Invert Mask	Đảo ngược mặt nạ
 	Isolate	Tách biệt
+	It is kept for this session only.	Nó chỉ được giữ trong phiên này.
 	Italian	Tiếng Ý
 	Italic	Nghiêng
 	Japanese	Tiếng Nhật
@@ -675,6 +692,7 @@ theme	Appearance	Giao diện
 	Magenta	Đỏ hồng
 	Magic Wand Tool	Công cụ Đũa thần
 	Magnification	Độ phóng đại
+	Manage Plug-ins…	Quản lý plug-in…
 	Margins	Lề
 	Mask	Mặt nạ
 	Matte	Nền mờ
@@ -760,6 +778,7 @@ theme	Appearance	Giao diện
 	No limit	Không giới hạn
 	No matches.	Không có kết quả.
 	No matching commands	Không tìm thấy lệnh
+	No plug-ins installed.	Chưa cài đặt plug-in nào.
 	No recent files	Không có tệp gần đây
 	No results	Không có kết quả
 	No Selection	Không có vùng chọn
@@ -845,6 +864,7 @@ theme	Appearance	Giao diện
 	Pixelate	Pixel hóa
 	Pixels	Pixel
 	Play	Phát
+	Plug-in Catalogs	Danh mục plug-in
 	Plug-ins	Plug-in
 	Point	Điểm
 	Pointillize	Hiệu ứng chấm
@@ -932,6 +952,7 @@ theme	Appearance	Giao diện
 	Remove	Gỡ bỏ
 	Remove Background	Gỡ bỏ nền
 	Remove from favorites	Xóa khỏi mục yêu thích
+	Remove Plug-in	Gỡ plug-in
 	Rename	Đổi tên
 	Rename Group…	Đổi tên nhóm…
 	Rename Style	Đổi tên kiểu
@@ -939,6 +960,7 @@ theme	Appearance	Giao diện
 	Repeat	Lặp lại
 	Replace	Thay thế
 	Replace:	Thay thế:
+	Replaces version {version}.	Thay thế phiên bản {version}.
 	Reply	Trả lời
 	Report	Báo cáo
 	Report an Issue…	Báo cáo vấn đề…
@@ -957,6 +979,7 @@ theme	Appearance	Giao diện
 	Reverse the order	Đảo ngược thứ tự
 	Revert	Hoàn nguyên
 	Review	Duyệt
+	Review…	Xem xét…
 	RGB	RGB
 	RGB Color	Màu RGB
 	RGB:	RGB:
@@ -974,6 +997,8 @@ theme	Appearance	Giao diện
 	Ruler	Thước
 	Rulers	Thước
 	Rulers & Grids	Thước & Lưới
+	Run	Chạy
+	Run Plug-in	Chạy plug-in
 	Russian	Tiếng Nga
 	Sandstone	Đá sa thạch
 	Saturation	Độ bão hòa
@@ -1142,10 +1167,13 @@ theme	Appearance	Giao diện
 	Text color	Màu chữ
 	Text:	Văn bản:
 	Texture	Kết cấu
+	The download stopped.	Quá trình tải xuống đã dừng.
 	The passwords don't match.	Các mật khẩu không khớp.
 	Theme	Chủ đề
 	Thickness	Độ dày
 	This document has no bookmarks.	Tài liệu này không có dấu trang.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Plug-in này không có trong danh mục nào bạn dùng: chỉ cài đặt nếu bạn tin tưởng tác giả của nó.
+	This version asks for different permissions.	Phiên bản này yêu cầu quyền khác.
 	Threshold	Ngưỡng
 	Thumbnails	Hình thu nhỏ
 	Tile	Ô
@@ -1198,6 +1226,9 @@ theme	Appearance	Giao diện
 	Untitled	Chưa đặt tên
 	Up	Lên
 	Update	Cập nhật
+	Update Plug-ins	Cập nhật plug-in
+	Update to {version}	Cập nhật lên {version}
+	Update…	Cập nhật…
 	UPPERCASE	CHỮ HOA
 	Use Default	Dùng mặc định
 	Username	Tên người dùng

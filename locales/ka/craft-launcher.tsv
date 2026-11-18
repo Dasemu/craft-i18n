@@ -100,7 +100,6 @@ month	Dec	დეკ
 	Download paused	ჩამოტვირთვა შეჩერებულია
 	Downloading	ჩამოტვირთვა
 	Downloading {done} of {total}	ჩამოიტვირთება: {done} / {total}
-	Downloading…	ჩამოიტვირთება…
 	Downloads for {platform}	ჩამოტვირთვები პლატფორმისთვის: {platform}
 	Downloads the new version, replaces this one and opens it again	ჩამოტვირთავს ახალ ვერსიას, ჩაანაცვლებს ამას და ხელახლა გახსნის
 	Enlarge picture	სურათის გადიდება
@@ -116,7 +115,6 @@ month	Feb	თებ
 	Full changelog	ცვლილებების სრული სია
 	GitHub	GitHub
 	GitHub limit hit; back in {min} min	GitHub-ის ლიმიტი ამოიწურა; {min} წუთში დაბრუნდება
-	GitHub repository	GitHub-ის რეპოზიტორია
 	GitHub's hourly limit was reached; full details return in {min} min	GitHub-ის საათობრივი ლიმიტი ამოიწურა; სრული ინფორმაცია {min} წუთში დაბრუნდება
 	Grid	ბადე
 @id	help.discord	Discord

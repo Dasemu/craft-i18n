@@ -2945,7 +2945,6 @@ effect	Regular	Régulier
 	Remove Guide	Supprimer le repère
 	Remove Item	Supprimer l’élément
 	Remove JavaScript File	Supprimer le fichier JavaScript
-	Remove Plug-in	Supprimer le module externe
 	Remove Selected Assets	Supprimer les ressources sélectionnées
 	Remove Selected Entry	Supprimer l’entrée sélectionnée
 	Remove the shortcut	Supprimer le raccourci
@@ -3106,7 +3105,6 @@ diagnostics	render	rendu
 	Rule:	Règle :
 	Ruler Origin	Origine des règles
 	Run Length	RLE (longueur de séquence)
-	Run Plug-in	Exécuter le module externe
 	Runs code the checker can't read	Exécute du code que la vérification ne peut pas lire
 	Same	Identique
 	Same As Source	Identique à la source

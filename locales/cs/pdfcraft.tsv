@@ -2772,7 +2772,6 @@ certificate	Public key	Veřejný klíč
 	rows have between {min} and {max} columns	řádky mají {min} až {max} sloupců
 	Rule	Pravidlo
 	Rule Name	Název pravidla
-	Run	Spustit
 	Run a JavaScript	Spustit JavaScript
 	Run form script	Spustit skript formuláře
 	Run JavaScript	Spustit JavaScript

@@ -15,12 +15,15 @@
 	(none)	(ఏదీ లేదు)
 	1 file	1 ఫైల్
 	About	పరిచయం
+	Access	యాక్సెస్
 	Accessibility	యాక్సెసిబిలిటీ
 	Actions	చర్యలు
 	Active	సక్రియం
 	Actual Size	అసలు పరిమాణం
 	Add	జోడించు
 	Add a comment	వ్యాఖ్యను జోడించండి
+	Add Catalog	కేటలాగ్‌ను జోడించు
+	Add Plug-in Catalog	ప్లగిన్ కేటలాగ్‌ను జోడించు
 	Advanced	అధునాతనం
 	Align	అమరిక
 	Align left	ఎడమకు అమర్చు
@@ -31,6 +34,7 @@
 	Angle	కోణం
 	Animation effects	యానిమేషన్ ప్రభావాలు
 	Any	ఏదైనా
+	Any command its access allows	దీని యాక్సెస్ అనుమతించే ఏ ఆదేశమైనా
 	Appearance	రూపం
 	Application	అప్లికేషన్
 	Apply	వర్తింపజేయి
@@ -52,9 +56,12 @@
 	Both sides	రెండు వైపులా
 	Bottom	కింద
 	Bottom:	కింద:
+	Browse Catalogs	కేటలాగ్‌లను బ్రౌజ్ చేయి
 	Browse…	బ్రౌజ్ చేయి…
+	By {author}	రచయిత: {author}
 	Calculate	గణన
 	Cancel	రద్దు చేయి
+	Catalogs	కేటలాగ్‌లు
 	Category:	వర్గం:
 	Center	మధ్య
 	Characters	అక్షరాలు
@@ -72,6 +79,7 @@
 	Colour	రంగు
 	Combine	కలుపు
 	Command	కమాండ్
+	Commands	ఆదేశాలు
 	Comments	వ్యాఖ్యలు
 	Commits	కమిట్‌లు
 	Company	సంస్థ
@@ -114,6 +122,7 @@
 	Dot	చుక్క
 	Double-click	డబుల్-క్లిక్
 	Download	డౌన్‌లోడ్ చేయి
+	Downloading…	డౌన్‌లోడ్ అవుతోంది…
 	Draw	గీయి
 	Duplicate…	నకలు చేయి…
 	Dynamic	డైనమిక్
@@ -124,6 +133,7 @@
 	Erase	చెరిపివేయి
 	Eraser	ఎరేజర్
 	Even pages only	సరి పేజీలు మాత్రమే
+	Every plug-in is up to date.	అన్ని ప్లగిన్‌లు తాజాగా ఉన్నాయి.
 	Example: {sample}	ఉదాహరణ: {sample}
 	Expand	విస్తరించు
 	Export	ఎగుమతి చేయి
@@ -151,8 +161,10 @@
 	Format	ఫార్మాట్
 	Format:	ఫార్మాట్:
 	From	పరిధి
+	From File…	ఫైల్ నుండి…
 	Full Screen	పూర్తి తెర
 	General	సాధారణం
+	GitHub repository	GitHub రిపోజిటరీ
 	Graphic	గ్రాఫిక్
 	Gray	బూడిద రంగు
 	Green	ఆకుపచ్చ
@@ -174,9 +186,14 @@
 	Images	చిత్రాలు
 	Index	ఇండెక్స్
 	Insert	చొప్పించు
+	Install	ఇన్‌స్టాల్ చేయి
+	Install from File…	ఫైల్ నుండి ఇన్‌స్టాల్ చేయి…
+	Installed {name}.	{name} ఇన్‌స్టాల్ అయింది.
+	Install…	ఇన్‌స్టాల్ చేయి…
 	Interface language	ఇంటర్‌ఫేస్ భాష
 	Intersection	ఖండన బిందువు
 	Invert	విలోమం
+	It is kept for this session only.	ఇది ఈ సెషన్ కోసం మాత్రమే ఉంచబడుతుంది.
 	Italic	ఇటాలిక్
 	Join our Discord	మా Discordలో చేరండి
 	Join the ArtCraft Discord	ArtCraft Discordలో చేరండి
@@ -209,6 +226,7 @@
 	Locked	లాక్ చేయబడింది
 	Low	తక్కువ
 	Magnification	జూమ్ స్థాయి
+	Manage Plug-ins…	ప్లగిన్‌లను నిర్వహించు…
 	Margins	మార్జిన్‌లు
 	Maximize	గరిష్ఠీకరించు
 	Maximum	గరిష్ఠం
@@ -231,6 +249,7 @@
 	No	కాదు
 	No limit	పరిమితి లేదు
 	No matches.	సరిపోలికలు ఏవీ లేవు.
+	No plug-ins installed.	ప్లగిన్‌లు ఏవీ ఇన్‌స్టాల్ కాలేదు.
 	No recent files	ఇటీవలి ఫైళ్లు లేవు
 	None	ఏదీ లేదు
 	Number	సంఖ్య
@@ -263,6 +282,7 @@
 	Perimeter	చుట్టుకొలత
 	Photo	ఫోటో
 	Pink	గులాబీ రంగు
+	Plug-in Catalogs	ప్లగిన్ కేటలాగ్‌లు
 	Polygon	పాలీగాన్
 	Polyline	పాలీలైన్
 	Portrait	నిలువు
@@ -290,8 +310,10 @@
 	Redo	మళ్లీ చేయి
 	Reload	మళ్లీ లోడ్ చేయి
 	Remove	తీసివేయి
+	Remove Plug-in	ప్లగిన్‌ను తీసివేయి
 	Rename	పేరు మార్చు
 	Replace	భర్తీ చేయి
+	Replaces version {version}.	వెర్షన్ {version} స్థానంలో వస్తుంది.
 	Reply	ప్రత్యుత్తరం ఇవ్వు
 	Report	నివేదిక
 	Resize panel window	ప్యానెల్ విండో పరిమాణం మార్చు
@@ -303,12 +325,15 @@
 	Reverse the order	వ్యతిరేక క్రమానికి మార్చు
 	Revert	సేవ్ చేసిన స్థితికి మార్చు
 	Review	సమీక్ష
+	Review…	సమీక్షించు…
 	Right	కుడి
 	Rotate	తిప్పు
 	Rotate:	తిప్పాల్సినవి:
 	Rotation	భ్రమణం
 	Rotation:	భ్రమణం:
 	Rows	వరుసలు
+	Run	అమలు చేయి
+	Run Plug-in	ప్లగిన్‌ను అమలు చేయి
 	Save	సేవ్ చేయి
 	Save as PDF	PDFగా సేవ్ చేయి
 	Scripts	స్క్రిప్ట్‌లు
@@ -341,9 +366,12 @@
 	Table	పట్టిక
 	Tables	పట్టికలు
 	Text	టెక్స్ట్
+	The download stopped.	డౌన్‌లోడ్ ఆగిపోయింది.
 	The passwords don't match.	పాస్‌వర్డ్‌లు సరిపోలడం లేదు.
 	Thickness	మందం
 	This document has no bookmarks.	ఈ పత్రంలో బుక్‌మార్క్‌లు లేవు.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	మీరు ఉపయోగించే ఏ కేటలాగ్‌లోనూ ఈ ప్లగిన్ లేదు: దీని రచయితను మీరు నమ్మితేనే దీన్ని ఇన్‌స్టాల్ చేయండి.
+	This version asks for different permissions.	ఈ వెర్షన్ వేరే అనుమతులను అడుగుతోంది.
 	Thumbnails	థంబ్‌నెయిల్‌లు
 	Time	సమయం
 	Title	శీర్షిక
@@ -362,6 +390,9 @@
 	Unlock	అన్‌లాక్ చేయి
 	Up	పైకి
 	Update	అప్‌డేట్ చేయి
+	Update Plug-ins	ప్లగిన్‌లను అప్‌డేట్ చేయి
+	Update to {version}	{version}కి అప్‌డేట్ చేయి
+	Update…	అప్‌డేట్ చేయి…
 	Username	వినియోగదారు పేరు
 	Value:	విలువ:
 	Version	వెర్షన్

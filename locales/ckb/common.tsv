@@ -13,3 +13,34 @@
 
 @id	language.name	کوردیی ناوەندی
 @plural	{n} byte|{n} bytes	{n} بایت|{n} بایت
+	Access	دەستگەیشتن
+	Add Catalog	زیادکردنی کاتالۆگ
+	Add Plug-in Catalog	زیادکردنی کاتالۆگی پێوەکراو
+	Any command its access allows	هەر فەرمانێک کە دەستگەیشتنەکەی ڕێگەی پێ دەدات
+	Browse Catalogs	گەڕان لە کاتالۆگەکان
+	By {author}	لەلایەن {author}
+	Catalogs	کاتالۆگەکان
+	Commands	فەرمانەکان
+	Downloading…	دادەبەزێنرێت…
+	Every plug-in is up to date.	هەموو پێوەکراوەکان نوێن.
+	From File…	لە پەڕگەوە…
+	GitHub repository	کۆگای GitHub
+	Install	دامەزراندن
+	Install from File…	دامەزراندن لە پەڕگەوە…
+	Installed {name}.	{name} دامەزرا.
+	Install…	دامەزراندن…
+	It is kept for this session only.	تەنها بۆ ئەم دانیشتنە دەهێڵدرێتەوە.
+	Manage Plug-ins…	بەڕێوەبردنی پێوەکراوەکان…
+	No plug-ins installed.	هیچ پێوەکراوێک دانەمەزراوە.
+	Plug-in Catalogs	کاتالۆگەکانی پێوەکراو
+	Remove Plug-in	لابردنی پێوەکراو
+	Replaces version {version}.	جێگەی وەشانی {version} دەگرێتەوە.
+	Review…	پێداچوونەوە…
+	Run	بەڕێکردن
+	Run Plug-in	بەڕێکردنی پێوەکراو
+	The download stopped.	داگرتن وەستا.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	ئەم پێوەکراوە لە هیچ کاتالۆگێکدا نییە کە بەکاری دەهێنیت: تەنها ئەگەر متمانەت بە نووسەرەکەی هەیە دایبمەزرێنە.
+	This version asks for different permissions.	ئەم وەشانە مۆڵەتی جیاواز داوا دەکات.
+	Update Plug-ins	نوێکردنەوەی پێوەکراوەکان
+	Update to {version}	نوێکردنەوە بۆ {version}
+	Update…	نوێکردنەوە…

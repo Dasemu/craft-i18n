@@ -76,7 +76,6 @@ month	Dec	12.
 	Download paused	Stahování pozastaveno
 	Downloading	Stahuje se
 	Downloading {done} of {total}	Stahování {done} z {total}
-	Downloading…	Stahování…
 	Downloads for {platform}	Stažení pro {platform}
 	Downloads the new version, replaces this one and opens it again	Stáhne novou verzi, nahradí tuto verzi a znovu ji otevře
 	Enlarge picture	Zvětšit obrázek
@@ -90,7 +89,6 @@ month	Feb	2.
 	Flatpak bundle	Balíček Flatpak
 	Full changelog	Úplný přehled změn
 	GitHub limit hit; back in {min} min	Dosažen limit GitHubu; obnovení za {min} min
-	GitHub repository	Repozitář na GitHubu
 	GitHub's hourly limit was reached; full details return in {min} min	Byl dosažen hodinový limit GitHubu; úplné informace budou znovu dostupné za {min} min
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -100,7 +98,6 @@ month	Feb	2.
 photocraft	Image editing	Úpravy obrázků
 	Include pre-releases (betas and release candidates)	Zahrnout předběžná vydání (beta verze a kandidáty na vydání)
 	Inspired by	Inspirace
-	Install	Nainstalovat
 	Install cancelled	Instalace zrušena
 	Install cancelled. The download is kept for the next try.	Instalace zrušena. Stažený soubor zůstane připravený pro další pokus.
 	Install folder	Instalační složka

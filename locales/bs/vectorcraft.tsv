@@ -3115,7 +3115,6 @@ effect	Regular	Obično
 	Remove Guide	Ukloni vodilicu
 	Remove Item	Ukloni stavku
 	Remove JavaScript File	Ukloni JavaScript datoteku
-	Remove Plug-in	Ukloni dodatak
 	Remove Selected Assets	Ukloni odabrane resurse
 	Remove Selected Entry	Ukloni odabrani unos
 	Remove the shortcut	Ukloni prečicu
@@ -3278,7 +3277,6 @@ swatch	Rose	Ružičastocrvena
 	Rule:	Pravilo:
 	Ruler Origin	Ishodište ravnala
 	Run Length	Dužina niza
-	Run Plug-in	Pokreni dodatak
 	Runs code the checker can't read	Izvršava kod koji provjera ne može pročitati
 swatch	Rust	Hrđa
 	Same	Isto

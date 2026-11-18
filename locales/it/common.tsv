@@ -25,6 +25,7 @@
 	Absolute	Assoluto
 	Absolute Colorimetric	Colorimetrico assoluto
 	Accented Edges	Bordi accentuati
+	Access	Accesso
 	Accessibility	Accessibilità
 	Accurate	Preciso
 	Actions	Azioni
@@ -34,7 +35,9 @@
 	Adaptive	Adattivo
 	Add	Aggiungi
 	Add a comment	Aggiungi un commento
+	Add Catalog	Aggiungi catalogo
 	Add Guide	Aggiungi guida
+	Add Plug-in Catalog	Aggiungi catalogo di plug-in
 	Add to Dictionary	Aggiungi al dizionario
 	Add to favorites	Aggiungi ai preferiti
 	Add to Swatches	Aggiungi ai campioni
@@ -71,6 +74,7 @@
 	Anti-Alias	Anti-aliasing
 	Anti-alias	Anti-aliasing
 	Any	Qualsiasi
+	Any command its access allows	Qualsiasi comando consentito dal suo accesso
 	Appearance	Aspetto
 	Appearance Settings…	Impostazioni aspetto…
 	Application	Applicazione
@@ -150,6 +154,7 @@
 	Bring to Front	Porta in primo piano
 	Brown	Marrone
 	Browse	Sfoglia
+	Browse Catalogs	Sfoglia cataloghi
 	Browse…	Sfoglia…
 	Brush Size	Dimensione pennello
 	Brush Strokes	Pennellate
@@ -157,12 +162,14 @@
 	Bulge	Rigonfiamento
 	Bullet	Punto elenco
 	Burlap	Tela di iuta
+	By {author}	Di {author}
 	Calculate	Calcola
 	Cancel	Annulla
 	Canvas	Tela
 	Caption	Didascalia
 	Cascade	A cascata
 	Case Sensitive	Maiuscole/minuscole
+	Catalogs	Cataloghi
 	Category	Categoria
 	Category:	Categoria:
 	Cell Size	Dimensione cella
@@ -232,6 +239,7 @@
 	Columns:	Colonne:
 	Combine	Combina
 	Command	Comando
+	Commands	Comandi
 	Commands:	Comandi:
 	Comment	Commento
 	Comments	Commenti
@@ -357,6 +365,7 @@
 	Double-click	Doppio clic
 	Down	Giù
 	Download	Scarica
+	Downloading…	Download in corso…
 	Draft	Bozza
 	Draw	Disegna
 	Drop Shadow	Ombra esterna
@@ -407,6 +416,7 @@
 	Error	Errore
 	Even Fields	Campi pari
 	Even pages only	Solo pagine pari
+	Every plug-in is up to date.	Tutti i plug-in sono aggiornati.
 	Exact	Esatto
 	Example: {sample}	Esempio: {sample}
 	Exclusion	Esclusione
@@ -479,6 +489,7 @@
 	French	Francese
 	Frequency	Frequenza
 	From	Da
+	From File…	Da file…
 	Frosted	Smerigliato
 	Full	Completa
 	Full Screen	Schermo intero
@@ -495,6 +506,7 @@
 	Geometry	Geometria
 	German	Tedesco
 	GitHub	GitHub
+	GitHub repository	Repository GitHub
 	Glass	Vetro
 	Global	Globale
 	Glow	Bagliore
@@ -578,8 +590,12 @@
 	Insert	Inserisci
 	Inside	Dentro
 	Inspect Document	Ispeziona documento
+	Install	Installa
+	Install from File…	Installa da file…
 	Install Plug-in	Installa plug-in
 	Install Plug-in…	Installa plug-in…
+	Installed {name}.	{name} installato.
+	Install…	Installa…
 	Intensity	Intensità
 	Interface	Interfaccia
 	Interface Language	Lingua dell'interfaccia
@@ -592,6 +608,7 @@
 	Invert	Inverti
 	Invert Mask	Inverti maschera
 	Isolate	Isola
+	It is kept for this session only.	Viene conservato solo per questa sessione.
 	Italian	Italiano
 	Italic	Corsivo
 	Japanese	Giapponese
@@ -692,6 +709,7 @@
 	Magenta	Magenta
 	Magic Wand Tool	Strumento Bacchetta magica
 	Magnification	Ingrandimento
+	Manage Plug-ins…	Gestisci plug-in…
 	Margins	Margini
 	Mask	Maschera
 	Masks	Maschere
@@ -778,6 +796,7 @@
 	No limit	Nessun limite
 	No matches.	Nessuna corrispondenza.
 	No matching commands	Nessun comando corrispondente
+	No plug-ins installed.	Nessun plug-in installato.
 	No recent files	Nessun file recente
 	No results	Nessun risultato
 	No Selection	Nessuna selezione
@@ -866,6 +885,7 @@
 	Pixelate	Effetto pixel
 	Pixels	Pixel
 	Play	Riproduci
+	Plug-in Catalogs	Cataloghi di plug-in
 	Plug-ins	Plug-in
 	Point	Puntiforme
 	Pointillize	Puntinismo
@@ -953,6 +973,7 @@
 	Remove	Rimuovi
 	Remove Background	Rimuovi sfondo
 	Remove from favorites	Rimuovi dai preferiti
+	Remove Plug-in	Rimuovi plug-in
 	Rename	Rinomina
 	Rename Group…	Rinomina gruppo…
 	Rename Style	Rinomina stile
@@ -960,6 +981,7 @@
 	Repeat	Ripeti
 	Replace	Sostituisci
 	Replace:	Sostituisci:
+	Replaces version {version}.	Sostituisce la versione {version}.
 	Reply	Rispondi
 	Report	Rapporto
 	Report an Issue…	Segnala un problema…
@@ -979,6 +1001,7 @@
 	Reverse the order	Inverti l'ordine
 	Revert	Ripristina
 	Review	Revisione
+	Review…	Esamina…
 	RGB	RGB
 	RGB Color	Colore RGB
 	RGB:	RGB:
@@ -996,6 +1019,8 @@
 	Ruler	Righello
 	Rulers	Righelli
 	Rulers & Grids	Righelli e griglie
+	Run	Esegui
+	Run Plug-in	Esegui plug-in
 	Russian	Russo
 	Sample Size	Dimensione campione
 	Sandstone	Arenaria
@@ -1166,10 +1191,13 @@
 	Text color	Colore testo
 	Text:	Testo:
 	Texture	Texture
+	The download stopped.	Il download si è interrotto.
 	The passwords don't match.	Le password non corrispondono.
 	Theme	Tema
 	Thickness	Spessore
 	This document has no bookmarks.	Questo documento non ha segnalibri.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Questo plug-in non è in nessun catalogo che usi: installalo solo se ti fidi del suo autore.
+	This version asks for different permissions.	Questa versione chiede autorizzazioni diverse.
 	Threshold	Soglia
 	Thumbnails	Miniature
 	Tile	Affianca
@@ -1223,7 +1251,10 @@
 	Untitled	Senza titolo
 	Up	Su
 	Update	Aggiorna
+	Update Plug-ins	Aggiorna plug-in
+	Update to {version}	Aggiorna a {version}
 	Updates	Aggiornamenti
+	Update…	Aggiorna…
 	UPPERCASE	MAIUSCOLO
 	Use Default	Usa predefinito
 	User	Utente

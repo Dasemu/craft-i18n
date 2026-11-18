@@ -3691,7 +3691,6 @@ effect	Regular	ჩვეულებრივი
 	Remove Guide	დამხმარე ხაზის მოცილება
 	Remove Item	ელემენტის წაშლა
 	Remove JavaScript File	JavaScript ფაილის მოცილება
-	Remove Plug-in	პლაგინის წაშლა
 	Remove Selected Assets	მონიშნული რესურსების წაშლა
 	Remove Selected Entry	მონიშნული ჩანაწერის მოცილება
 	Remove the shortcut	მალსახმობის მოცილება
@@ -3870,7 +3869,6 @@ diagnostics	render	რენდერი
 	Rulers	სახაზავები
 	Rulers & Grids	სახაზავები და ბადეები
 	Run Length	Run Length
-	Run Plug-in	პლაგინის გაშვება
 	Runs code the checker can't read	უშვებს კოდს, რომელსაც შემმოწმებელი ვერ კითხულობს
 	Same	იგივე
 	Same As Source	წყაროს მსგავსად

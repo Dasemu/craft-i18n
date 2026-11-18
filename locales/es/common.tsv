@@ -25,6 +25,7 @@
 	Absolute	Absoluto
 	Absolute Colorimetric	Colorimétrico absoluto
 	Accented Edges	Bordes acentuados
+	Access	Acceso
 	Accessibility	Accesibilidad
 	Accurate	Preciso
 	Actions	Acciones
@@ -34,7 +35,9 @@
 	Adaptive	Adaptativo
 	Add	Añadir
 	Add a comment	Añadir un comentario
+	Add Catalog	Añadir catálogo
 	Add Guide	Agregar guía
+	Add Plug-in Catalog	Añadir catálogo de plugins
 	Add to Dictionary	Añadir al diccionario
 	Add to favorites	Añadir a favoritos
 	Add to Swatches	Agregar a muestras
@@ -71,6 +74,7 @@
 	Anti-Alias	Suavizado
 	Anti-alias	Suavizado
 	Any	Cualquiera
+	Any command its access allows	Cualquier comando que su acceso permita
 	Appearance	Apariencia
 theme	Appearance	Apariencia
 	Appearance Settings…	Ajustes de apariencia…
@@ -151,6 +155,7 @@ theme	Appearance	Apariencia
 	Bring to Front	Traer al frente
 	Brown	Marrón
 	Browse	Examinar
+	Browse Catalogs	Explorar catálogos
 	Browse…	Examinar…
 	Brush Size	Tamaño del pincel
 	Brush Strokes	Trazos de pincel
@@ -158,12 +163,14 @@ theme	Appearance	Apariencia
 	Bulge	Abultamiento
 	Bullet	Viñeta
 	Burlap	Arpillera
+	By {author}	Por {author}
 	Calculate	Calcular
 	Cancel	Cancelar
 	Canvas	Lienzo
 	Caption	Pie de foto
 	Cascade	Cascada
 	Case Sensitive	Distinguir mayúsculas y minúsculas
+	Catalogs	Catálogos
 	Category	Categoría
 	Category:	Categoría:
 	Cell Size	Tamaño de celda
@@ -233,6 +240,7 @@ theme	Appearance	Apariencia
 	Columns:	Columnas:
 	Combine	Combinar
 	Command	Comando
+	Commands	Comandos
 	Commands:	Comandos:
 	Comment	Comentario
 	Comments	Comentarios
@@ -358,6 +366,7 @@ theme	Appearance	Apariencia
 	Double-click	Doble clic
 	Down	Abajo
 	Download	Descargar
+	Downloading…	Descargando…
 	Draft	Borrador
 	Draw	Dibujar
 	Drop Shadow	Sombra paralela
@@ -408,6 +417,7 @@ theme	Appearance	Apariencia
 	Error	Error
 	Even Fields	Campos pares
 	Even pages only	Solo páginas pares
+	Every plug-in is up to date.	Todos los plugins están actualizados.
 	Exact	Exacto
 	Example: {sample}	Ejemplo: {sample}
 	Exclusion	Exclusión
@@ -480,6 +490,7 @@ theme	Appearance	Apariencia
 	French	Francés
 	Frequency	Frecuencia
 	From	Desde
+	From File…	Desde un archivo…
 	Frosted	Esmerilado
 	Full	Completa
 	Full Screen	Pantalla completa
@@ -496,6 +507,7 @@ theme	Appearance	Apariencia
 	Geometry	Geometría
 	German	Alemán
 	GitHub	GitHub
+	GitHub repository	Repositorio en GitHub
 	Glass	Vidrio
 	Global	Global
 	Glow	Resplandor
@@ -579,8 +591,12 @@ theme	Appearance	Apariencia
 	Insert	Insertar
 	Inside	Dentro
 	Inspect Document	Inspeccionar documento
+	Install	Instalar
+	Install from File…	Instalar desde un archivo…
 	Install Plug-in	Instalar plugin
 	Install Plug-in…	Instalar plugin…
+	Installed {name}.	{name} instalado.
+	Install…	Instalar…
 	Intensity	Intensidad
 	Interface	Interfaz
 	Interface Language	Idioma de la interfaz
@@ -593,6 +609,7 @@ theme	Appearance	Apariencia
 	Invert	Invertir
 	Invert Mask	Invertir máscara
 	Isolate	Aislar
+	It is kept for this session only.	Solo se conserva durante esta sesión.
 	Italian	Italiano
 	Italic	Cursiva
 	Japanese	Japonés
@@ -693,6 +710,7 @@ theme	Appearance	Apariencia
 	Magenta	Magenta
 	Magic Wand Tool	Herramienta Varita mágica
 	Magnification	Ampliación
+	Manage Plug-ins…	Administrar plugins…
 	Margins	Márgenes
 	Mask	Máscara
 	Masks	Máscaras
@@ -779,6 +797,7 @@ theme	Appearance	Apariencia
 	No limit	Sin límite
 	No matches.	Sin coincidencias.
 	No matching commands	No hay comandos coincidentes
+	No plug-ins installed.	No hay plugins instalados.
 	No recent files	Ningún archivo reciente
 	No results	Sin resultados
 	No Selection	Ninguna selección
@@ -867,6 +886,7 @@ theme	Appearance	Apariencia
 	Pixelate	Pixelizar
 	Pixels	Píxeles
 	Play	Reproducir
+	Plug-in Catalogs	Catálogos de plugins
 	Plug-ins	Plugins
 	Point	Punto
 	Pointillize	Puntillismo
@@ -954,6 +974,7 @@ theme	Appearance	Apariencia
 	Remove	Quitar
 	Remove Background	Quitar el fondo
 	Remove from favorites	Quitar de favoritos
+	Remove Plug-in	Quitar plugin
 	Rename	Cambiar nombre
 	Rename Group…	Cambiar nombre del grupo…
 	Rename Style	Cambiar nombre del estilo
@@ -961,6 +982,7 @@ theme	Appearance	Apariencia
 	Repeat	Repetir
 	Replace	Reemplazar
 	Replace:	Reemplazar:
+	Replaces version {version}.	Sustituye a la versión {version}.
 	Reply	Responder
 	Report	Informe
 	Report an Issue…	Informar de un problema…
@@ -980,6 +1002,7 @@ theme	Appearance	Apariencia
 	Reverse the order	Invertir el orden
 	Revert	Revertir
 	Review	Revisar
+	Review…	Revisar…
 	RGB	RGB
 	RGB Color	Color RGB
 	RGB:	RGB:
@@ -997,6 +1020,8 @@ theme	Appearance	Apariencia
 	Ruler	Regla
 	Rulers	Reglas
 	Rulers & Grids	Reglas y cuadrículas
+	Run	Ejecutar
+	Run Plug-in	Ejecutar plugin
 	Russian	Ruso
 	Sample Size	Tamaño de muestra
 	Sandstone	Arenisca
@@ -1167,10 +1192,13 @@ theme	Appearance	Apariencia
 	Text color	Color del texto
 	Text:	Texto:
 	Texture	Textura
+	The download stopped.	La descarga se detuvo.
 	The passwords don't match.	Las contraseñas no coinciden.
 	Theme	Tema
 	Thickness	Grosor
 	This document has no bookmarks.	Este documento no tiene marcadores.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Este plugin no está en ningún catálogo que uses: instálalo solo si confías en su autor.
+	This version asks for different permissions.	Esta versión pide permisos distintos.
 	Threshold	Umbral
 	Thumbnails	Miniaturas
 	Tile	Mosaico
@@ -1224,7 +1252,10 @@ theme	Appearance	Apariencia
 	Untitled	Sin título
 	Up	Arriba
 	Update	Actualizar
+	Update Plug-ins	Actualizar plugins
+	Update to {version}	Actualizar a {version}
 	Updates	Actualizaciones
+	Update…	Actualizar…
 	UPPERCASE	MAYÚSCULAS
 	Use Default	Usar predeterminado
 	User	Usuario

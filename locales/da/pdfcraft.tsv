@@ -1746,7 +1746,6 @@ certificate	Public key	Offentlig nøgle
 	Rows	Rækker
 	rows have between {min} and {max} columns	rækker har mellem {min} og {max} kolonner
 	Rule Name	Regelnavn
-	Run	Kør
 	Run a JavaScript	Kør et JavaScript
 	Run form script	Kør formularscript
 	Run JavaScript	Kør JavaScript

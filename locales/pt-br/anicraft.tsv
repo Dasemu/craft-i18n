@@ -251,7 +251,6 @@
 	Colours	Cores
 	Command Palette…	Paleta de comandos…
 	Command palette	Paleta de comandos
-	Commands	Comandos
 	Confirmations	Confirmações
 	Constrain rotation	Restringir rotação
 	Constrain shape / 45° line	Restringir forma / linha em 45°
@@ -1098,7 +1097,6 @@
 	Rotate 90° CW	Girar 90° no sentido horário
 	Rotate Camera	Girar câmera
 	Round	Arredondado
-	Run	Executar
 	Run Plug-in	Executar plug-in
 	Runs in Test Movie and the HTML canvas export	Executa em Testar filme e na exportação HTML Canvas
 	Run…	Executar…

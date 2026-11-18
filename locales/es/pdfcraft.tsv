@@ -2767,7 +2767,6 @@ certificate	Public key	Clave pública
 	rows have between {min} and {max} columns	las filas tienen entre {min} y {max} columnas
 	Rule	Regla
 	Rule Name	Nombre de la regla
-	Run	Ejecutar
 	Run a JavaScript	Ejecutar un JavaScript
 	Run form script	Ejecutar script del formulario
 	Run JavaScript	Ejecutar JavaScript

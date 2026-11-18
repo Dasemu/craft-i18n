@@ -25,6 +25,7 @@
 	Absolute	مطلق
 	Absolute Colorimetric	رنگ‌سنجی مطلق
 	Accented Edges	لبه‌های برجسته
+	Access	دسترسی
 	Accessibility	دسترس‌پذیری
 	Accurate	دقیق
 	Actions	کنش‌ها
@@ -34,7 +35,9 @@
 	Adaptive	انطباقی
 	Add	افزودن
 	Add a comment	افزودن نظر
+	Add Catalog	افزودن فهرست
 	Add Guide	افزودن راهنما
+	Add Plug-in Catalog	افزودن فهرست افزونه
 	Add to Dictionary	افزودن به واژه‌نامه
 	Add to favorites	افزودن به برگزیده‌ها
 	Add to Swatches	افزودن به نمونه‌رنگ‌ها
@@ -71,6 +74,7 @@
 	Anti-Alias	ضدپله
 	Anti-alias	ضدپله
 	Any	هر
+	Any command its access allows	هر فرمانی که دسترسی آن اجازه می‌دهد
 	Appearance	ظاهر
 theme	Appearance	ظاهر
 	Appearance Settings…	تنظیمات ظاهر…
@@ -151,6 +155,7 @@ theme	Appearance	ظاهر
 	Bring to Front	آوردن به پیش
 	Brown	قهوه‌ای
 	Browse	مرور
+	Browse Catalogs	مرور فهرست‌ها
 	Browse…	مرور…
 	Brush Size	اندازهٔ قلم‌مو
 	Brush Strokes	ضربه‌های قلم‌مو
@@ -158,12 +163,14 @@ theme	Appearance	ظاهر
 	Bulge	برآمدگی
 	Bullet	گلوله
 	Burlap	کرباس
+	By {author}	از {author}
 	Calculate	محاسبه
 	Cancel	لغو
 	Canvas	بوم
 	Caption	عنوان
 	Cascade	آبشاری
 	Case Sensitive	حساس به بزرگی حروف
+	Catalogs	فهرست‌ها
 	Category	دسته
 	Category:	دسته:
 	Cell Size	اندازهٔ خانه
@@ -233,6 +240,7 @@ theme	Appearance	ظاهر
 	Columns:	ستون‌ها:
 	Combine	ترکیب
 	Command	فرمان
+	Commands	فرمان‌ها
 	Commands:	فرمان‌ها:
 	Comment	نظر
 	Comments	نظرها
@@ -358,6 +366,7 @@ theme	Appearance	ظاهر
 	Double-click	دوبار کلیک
 	Down	پایین
 	Download	بارگیری
+	Downloading…	در حال بارگیری…
 	Draft	پیش‌نویس
 	Draw	ترسیم
 	Drop Shadow	سایهٔ افتاده
@@ -408,6 +417,7 @@ theme	Appearance	ظاهر
 	Error	خطا
 	Even Fields	میدان‌های زوج
 	Even pages only	فقط صفحه‌های زوج
+	Every plug-in is up to date.	همهٔ افزونه‌ها به‌روز هستند.
 	Exact	دقیق
 	Example: {sample}	مثال: {sample}
 	Exclusion	طرد
@@ -480,6 +490,7 @@ theme	Appearance	ظاهر
 	French	فرانسوی
 	Frequency	بسامد
 	From	از
+	From File…	از فایل…
 	Frosted	مات
 	Full	کامل
 	Full Screen	تمام‌صفحه
@@ -496,6 +507,7 @@ theme	Appearance	ظاهر
 	Geometry	هندسه
 	German	آلمانی
 	GitHub	GitHub
+	GitHub repository	مخزن GitHub
 	Glass	شیشه
 	Global	سراسری
 	Glow	درخشش
@@ -579,8 +591,12 @@ theme	Appearance	ظاهر
 	Insert	درج
 	Inside	داخل
 	Inspect Document	بررسی سند
+	Install	نصب
+	Install from File…	نصب از فایل…
 	Install Plug-in	نصب افزونه
 	Install Plug-in…	نصب افزونه…
+	Installed {name}.	{name} نصب شد.
+	Install…	نصب…
 	Intensity	شدت
 	Interface	رابط
 	Interface Language	زبان رابط
@@ -593,6 +609,7 @@ theme	Appearance	ظاهر
 	Invert	معکوس
 	Invert Mask	معکوس ماسک
 	Isolate	جداکردن
+	It is kept for this session only.	فقط برای همین نشست نگه داشته می‌شود.
 	Italian	ایتالیایی
 	Italic	ایتالیک
 	Japanese	ژاپنی
@@ -693,6 +710,7 @@ theme	Appearance	ظاهر
 	Magenta	ارغوانی
 	Magic Wand Tool	ابزار عصای جادویی
 	Magnification	بزرگ‌نمایی
+	Manage Plug-ins…	مدیریت افزونه‌ها…
 	Margins	حاشیه‌ها
 	Mask	ماسک
 	Masks	ماسک‌ها
@@ -779,6 +797,7 @@ theme	Appearance	ظاهر
 	No limit	بدون محدودیت
 	No matches.	مطابقتی نیست.
 	No matching commands	فرمان مطابقتی نیست
+	No plug-ins installed.	هیچ افزونه‌ای نصب نشده است.
 	No recent files	فایل اخیری نیست
 	No results	نتیجهای نیست
 	No Selection	بدون انتخاب
@@ -867,6 +886,7 @@ theme	Appearance	ظاهر
 	Pixelate	پیکسلی‌سازی
 	Pixels	پیکسل‌ها
 	Play	پخش
+	Plug-in Catalogs	فهرست‌های افزونه
 	Plug-ins	افزونه‌ها
 	Point	نقطه
 	Pointillize	نقطه‌چین‌سازی
@@ -954,6 +974,7 @@ theme	Appearance	ظاهر
 	Remove	حذف
 	Remove Background	حذف پس‌زمینه
 	Remove from favorites	حذف از برگزیده‌ها
+	Remove Plug-in	حذف افزونه
 	Rename	تغییر نام
 	Rename Group…	تغییر نام گروه…
 	Rename Style	تغییر نام سبک
@@ -961,6 +982,7 @@ theme	Appearance	ظاهر
 	Repeat	تکرار
 	Replace	جایگزینی
 	Replace:	جایگزینی:
+	Replaces version {version}.	جایگزین نسخهٔ {version} می‌شود.
 	Reply	پاسخ
 	Report	گزارش
 	Report an Issue…	گزارش مشکل…
@@ -980,6 +1002,7 @@ theme	Appearance	ظاهر
 	Reverse the order	معکوس‌کردن ترتیب
 	Revert	بازگرداندن
 	Review	مرور
+	Review…	بررسی…
 	RGB	RGB
 	RGB Color	رنگ RGB
 	RGB:	RGB:
@@ -997,6 +1020,8 @@ theme	Appearance	ظاهر
 	Ruler	خط‌کش
 	Rulers	خط‌کش‌ها
 	Rulers & Grids	خط‌کش‌ها و شبکه‌ها
+	Run	اجرا
+	Run Plug-in	اجرای افزونه
 	Russian	روسی
 	Sample Size	اندازهٔ نمونه
 	Sandstone	ماسه‌سنگ
@@ -1167,10 +1192,13 @@ theme	Appearance	ظاهر
 	Text color	رنگ متن
 	Text:	متن:
 	Texture	بافت
+	The download stopped.	بارگیری متوقف شد.
 	The passwords don't match.	گذرواژه‌ها مطابقت ندارند.
 	Theme	پوسته
 	Thickness	ضخامت
 	This document has no bookmarks.	این سند هیچ نشانکی ندارد.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	این افزونه در هیچ‌یک از فهرست‌هایی که استفاده می‌کنید نیست: فقط اگر به سازندهٔ آن اعتماد دارید نصبش کنید.
+	This version asks for different permissions.	این نسخه مجوزهای متفاوتی می‌خواهد.
 	Threshold	آستانه
 	Thumbnails	تصاویر بندانگشتی
 	Tile	کاشی
@@ -1224,7 +1252,10 @@ theme	Appearance	ظاهر
 	Untitled	بی‌نام
 	Up	بالا
 	Update	به‌روزرسانی
+	Update Plug-ins	به‌روزرسانی افزونه‌ها
+	Update to {version}	به‌روزرسانی به {version}
 	Updates	به‌روزرسانی‌ها
+	Update…	به‌روزرسانی…
 	UPPERCASE	حروف بزرگ
 	Use Default	استفاده از پیش‌فرض
 	User	کاربر

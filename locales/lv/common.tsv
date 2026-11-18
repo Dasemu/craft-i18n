@@ -26,6 +26,7 @@
 	Absolute	Absolūts
 	Absolute Colorimetric	Absolūtā kolorimetrija
 	Accented Edges	Izceltas malas
+	Access	Piekļuve
 	Accessibility	Pieejamība
 	Accurate	Precīzs
 	Actions	Darbības
@@ -35,7 +36,9 @@
 	Adaptive	Adaptīvs
 	Add	Pievienot
 	Add a comment	Pievienot komentāru
+	Add Catalog	Pievienot katalogu
 	Add Guide	Pievienot palīglīniju
+	Add Plug-in Catalog	Pievienot spraudņu katalogu
 	Add to Dictionary	Pievienot vārdnīcai
 	Add to favorites	Pievienot izlasei
 	Add to Swatches	Pievienot krāsu paraugiem
@@ -72,6 +75,7 @@
 	Anti-Alias	Malu izlīdzināšana
 	Anti-alias	Malu izlīdzināšana
 	Any	Jebkurš
+	Any command its access allows	Jebkura komanda, ko atļauj tā piekļuve
 	Appearance	Izskats
 theme	Appearance	Izskats
 	Appearance Settings…	Izskata iestatījumi…
@@ -153,6 +157,7 @@ theme	Appearance	Izskats
 	Bring to Front	Pārvietot uz priekšplānu
 	Brown	Brūns
 	Browse	Pārlūkot
+	Browse Catalogs	Pārlūkot katalogus
 	Browse…	Pārlūkot…
 	Brush Size	Otas izmērs
 	Brush Strokes	Otas vilcieni
@@ -160,12 +165,14 @@ theme	Appearance	Izskats
 	Bulge	Izliekums
 	Bullet	Aizzīme
 	Burlap	Maisaudums
+	By {author}	Autors: {author}
 	Calculate	Aprēķināt
 	Cancel	Atcelt
 	Canvas	Audekls
 	Caption	Paraksts
 	Cascade	Kaskāde
 	Case Sensitive	Reģistrjutīgs
+	Catalogs	Katalogi
 	Category	Kategorija
 	Category:	Kategorija:
 	Cell Size	Šūnas izmērs
@@ -235,6 +242,7 @@ theme	Appearance	Izskats
 	Columns:	Kolonnas:
 	Combine	Apvienot
 	Command	Komanda
+	Commands	Komandas
 	Commands:	Komandas:
 	Comment	Komentārs
 	Comments	Komentāri
@@ -360,6 +368,7 @@ theme	Appearance	Izskats
 	Double-click	Dubultklikšķis
 	Down	Uz leju
 	Download	Lejupielādēt
+	Downloading…	Lejupielādē…
 	Draft	Melnraksts
 	Draw	Zīmēt
 	Drop Shadow	Krītoša ēna
@@ -410,6 +419,7 @@ theme	Appearance	Izskats
 	Error	Kļūda
 	Even Fields	Pāra lauki
 	Even pages only	Tikai pāra lapas
+	Every plug-in is up to date.	Visi spraudņi ir atjaunināti.
 	Exact	Precīzi
 	Example: {sample}	Piemērs: {sample}
 	Exclusion	Izslēgšana
@@ -482,6 +492,7 @@ theme	Appearance	Izskats
 	French	Franču
 	Frequency	Frekvence
 	From	No
+	From File…	No faila…
 	Frosted	Apsarmojis
 	Full	Pilns
 	Full Screen	Pilnekrāns
@@ -498,6 +509,7 @@ theme	Appearance	Izskats
 	Geometry	Ģeometrija
 	German	Vācu
 	GitHub	GitHub
+	GitHub repository	GitHub repozitorijs
 	Glass	Stikls
 	Global	Globāls
 	Glow	Spīdums
@@ -581,8 +593,12 @@ theme	Appearance	Izskats
 	Insert	Ievietot
 	Inside	Iekšpusē
 	Inspect Document	Pārbaudīt dokumentu
+	Install	Instalēt
+	Install from File…	Instalēt no faila…
 	Install Plug-in	Instalēt spraudni
 	Install Plug-in…	Instalēt spraudni…
+	Installed {name}.	Instalēts: {name}.
+	Install…	Instalēt…
 	Intensity	Intensitāte
 	Interface	Saskarne
 	Interface Language	Saskarnes valoda
@@ -595,6 +611,7 @@ theme	Appearance	Izskats
 	Invert	Invertēt
 	Invert Mask	Invertēt masku
 	Isolate	Izolēt
+	It is kept for this session only.	Tas tiek saglabāts tikai šai sesijai.
 	Italian	Itāliešu
 	Italic	Slīpraksts
 	Japanese	Japāņu
@@ -694,6 +711,7 @@ theme	Appearance	Izskats
 	Magenta	Fuksīns
 	Magic Wand Tool	Burvju nūjiņas rīks
 	Magnification	Palielinājums
+	Manage Plug-ins…	Pārvaldīt spraudņus…
 	Margins	Piemales
 	Mask	Maska
 	Masks	Maskas
@@ -780,6 +798,7 @@ theme	Appearance	Izskats
 	No limit	Bez ierobežojuma
 	No matches.	Nav atbilstību.
 	No matching commands	Nav atbilstošu komandu
+	No plug-ins installed.	Nav instalētu spraudņu.
 	No recent files	Nav nesenu failu
 	No results	Nav rezultātu
 	No Selection	Nav atlases
@@ -868,6 +887,7 @@ theme	Appearance	Izskats
 	Pixelate	Pikselizēt
 	Pixels	Pikseļi
 	Play	Atskaņot
+	Plug-in Catalogs	Spraudņu katalogi
 	Plug-ins	Spraudņi
 	Point	Punkts
 	Pointillize	Puantilisms
@@ -955,6 +975,7 @@ theme	Appearance	Izskats
 	Remove	Noņemt
 	Remove Background	Noņemt fonu
 	Remove from favorites	Noņemt no izlases
+	Remove Plug-in	Noņemt spraudni
 	Rename	Pārdēvēt
 	Rename Group…	Pārdēvēt grupu…
 	Rename Style	Pārdēvēt stilu
@@ -962,6 +983,7 @@ theme	Appearance	Izskats
 	Repeat	Atkārtot
 	Replace	Aizstāt
 	Replace:	Aizstāt:
+	Replaces version {version}.	Aizstāj versiju {version}.
 	Reply	Atbildēt
 	Report	Pārskats
 	Report an Issue…	Ziņot par problēmu…
@@ -981,6 +1003,7 @@ theme	Appearance	Izskats
 	Reverse the order	Apgriezt secību
 	Revert	Atgriezt
 	Review	Pārskatīšana
+	Review…	Pārskatīt…
 	RGB	RGB
 	RGB Color	RGB krāsa
 	RGB:	RGB:
@@ -998,6 +1021,8 @@ theme	Appearance	Izskats
 	Ruler	Lineāls
 	Rulers	Lineāli
 	Rulers & Grids	Lineāli un režģi
+	Run	Palaist
+	Run Plug-in	Palaist spraudni
 	Russian	Krievu
 	Sample Size	Parauga izmērs
 	Sandstone	Smilšakmens
@@ -1168,10 +1193,13 @@ theme	Appearance	Izskats
 	Text color	Teksta krāsa
 	Text:	Teksts:
 	Texture	Tekstūra
+	The download stopped.	Lejupielāde apstājās.
 	The passwords don't match.	Paroles nesakrīt.
 	Theme	Motīvs
 	Thickness	Biezums
 	This document has no bookmarks.	Šajā dokumentā nav grāmatzīmju.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Šis spraudnis nav nevienā jūsu izmantotajā katalogā: instalējiet to tikai tad, ja uzticaties tā autoram.
+	This version asks for different permissions.	Šī versija prasa citas atļaujas.
 	Threshold	Slieksnis
 	Thumbnails	Sīktēli
 	Tile	Plāksnīte
@@ -1225,7 +1253,10 @@ theme	Appearance	Izskats
 	Untitled	Bez nosaukuma
 	Up	Uz augšu
 	Update	Atjaunināt
+	Update Plug-ins	Atjaunināt spraudņus
+	Update to {version}	Atjaunināt uz {version}
 	Updates	Atjauninājumi
+	Update…	Atjaunināt…
 	UPPERCASE	LIELIE BURTI
 	Use Default	Izmantot noklusējumu
 	User	Lietotājs

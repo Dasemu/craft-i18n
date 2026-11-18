@@ -22,13 +22,16 @@
 	Absolute	Absolut
 	Absolute Colorimetric	Absolut kolorimetrisk
 	Accented Edges	Accenterede kanter
+	Access	Adgang
 	Accurate	Nøjagtig
 	Actions	Handlinger
 	Activate Panel	Aktivér panel
 	Actual Size	Faktisk størrelse
 	Adaptive	Adaptiv
 	Add	Foren
+	Add Catalog	Tilføj katalog
 	Add Guide	Tilføj hjælpelinje
+	Add Plug-in Catalog	Tilføj plug-in-katalog
 	Add to Swatches	Føj til farveprøver
 	Advanced	Avanceret
 	Align	Justér
@@ -50,6 +53,7 @@
 	Angular	Vinklet
 	Anti-Alias	Antialias
 	Anti-alias	Antialias
+	Any command its access allows	Alle kommandoer, som dets adgang tillader
 	Appearance	Udseende
 theme	Appearance	Udseende
 	Apply	Anvend
@@ -108,13 +112,16 @@ theme	Appearance	Udseende
 	Bring Forward	Flyt fremad
 	Bring to Front	Anbring forrest
 	Brown	Brun
+	Browse Catalogs	Gennemse kataloger
 	Brush Strokes	Penselstrøg
 	Brushes	Pensler
 	Bullet	Kugletegn
 	Burlap	Sækkevæv
+	By {author}	Af {author}
 	Cancel	Annullér
 	Canvas	Lærred
 	Cascade	Kaskade
+	Catalogs	Kataloger
 	Cell Size	Cellestørrelse
 	Center	Midt
 	Centimeters	Centimeter
@@ -161,6 +168,7 @@ theme	Appearance	Udseende
 	Colors:	Farver:
 	Columns:	Kolonner:
 	Command	Kommando
+	Commands	Kommandoer
 	Commits	Commits
 	Community	Fællesskab
 	Company	Firma
@@ -245,6 +253,7 @@ theme	Appearance	Udseende
 	Dots	Prikker
 	Double-click	Dobbeltklik
 	Download	Download
+	Downloading…	Henter…
 	Draft	Udkast
 	Draw	Tegn
 	Drop Shadow	Slagskygge
@@ -281,6 +290,7 @@ theme	Appearance	Udseende
 	Eraser Tool	Viskelæderværktøj
 	Error	Fejl
 	Even Fields	Lige felter
+	Every plug-in is up to date.	Alle plug-ins er opdaterede.
 	Exact	Eksakt
 	Exclusion	Udelukkelse
 	Exit	Afslut
@@ -327,6 +337,7 @@ theme	Appearance	Udseende
 	Free Transform	Fri transformering
 	French	Fransk
 	Frequency	Frekvens
+	From File…	Fra fil…
 	Frosted	Frostet
 	Full Screen Mode	Fuldskærmstilstand
 	Gamma	Gamma
@@ -335,6 +346,7 @@ theme	Appearance	Udseende
 	Gaussian Blur…	Gaussisk sløring…
 	General	Generelt
 	German	Tysk
+	GitHub repository	GitHub-repository
 	Glass	Glas
 	Global	Global
 	Glyphs	Glyffer
@@ -398,8 +410,12 @@ theme	Appearance	Udseende
 	Insert	Indsæt
 	Inside	Indvendig
 	Inspect Document	Inspicér dokument
+	Install	Installér
+	Install from File…	Installér fra fil…
 	Install Plug-in	Installér plug-in
 	Install Plug-in…	Installér plug-in…
+	Installed {name}.	{name} er installeret.
+	Install…	Installér…
 	Intensity	Intensitet
 	Interface Language	Grænsefladesprog
 	Interlaced	Interlaceret
@@ -408,6 +424,7 @@ theme	Appearance	Udseende
 	Invert	Invertér
 	Invert Mask	Invertér maske
 	Isolate	Isolér
+	It is kept for this session only.	Det gemmes kun i denne session.
 	Italian	Italiensk
 	Italic	Kursiv
 	Japanese	Japansk
@@ -479,6 +496,7 @@ theme	Appearance	Udseende
 	Luminosity	Luminans
 	Magenta	Magenta
 	Magic Wand Tool	Tryllestavsværktøj
+	Manage Plug-ins…	Administrer plug-ins…
 	Mask	Maskér
 	Matte	Mat
 	Maximize	Maksimér
@@ -543,6 +561,7 @@ theme	Appearance	Udseende
 	No document	Intet dokument
 	No document open	Intet åbent dokument
 	No matches.	Ingen match.
+	No plug-ins installed.	Ingen plug-ins installeret.
 	No results	Ingen resultater
 	No Selection	Ingen markering
 	No selection	Ingen markering
@@ -610,6 +629,7 @@ theme	Appearance	Udseende
 	Pixel	Pixel
 	Pixelate	Pixelering
 	Pixels	Pixels
+	Plug-in Catalogs	Plug-in-kataloger
 	Plug-ins	Plug-ins
 	Pointillize	Pointillisme
 	Pointillize…	Pointillér…
@@ -672,11 +692,13 @@ theme	Appearance	Udseende
 	Relative Colorimetric	Relativ kolorimetrisk
 	Relief	Relief
 	Remove	Fjern
+	Remove Plug-in	Fjern plug-in
 	Rename	Omdøb
 	Rename Group…	Omdøb gruppe…
 	Rename Style	Omdøb typografi
 	Repeat	Gentag
 	Replace	Erstat
+	Replaces version {version}.	Erstatter version {version}.
 	Reselect	Genmarkér
 	Reset	Nulstil
 	Reset Preferences	Nulstil indstillinger
@@ -686,6 +708,7 @@ theme	Appearance	Udseende
 	Restore	Gendan
 	Reverse the order	Omvend rækkefølgen
 	Revert	Gendan
+	Review…	Gennemse…
 	RGB	RGB
 	RGB Color	RGB-farve
 	RGB:	RGB:
@@ -699,6 +722,8 @@ theme	Appearance	Udseende
 	Roundness:	Rundhed:
 	Rulers	Linealer
 	Rulers & Grids	Linealer og gitre
+	Run	Kør
+	Run Plug-in	Kør plug-in
 	Sandstone	Sandsten
 	Saturation	Mætning
 	Save	Gem
@@ -832,6 +857,9 @@ theme	Appearance	Udseende
 	Text	Tekst
 	Text:	Tekst:
 	Texture	Tekstur
+	The download stopped.	Overførslen stoppede.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Dette plug-in findes ikke i nogen af de kataloger, du bruger: installér det kun, hvis du stoler på dets ophavsperson.
+	This version asks for different permissions.	Denne version beder om andre tilladelser.
 	Threshold	Tærskel
 	Tile	Fliselæg
 	Tile Size	Flisestørrelse
@@ -868,6 +896,9 @@ theme	Appearance	Udseende
 	Unlock	Lås op
 	Unsharp Mask	Uskarp maskering
 	Untitled	Uden navn
+	Update Plug-ins	Opdater plug-ins
+	Update to {version}	Opdater til {version}
+	Update…	Opdater…
 	UPPERCASE	STORE BOGSTAVER
 	Use Default	Brug standard
 	Username	Brugernavn

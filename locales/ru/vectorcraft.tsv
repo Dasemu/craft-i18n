@@ -2734,7 +2734,6 @@ gradient-kind	Radial	Радиальный
 	Remove Guide	Убрать направляющую
 	Remove Item	Убрать элемент
 	Remove JavaScript File	Убрать файл JavaScript
-	Remove Plug-in	Убрать модуль
 	Remove Selected Assets	Убрать выбранные ресурсы
 	Remove Selected Entry	Убрать выбранную запись
 	Remove Threading	Убрать связывание
@@ -2876,7 +2875,6 @@ diagnostics	render	отрисовка
 	Rows:	Строки:
 	Rule:	Линейка:
 	Ruler Origin	Начало координат линеек
-	Run Plug-in	Запустить модуль
 	Runs code the checker can't read	Выполняет код, который проверка не может прочитать
 	Same	То же
 	Same As Source	Как в источнике

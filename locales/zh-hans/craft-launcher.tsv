@@ -77,7 +77,6 @@ month	Dec	12月
 	Download paused	下载已暂停
 	Downloading	正在下载
 	Downloading {done} of {total}	正在下载 {done} / {total}
-	Downloading…	正在下载…
 	Downloads for {platform}	下载平台：{platform}
 	Downloads the new version, replaces this one and opens it again	下载新版本，替换当前版本并重新打开
 	Enlarge picture	放大图片
@@ -91,7 +90,6 @@ month	Feb	2月
 	Flatpak bundle	Flatpak 包
 	Full changelog	完整更新日志
 	GitHub limit hit; back in {min} min	已达 GitHub 限额；{min} 分钟后恢复
-	GitHub repository	GitHub 仓库
 	GitHub's hourly limit was reached; full details return in {min} min	已达到 GitHub 每小时请求上限；{min} 分钟后可获取完整信息
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -100,7 +98,6 @@ month	Feb	2月
 	Hide App	隐藏应用
 photocraft	Image editing	图像编辑
 	Include pre-releases (betas and release candidates)	包含预发布版本（测试版和候选版）
-	Install	安装
 	Install cancelled	安装已取消
 	Install cancelled. The download is kept for the next try.	安装已取消。已下载的文件会保留，供下次使用。
 	Install folder	安装文件夹

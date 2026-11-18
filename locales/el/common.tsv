@@ -24,6 +24,7 @@
 	Absolute	Απόλυτο
 	Absolute Colorimetric	Απόλυτη χρωματομετρική απόδοση
 	Accented Edges	Τονισμένες ακμές
+	Access	Πρόσβαση
 	Accessibility	Προσβασιμότητα
 	Accurate	Ακριβές
 	Actions	Ενέργειες
@@ -33,7 +34,9 @@
 	Adaptive	Προσαρμοστικό
 	Add	Προσθήκη
 	Add a comment	Προσθήκη σχολίου
+	Add Catalog	Προσθήκη καταλόγου
 	Add Guide	Προσθήκη οδηγού
+	Add Plug-in Catalog	Προσθήκη καταλόγου προσθέτων
 	Add to Dictionary	Προσθήκη στο λεξικό
 	Add to favorites	Προσθήκη στα αγαπημένα
 	Add to Swatches	Προσθήκη στα δείγματα χρωμάτων
@@ -63,6 +66,7 @@
 	Anti-Alias	Εξομάλυνση ακμών
 	Anti-alias	Εξομάλυνση ακμών
 	Any	Οποιαδήποτε
+	Any command its access allows	Οποιαδήποτε εντολή επιτρέπει η πρόσβασή του
 	Appearance	Εμφάνιση
 theme	Appearance	Εμφάνιση
 	Appearance Settings…	Ρυθμίσεις εμφάνισης…
@@ -139,6 +143,7 @@ theme	Appearance	Εμφάνιση
 	Bring to Front	Μεταφορά στο προσκήνιο
 	Brown	Καφέ
 	Browse	Περιήγηση
+	Browse Catalogs	Περιήγηση στους καταλόγους
 	Browse…	Περιήγηση…
 	Brush Size	Μέγεθος πινέλου
 	Brush Strokes	Πινελιές
@@ -146,11 +151,13 @@ theme	Appearance	Εμφάνιση
 	Bulge	Κυρτότητα
 	Bullet	Κουκκίδα
 	Burlap	Λινάτσα
+	By {author}	Από {author}
 	Calculate	Υπολογισμός
 	Cancel	Ακύρωση
 	Canvas	Καμβάς
 	Caption	Λεζάντα
 	Cascade	Διαδοχική διάταξη
+	Catalogs	Κατάλογοι
 	Category	Κατηγορία
 	Category:	Κατηγορία:
 	Cell Size	Μέγεθος κελιού
@@ -218,6 +225,7 @@ theme	Appearance	Εμφάνιση
 	Columns:	Στήλες:
 	Combine	Συνένωση
 	Command	Εντολή
+	Commands	Εντολές
 	Comments	Σχόλια
 	Commits	Καταχωρίσεις
 	Community	Κοινότητα
@@ -338,6 +346,7 @@ theme	Appearance	Εμφάνιση
 	Double-click	Διπλό κλικ
 	Down	Κάτω
 	Download	Λήψη
+	Downloading…	Λήψη…
 	Draft	Πρόχειρη
 	Draw	Σχεδίαση
 	Drop Shadow	Εξωτερική σκιά
@@ -388,6 +397,7 @@ theme	Appearance	Εμφάνιση
 	Error	Σφάλμα
 	Even Fields	Άρτια πεδία
 	Even pages only	Μόνο ζυγές σελίδες
+	Every plug-in is up to date.	Όλα τα πρόσθετα είναι ενημερωμένα.
 	Exact	Ακριβές
 	Example: {sample}	Παράδειγμα: {sample}
 	Exclusion	Αποκλεισμός
@@ -456,6 +466,7 @@ theme	Appearance	Εμφάνιση
 	French	Γαλλικά
 	Frequency	Συχνότητα
 	From	Από
+	From File…	Από αρχείο…
 	Frosted	Παγωμένο
 	Full	Πλήρης
 	Full Screen	Πλήρης οθόνη
@@ -471,6 +482,7 @@ theme	Appearance	Εμφάνιση
 	Generate	Δημιουργία
 	German	Γερμανικά
 	GitHub	GitHub
+	GitHub repository	Αποθετήριο GitHub
 	Glass	Γυαλί
 	Global	Καθολικό
 	Glow	Λάμψη
@@ -554,8 +566,12 @@ theme	Appearance	Εμφάνιση
 	Insert	Εισαγωγή
 	Inside	Εσωτερικά
 	Inspect Document	Επιθεώρηση εγγράφου
+	Install	Εγκατάσταση
+	Install from File…	Εγκατάσταση από αρχείο…
 	Install Plug-in	Εγκατάσταση προσθέτου
 	Install Plug-in…	Εγκατάσταση προσθέτου…
+	Installed {name}.	Εγκαταστάθηκε: {name}.
+	Install…	Εγκατάσταση…
 	Intensity	Ένταση
 	Interface	Περιβάλλον
 	Interface Language	Γλώσσα διεπαφής
@@ -567,6 +583,7 @@ theme	Appearance	Εμφάνιση
 	Invert	Αντιστροφή
 	Invert Mask	Αντιστροφή μάσκας
 	Isolate	Απομόνωση
+	It is kept for this session only.	Διατηρείται μόνο για αυτήν την περίοδο λειτουργίας.
 	Italian	Ιταλικά
 	Italic	Πλάγια
 	Japanese	Ιαπωνικά
@@ -662,6 +679,7 @@ theme	Appearance	Εμφάνιση
 	Magenta	Ματζέντα
 	Magic Wand Tool	Μαγικό ραβδί (Magic Wand Tool)
 	Magnification	Μεγέθυνση
+	Manage Plug-ins…	Διαχείριση προσθέτων…
 	Margins	Περιθώρια
 	Mask	Μάσκα
 	Masks	Μάσκες
@@ -745,6 +763,7 @@ theme	Appearance	Εμφάνιση
 	No limit	Χωρίς όριο
 	No matches.	Δεν βρέθηκαν αντιστοιχίσεις.
 	No matching commands	Δεν βρέθηκαν αντίστοιχες εντολές
+	No plug-ins installed.	Δεν υπάρχουν εγκατεστημένα πρόσθετα.
 	No recent files	Δεν υπάρχουν πρόσφατα αρχεία
 	No results	Δεν βρέθηκαν αποτελέσματα
 	No Selection	Χωρίς επιλογή
@@ -830,6 +849,7 @@ theme	Appearance	Εμφάνιση
 	Pixelate	Εικονοστοιχείωση
 	Pixels	Εικονοστοιχεία
 	Play	Αναπαραγωγή
+	Plug-in Catalogs	Κατάλογοι προσθέτων
 	Plug-ins	Πρόσθετα
 	Point	Σημείο
 	Pointillize	Πουαντιγισμός
@@ -913,12 +933,14 @@ theme	Appearance	Εμφάνιση
 	Remove	Αφαίρεση
 	Remove Background	Αφαίρεση φόντου
 	Remove from favorites	Αφαίρεση από τα αγαπημένα
+	Remove Plug-in	Αφαίρεση προσθέτου
 	Rename	Μετονομασία
 	Rename Group…	Μετονομασία ομάδας…
 	Rename Style	Μετονομασία στυλ
 	Rename…	Μετονομασία…
 	Repeat	Επανάληψη
 	Replace	Αντικατάσταση
+	Replaces version {version}.	Αντικαθιστά την έκδοση {version}.
 	Reply	Απάντηση
 	Report	Αναφορά
 	Report an Issue…	Αναφορά προβλήματος…
@@ -937,6 +959,7 @@ theme	Appearance	Εμφάνιση
 	Reverse the order	Αντιστροφή σειράς
 	Revert	Επαναφορά αποθηκευμένης έκδοσης
 	Review	Ανασκόπηση
+	Review…	Έλεγχος…
 	RGB	RGB
 	RGB Color	Χρώμα RGB
 	RGB:	RGB:
@@ -954,6 +977,8 @@ theme	Appearance	Εμφάνιση
 	Ruler	Χάρακας
 	Rulers	Χάρακες
 	Rulers & Grids	Χάρακες και πλέγματα
+	Run	Εκτέλεση
+	Run Plug-in	Εκτέλεση προσθέτου
 	Sample Size	Μέγεθος δείγματος
 	Sandstone	Ψαμμίτης
 	Saturation	Κορεσμός
@@ -1118,10 +1143,13 @@ theme	Appearance	Εμφάνιση
 	Text color	Χρώμα κειμένου
 	Text:	Κείμενο:
 	Texture	Υφή
+	The download stopped.	Η λήψη σταμάτησε.
 	The passwords don't match.	Οι κωδικοί πρόσβασης δεν ταιριάζουν.
 	Theme	Θέμα
 	Thickness	Πάχος
 	This document has no bookmarks.	Αυτό το έγγραφο δεν έχει σελιδοδείκτες.
+	This plug-in isn't in any catalog you use: install it only if you trust its author.	Αυτό το πρόσθετο δεν υπάρχει σε κανέναν κατάλογο που χρησιμοποιείτε: εγκαταστήστε το μόνο αν εμπιστεύεστε τον δημιουργό του.
+	This version asks for different permissions.	Αυτή η έκδοση ζητά διαφορετικά δικαιώματα.
 	Threshold	Κατώφλι
 	Thumbnails	Μικρογραφίες
 	Tile	Παράθεση
@@ -1173,7 +1201,10 @@ theme	Appearance	Εμφάνιση
 	Untitled	Χωρίς τίτλο
 	Up	Πάνω
 	Update	Ενημέρωση
+	Update Plug-ins	Ενημέρωση προσθέτων
+	Update to {version}	Ενημέρωση σε {version}
 	Updates	Ενημερώσεις
+	Update…	Ενημέρωση…
 	UPPERCASE	ΚΕΦΑΛΑΙΑ
 	Use Default	Χρήση προεπιλογής
 	Username	Όνομα χρήστη

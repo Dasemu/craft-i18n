@@ -77,7 +77,6 @@ month	Dec	12月
 	Download paused	ダウンロードを一時停止
 	Downloading	ダウンロード中
 	Downloading {done} of {total}	ダウンロード中 {done} / {total}
-	Downloading…	ダウンロード中…
 	Downloads for {platform}	{platform} 用のダウンロード
 	Downloads the new version, replaces this one and opens it again	新しいバージョンをダウンロードし、現在のバージョンと置き換えて再び開きます
 	Enlarge picture	画像を拡大
@@ -91,7 +90,6 @@ month	Feb	2月
 	Flatpak bundle	Flatpak バンドル
 	Full changelog	完全な変更履歴
 	GitHub limit hit; back in {min} min	GitHub の上限に達しました。{min} 分後に復旧します
-	GitHub repository	GitHub リポジトリ
 	GitHub's hourly limit was reached; full details return in {min} min	GitHub の時間あたりの上限に達しました。{min} 分後に詳細が表示されます
 @id	help.discord	Discord
 @id	help.github	GitHub
@@ -101,7 +99,6 @@ month	Feb	2月
 photocraft	Image editing	画像編集
 	Include pre-releases (betas and release candidates)	プレリリース（ベータ版とリリース候補）を含める
 	Inspired by	参考アプリ
-	Install	インストール
 	Install cancelled	インストールをキャンセルしました
 	Install cancelled. The download is kept for the next try.	インストールをキャンセルしました。ダウンロードしたファイルは次回のために保持されます。
 	Install folder	インストール先フォルダー
